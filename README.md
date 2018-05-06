@@ -83,10 +83,12 @@ Once finish classifying by categories, sentences were tagged by sub-categories w
 ![example][sentence_example]
 
 ## Results and Visualization
-PCA
+Apply PCA to visualize paragragh vectors of words of each sentence selected by TF-IDF model.
+
 ![PCA][DOC_PCA]
 
-RBM
+Apply Bernoulli Restricted Boltzmann Machine to visualize paragrah vectors of words of each sentence selected by TF-IDF model.
+
 ![RBM][DOC_RBM]
 ## License
 MarkdownEditing is released under the [MIT License][opensource].

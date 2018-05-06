@@ -61,7 +61,8 @@ Similarity matrix of all sentences were generated according to their degree of r
 ## Category Modeling
 ### Category Definition
 Before we could train our model, we should make sure the categories can be defined correctly, since our task is to predict the categories (labels). The exact definition of each categories (including the sub-categories) can be found from Global Cybersecurity Index & Cyberwellness Profiles :
->https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-SECU-2015-PDF-E.pdf
+> https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-SECU-2015-PDF-E.pdf  
+
 The category definitions of all 192 countries can be found in this book. Also, we collected more definitions from some papers and reports. 
 ### Labeled category
 Each category including sub-category was labeled with some specific definition. Then, the labeled file was saved to do the vectorization. 

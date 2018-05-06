@@ -83,10 +83,16 @@ Once finish classifying by categories, sentences were tagged by sub-categories w
 ![example][sentence_example]
 
 ## Results and Visualization
-
+PCA
+![PCA][DOC_PCA]
+RBM
+![RBM][DOC_RBM]
 ## License
 MarkdownEditing is released under the [MIT License][opensource].
 
 [sentence_example]: https://github.com/AFinalExam/UN-Cybersecurity-Fordham-Core-Team/blob/master/4%20Pictures/Result%20Sample.jpg
 [opensource]: http://www.opensource.org/licenses/MIT
 [LDA]: https://github.com/AFinalExam/UN-Cybersecurity-Fordham-Core-Team/blob/master/4%20Pictures/Topics.png
+[DOC_PCA]: https://github.com/Clark934/UN-Cybersecurity-Fordham-Core-Team/blob/master/4%20Pictures/DOC2VEC_PCA.png
+[DOC_RBM]: https://github.com/Clark934/UN-Cybersecurity-Fordham-Core-Team/blob/master/4%20Pictures/DOC2VEC_RBM.png
+

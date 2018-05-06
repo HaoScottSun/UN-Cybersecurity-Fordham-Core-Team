@@ -1,0 +1,2790 @@
+f? m»
+m
+.\ w
+
+Presidency of the Council of Ministers
+
+NATIONAL STRATEGIC FRAMEWORK
+FOR CYBERSPACE SECURITY
+
+E?
+
+Presidency of the Council of Ministers
+
+NATIONAL STRATEGIC FRAMEWORK
+FOR CYBERSPACE SECURITY
+
+ 
+
+December 2013
+
+INDEX
+
+Foreword ......................................................................................... 5
+Executive Summary .................................................................................. 9
+
+Chapter1 vThe Nature and the Evolving Trends ofthe CyberThreat
+and ofthe Vulnerabilities ofthe National ICF Infrastructures ....................... 11
+
+Chapter 2 —Tools and Procedures to Strengthen National Cyber
+
+Defence Capability ................................................................................. 19
+Annex1 — Public Stakeholders’ Roles and Mandates ................................ 27
+Annex 2 — Glossary ofcybersecurity .............................................. 40
+
+F OREWORD
+
+The advent of the Internet marks our time. Cyberspace has increasingly become the domain
+through which the citizen’sfandamental liberties of information, expression and association are
+fulﬁlled, the transparency of public policies is pursued and the efﬁciency of public administrations is
+stimulated, growth and innovation are attained. In this global virtual arena) billions ofconnections
+are set everyday across geographical borders) knowledge is shared) and the world as we know it is
+redesigned at an unprecedented speed.
+
+The securig/ and the prosperity of any Country increasingly) depend on the protection of the I CT
+networks that hast this evergrowing wealth ofknowledge and connections, and it is therefore more
+and more compelling to ensure in cyberspace the respect of the rights and duties already preserved
+in the civil society) in the economicfahric of the society) and in the International Community.
+The digital arena is not a space outside of the lam and it is our duty to guarantee that also in
+this domain the democratic principles anal values in which we believe are uphold and the norms
+preserving individual libertieg equality andﬁeea’om are saﬁgaarded. Likewise, it is only in an
+environment 0ftmst and mutual respect that it will be possible to fully reap the opportunities of
+growth oﬁrered by digital platforms, and to secure the development of an open, safe and reliable
+cyberspacefor the heneﬁ t of our ﬁnancial system, our companies and our consumers.
+
+The ever—increasing reliance ofmodern societies on cyberspace implies that the harm occurring
+in case of a disruption of the ICT inﬂastmctnre or in the event ofattacles carried out throughout
+the ICT networks could he dreadful at the least. Threats can stem ﬁom any point of the world
+wide web, and they often hit the weakest links) such as the most vulnerable individuals and the
+least protected computer systems and ICT networks. Appalling crimes are carried out through
+the world wide web) such as the exchange ofchild pornography) and online thefts andﬁ'ands can
+severely damage individual wealth and valuables) hampering the necessary le1/el 0ftmst within
+the digital community. Cybercrime is a plague that can cause the bankruptcy of ﬁrms and the
+theft of their intellectual property, crippling the wealth of an entire nation. We assist with growing
+concern to an increasingly insidious threat that exploits I CT vulnerabilities to stealthily steal the
+results ofonr research and development efforts in the ﬁeld of new technologies and products. For
+
+a conntiy like Italy, which places innovation at the cornerstone of its growth and competitiveness,
+National strategic framework for cyberspace security
+
+the potential harm is inealenlahle. Given the growing degree ofsophistieation ofcyher attacks
+and the ever—increasing dependency afowr inﬂastmctares on ICT networks, our very national
+stahility and security are at risk. It is therefore essential to enmre the ﬁnest possible protection of
+our critical I C Tassets from attack: that can potentially have devastating eﬁ‘ects) as it would he the
+ease in the event of cyher attack: impeding or mhverting the correctﬁwnctioning of the national
+transport system or of energy grids) or even ofoar military Command and Control centers. It is
+therefore necessaiy to develop and uphold an innovative defence posture, one that is ahle to engage
+the private sector and leverage its skills in the protection of the critical I CT that the latter owns and
+operates, and that factors the cyher dimension offntnre conﬂicts in its strategic doctrine and in the
+capahility planningproeess.
+
+Networks interdependence, the intrinsic asymmetry of the cyher threat, and the pereasiveness
+ofcyherspace in all aspects of everyday life are all features that call for a holistic approach and
+the synergic eﬂrorts of all involved stakeholders if we are to ensure an adequate level ofsecmity
+in cyherspaee. The ultimate ohjectiues must he to strengthen our collective ahility t0 preempt an
+attack, to detect it while it happens, to react to it, to mitigate its effects, to attribute its origin, and
+to rapidly restore the originalfnnctionality, while at the same time retaining the lessons learned
+ﬂom the case.
+
+At the international level) Italy isﬁwlly engaged in multilateral institutions, ﬁrst of all within
+the E U and NATO, as well as with all 0w hilateral partners, to promote the endorsement and
+respect of a set ofrnles of behavior in the digital arena that is consistent with our values, and to
+facilitate the emergence of a shared approach to eyherspace governance, so that the International
+Community as a whole can effectively cope with the challenges laying ahead. At the domestic level,
+it is ofoatmost importance the promotion of a well»caordinated and multidimensional approach
+in order to prouidefor the convergence ofall Pnhlic Administrations efforts toward the achievement
+afohjectiues that are matnally reinforcing with those of the private sector and the academia.
+
+In the current ﬁnancial and economic tightening, we cannot allow for any duplication of
+eﬁ‘orts and we must therefore seek any possihle synergy) keeping in mind that the hndget allocation
+that will he necessany constitute not only a net saving ifcompared with the possihle damage cyher
+Foreword
+
+attacks can entail but also an extraordinary opportunity of cultural social and economicgrowth.
+In line with what is setforth in the Prime Minister’s Decree of the 24th January 2013, the
+present National Cyhersemrity Strategic Framework highlights the nature and the evolving trends
+of the cyber threat as well as of the vulnerabilities to the national I CT networks) it outlines roles
+and tasks ofpuhlic and private stakeholders involved in cyhersemrity) and identiﬁes tools and
+procedures to enhance the country’s preparedness to conﬂont head—on the new challengesposed by
+cyberspace. The attached National Plan identiﬁes a limited set of priorities, and provides speciﬁc
+objectives andgmdelines in order to give concrete implementation to the Strategic Framework.
+With these two documents Italy sets out a strategy around which to coordinate all efforts, :0
+that we com ﬁtce with conﬁdence the security threats and challenges stemming from cyberspace,
+
+andpwme our national interest where the wealth of nations will more and more prosper.
+
+EXECUTIVE SUMMARY
+
+Following the adoption of the Prime
+Minister’s “Decree Containing Strategic
+Cyber
+Protection and ICF Security” of the
+
+Guidelines For the National
+24th January 2013, the Cybersecurity
+Working Group was established on the
+3rd of April 2013 under the auspices of
+the Committee For the Security of the
+Republic, chaired by the Department
+for Intelligence and Security (DIS), and
+developed this National Cybersecurity
+Strategic Framework.
+
+The Cybersecurity Working Group
+saw the active participation of all the
+Administrations already represented in
+the Committee For the Security of the
+Republic (Ministries of Foreign Affairs,
+Interior, Defence, Justice, Economy
+and Finance, Economic Development),
+and included the Agency in charge For
+the Italian Digital Agenda as well as
+the Cybersecurity Unit within the Prime
+Minister’s Ofﬁce.
+
+The pointofdeparture oFthis National
+Cybersecurity Strategic Framework is
+an assessment of today’s cyber threat.
+The growing importance of services
+
+provided through cyberspace in everyday
+
+life — From simple online payments to
+the management of strategic and critical
+national infrastructures — implies that also
+the cyber threat is becoming more and
+more pervasive and subtle, and yet it is still
+widely unnoticed and underestimated. In
+the ﬁrst chapter, ”The Nature and the
+Evolving Trends of the Cyber Threat and
+ofthe Vulnerabilities oFthe National ICT
+Infrastructures", the major cyber threats
+and their actors will be acknowledged —
+from cybercrime to cyber espionage and
+cyber terrorism, From hacktivism to cyber
+sabotage, concluding with cyber warfare
+— and a brief taxonomy of the cyber
+organizational, procedural and technical
+vulnerabilities will be proposed.
+Cyberspace is a man-made domain
+essentially composed of ICF nodes and
+networks, hosting and processing an
+ever-increasing wealth ofdata of strategic
+importance for States, ﬁrms, and citizens
+alike, and For all political, social and
+economic decision-makers. The second
+chapter, “Tools and Procedures to
+Strengthen the National Cyber Defence
+identiﬁes six
+
+Capabilities”, strategic
+
+guidelines around which to converge,
+National strategic framework for cyberspace security
+
+with a holistic, coherent and synergic
+approach, all national efforts, so as to
+enhance the country’s preparedness,
+resilience and reaction capabilities. These
+guidelines include: the enhancement of
+the technical, operational and analytic
+expertise of all institutions concerned
+with the
+
+cybersecurity; strengthening
+
+of the cyber protection of ICI— networks
+
+10
+
+ 
+
+and computer systems supporting our
+critical and strategic infrastructure; the
+Facilitation onublic-private partnerships;
+the promotion of a Culture of Security
+and of cyber hygiene; the improvement
+of our skills to effectively contrast online
+criminal activities; the full support to
+international cooperation initiatives in
+the ﬁeld ofcybersecurity.
+CHAPTER 1
+
+THE NATURE AND THE EVOLVING TRENDS
+OF THE CYBER THREAT AND OF THE
+VULNERABILITIES OF THE NATIONAL ICT
+
+INFRASTRUCTURES
+
+Introduction
+
+Deﬁnition
+
+With the term cyberspace we refer to the
+complex ofall interconnected ICT hardware
+and software inﬁ'astru cture, to all data stored
+in and transferred through the networks and
+all connected usersy as well as to all logical
+connections however established among
+them. It therefore encompasses the Internet
+and all communication cables, networks
+and connections that support information
+and data processing, including all mobile
+Internet devices.
+
+A complex challenge
+
+The very same nature of cyberspace
+
+the of
+
+contemporary societies brought about by
+
+and related transformation
+the digital ecosystem are accountable For
+the emergence of unprecedented cultural,
+social and political issues, which require a
+set ofcoherent, effective and in many cases
+original solutions. As the International
+Community is still very much divided with
+regard to the principles and values that
+
+apply to the cyber domain, seeking these
+
+11
+
+solutions, even in the most advanced
+countries, is not an easy task, and it requires
+a broad involvement of the private sector.
+The private sector, in fact, has a key role to
+play in coming up with possible solutions
+to cope with the new challenges and threats
+stemming From the cyberspace which For
+the most part it owns and operates. The
+private sector therefore has the interest and
+the duty to agree with the public sector on
+mutual expectations and responsibilities
+in ensuring the protection of cyberspace.
+Cyberspace has become a domain of
+strategic importance for the economic,
+social and cultural development ofnations,
+and it is hence critical to balance the right
+mix of pubic and private engagement in its
+governance and management, taking into
+account at the same time the requirements
+ofnational security and public order as well
+as the Fulﬁllment of all the individual and
+economic liberties involved.
+
+Balancing these often diverging
+objectives is a complex endeavor, if one
+considers for instance how monitoring
+the technical functionality ofnetworks is
+essential to allow the Fulﬁllment of the
+
+right to privacy and the integrity ofone’s
+National strategic framework for cyberspace security
+
+communication appliances, or also
+how it can be difﬁcult to ﬁnd the right
+balance between the right to privacy and
+the ﬁght against criminal activities such
+as child pornography, drugs smuggling,
+hate incitement or terrorism planning -
+crimes that not only hurt individual and
+social liberties, but also undermine the
+very existence of an open, democratic
+
+and free Internet.
+
+Objectives
+
+The present National Cybersecurity
+Strategic Framework and the related
+National Plan, both Foreseen by the
+Prime Minister’s “Decree Containing
+Strategic Guidelines for the National
+Cyber Protection and ICF Security” of
+the 24th January 2013, aim at enhancing
+the national preparedness to respond to
+present and future challenges affecting
+cyberspace, and are devoted to directing
+all national efforts toward common
+
+and agreed solutions, knowing that
+cybersecurity is a process rather than an
+end to itself, that technical innovations
+will always introduce new vulnerabilities
+in the strategic and operational horizon,
+and that the intrinsic nature ofthe cyber
+threats makes our defence, at least For
+the time being7 mostly — although not
+
+exclusively—reactive.
+
+The cyber threat and its actors
+
+Deﬁnition
+We deﬁne the cyber threat as the
+
+complex ofmalicious conducts that can be
+
+12
+
+exercised in and throughout cyberspace,
+or against cyberspace and its Fundamental
+elements.Thethreatiscarried out bymeans
+of cyber attacks, by which we mean more
+or less automated actions of individuals
+and organizations, both governmental
+and non-governmental, aiming at
+disrupting, damaging or impeding the
+regular Functioning of computer systems,
+ICT networks or supervisory control
+and data acquisition systems and data
+processing, or at compromising the
+authenticity, the integrity, the availability
+or the conﬁdentiality of data residing in
+those systems or transiting through the
+networks.
+
+The most sophisticated cyber attacks
+can be carried out through so called cyber-
+weapons, that is a malicious software (i.e.
+malware) designed to damage or alter
+an IT system with the aim of causing its
+
+malfunction, or even physical damage.
+
+An insidious threat
+
+A fundamental characteristic of the
+cyber threat is its asymmetric nature. The
+attacker:
+
+' May strike From anywhere in the
+world, as long as he is connected to
+the Internet;
+
+' Exploitsonesinglevulnerabilityto hack
+into very sophisticated and otherwise
+well protected computer systems;
+
+' Attacks instantaneously, allowing
+no time to mount an appropriate
+reaction;
+
+0 Can hardly be traced or even detected,
+making it extremely complex For the
+
+defender to put in place a response.
+The Nature and the Evolving Trends of the CyberThreat and of the Vulnerabilities of the National ICT Infrastructures
+
+The intrinsic nature of: the cyber
+threat, therefore, limits the scope of
+deterrence, Favors the attack over defence,
+and requires that all major stakeholders,
+both public and private, implement a
+continuous process ofanalysis so as to be
+abletoupdatetheirsecuritystandardsand
+procedures to the evolving operational
+
+and technical circumstances
+
+Classiﬁcation ofthe threat
+
+Depending on the actors involved
+and the goals pursued, it is possible to
+distinguish Four kinds ofthreats:
+
+' Cybercrime: all malicious activities
+
+with a criminal intent carried out
+in cyberspace, such as swindles or
+internet Fraud, identity theFt, stealing
+oFclata or oFintellectual property;
+Cyberespionage: improperacquisition
+of conﬁdential or classiﬁed data, not
+necessarily ofeconomic orcommercial
+
+value;
+' Cyber terrorism: ideologically
+motivated exploitations of systems’
+
+of
+
+inﬂuencing a state or an international
+
+vulnerabilities with the intent
+organization;
+
+Cyber
+
+operations carried out in the cyber
+
+warfare: activities and
+domain with the purpose of achieving
+an operational advantage of military
+
+signiﬁcance
+
+The economic impact of cybercrime
+Th e of
+
+companies’ data and personal assets
+
+ever-increasing volume
+
+information stored in cyberspace, recently
+
+encouraged by the growing resort to cloud
+
+13
+
+computing, makes cyberattack potentially
+very lucrative while being relatively risk‘ﬁ'ee
+For the attacker. It is therefore no surprise
+that the economic impact ofcybercrime is
+quite worrisome. This is especially true For
+countries like Italy, for which the theft of
+the original scientiﬁc, technological and
+companies’ know-how is a direct damage
+to their existing comparative advantage,
+undermining their competitiveness in the
+global markets.
+
+Computer crime is a growing concern
+also because its illicit proﬁts are often
+re-invested in the search of new system’s
+vulnerabilities and in the development of
+more sophisticated7 efﬁcient and easy-
+to-use offensive capabilities, making
+cybercrimeathreat onrimaryimportance
+for the stability, the prosperity and the
+
+security oFthe country.
+
+The computer crime market
+
+The computercrime market represents
+therefore a very palatable and proﬁtable
+sector For autonomous hackers and For
+criminal organizations alike. They both
+bolster a black market in which it is
+possible to trade illegal contents (such as
+drugs, child pornography or copyrighted
+material) and to sell ready-to-use tooll<its
+For conducting all kind of attacks and
+exploitations to the computer systems
+of choice, either independently or
+with the technical support of criminal
+organizations. This7 in turn, multiplies
+the opportunities For Felonies against
+assets (such as swindles, blackmail,
+extortions, thefts, etc.), misappropriation
+
+of conﬁdential information and identity
+National strategic framework for cyberspace security
+
+data (with the aim, For example7 to
+demand ransoms or commit other kinds
+of violations), recycling of illicit capitals,
+gambling and illegal bets. By the same
+token, it is more and more evident the
+involvement of criminal organizations
+in cyber espionage activities, often on
+behalf of legitimate companies, with the
+objective of stealing industrial patent,
+company strategies, market researches,
+analysis and description of productive
+
+processes, etc.
+
+14
+
+ 
+
+The role aftl'ie State
+
+Even though the digital arena is a
+reality that transcends, from many points
+of view, national borders, states are
+certainly among the main stakeholders
+of cyberspace) because they have the
+ultimate responsibility For the protection
+of ICT
+
+territory, even if they are owned and
+
+infrastructures on their own
+
+operated mostly by the private sectors
+States have the human and ﬁnancial
+
+resources as well as the capability to
+
+organize and manage, overtime, complex
+The Nature and the Evolving Trends of the CyberThreat and of the Vulnerabilities of the National ICT Infrastructures
+
+organizations. As such, they are in a
+unique position to mount a robust cyber
+operational capability.
+
+Protecting the military command
+and control networks and ensuring
+their Full operational capability and
+their resilience has always been a top
+priority For any State. The advent
+of cyberspace, and its key role in
+ensuring the functioning of virtually
+every national sensitive infrastructure,
+industrial process and public services,
+has extended the mandate of the State
+to the protection of all ICT critical
+networks. In Fact, the most sophisticated
+cyber attacks may not only impair
+and paralyze the State’s most vital
+communication nodesandthe provision
+ofessential public services, but may also
+have potentially destructive effects iF
+directed against critical infrastructures
+such as, for instance, the aviation trafﬁc
+management control system or dams
+and energy installation’s supervisory
+control
+
+and management systems,
+
+resulting in great physical damages
+life.
+
+The strategic advantage implicit in the
+
+and the eventual loss of human
+possibility of inﬂicting a great loss to
+the enemy’s critical infrastructures by
+striking at great distance makes it very
+likely that future military confrontation
+will entail the Full use of cyberspace. It
+is therefore no surprise that nowadays
+virtually every nation considers it
+relevant in its Force planning to Foresee
+the requirements of a cyber defence
+capability that is adequate to protect
+
+national critical ICT infrastructures
+
+15
+
+Espionage, sabotage, warfare and supply
+chain g/ber threat
+
+The defence of cyber networks
+requires the development of an effective
+and uninterrupted capability of
+
+monitoring and analyzing all ongoing
+malicious activities. States are striving
+to ensure themselves with this expertise,
+either directly or through proxies, and
+considering in many cases also the
+
+potential advantages of developing
+aggressive tools. It is a weII-know fact that
+some States already possess the capability
+to penetrate public and private networks
+of other States, and use this capability
+For espionage and in order to map ICT
+systems that could be potential targets in
+case offuture attacks. In such a situation,
+is also highly plausible that certain States
+may consider mobilizing their national
+industry to install through the ICTsupply
+chain components that could allow For
+Future stealthy cyber exploitation of the
+end-user computer systems and ICT
+
+infrastructure.
+
+Hacktivism
+Some cyber attacks are ideologically
+
+motivated and have primarily a
+
+like
+
+the image of the target and/or causing
+
+demonstrative intent,
+
+damaging
+a temporary malfunctioning of the
+attacked ICT systems. Examples of this
+type of cyber attack are the Distributed
+Denial of Service (DDoS) attacks, that,
+through coordinated attacks originating
+From a number ofunaware and remotely
+controlled computer (botnets), cause the
+
+intentional overload of servers that host
+National strategic framework for cyberspace security
+
+speciﬁc services. Another example is the
+so-called Web Defacement, that alters
+the data oFa chosen Internet website with
+the speciﬁc goal to cause disinformation,
+defamation or simply mockery. In other
+cases, hacktivists make use of malware
+quite similar to the ones used by hackers
+and computer criminals to surreptitiously
+seize data that are owned by the
+government, or that belong to companies
+or individuals, in order to publically
+expose them, orjust to demonstrate the
+
+computer skills that they have.
+
+The use offhe Internet for illegal activities
+
+The digital arena is an extraordinary
+means to establish connections at the
+There
+
+also the risk that this communication
+
+global levels is unfortunately
+platform and the high level ofanonymity
+itallows are used bysometospread racial
+hate, exchange illegal material (such as,
+For example, child pornography) or plan
+crimes, civil unrest or terrorist attacks.
+Even ifwe cannot call these phenomena
+cyber attacks in the literal sense of
+the word, inasmuch as cyberspace in
+this case is only used as a means of
+is no doubt
+
+communication, there
+
+that the inherent lack of attribution
+allowed by cyberspace makes the threat
+We
+
+hesitate to clearly assert that the same
+
+particularly insidious. cannot
+norms and rules ofbehavior that already
+exist in the civil society Fully apply to
+the cyber domain. The challenge before
+us is therefore to preserve the greatest
+possible degree ofﬁ'eedom oFexpression
+
+while making sure that the Internet is not
+
+16
+
+used to perpetrate activities that would
+
+be illegal in otherconventional domains.
+
+Terrorism
+
+It is possible that in the next Future
+terrorist groups or individual “lone
+wolves” might make use of cyber offence
+capabilities to hit military and civil
+targets. These cyberweapons might either
+be ready available to terrorists through
+criminals operating within the computer
+crime market, or might be developed
+independently by the terrorists through a
+process of reverse engineering of already
+existing cyber weapons. Fortunately, this
+is For the time being only a hypothetical
+threat, but it is essential to make sure that
+potentially destructive cyber tools remain
+
+out ofthe reach ofdangerous users.
+
+Unexpected event, incident
+
+The Full account of threats that stem
+From cyberspace is virtually impossible
+because this domain is characterized by
+continuous technological innovations;
+therefore unexpected developments might
+confront us with new technological and
+governance challenges demanding a
+collective and systemic effort. Cyberspace
+is a man-made domain, and as such it is
+potentially ﬂawed. It is therefore necessary
+to develop the necessary skills to anticipate
+and prevent rare and unexpected events,
+Focusing on the resilience and the business
+continuity ofthe services that are essential
+For the security and the stability of the
+
+country.
+The Nature and the Evolving Trends of the Cyber Threat and of the Vulnerabilities of the National ICT Infrastructures
+
+Cyber vulnerabilities
+
+Cyber attacks undermine users’ trust
+in ICT technologies and impair business
+continuity by exploiting organizational,
+procedural and technical vulnerabilities
+combinations.
+
+— often in various
+
+Organizational and procedural
+
+vulnerabilities depend both on the
+deﬁcient implementation of protection
+against malware — such as inappropriate
+networkdesign, update ofanti-viruses and
+anti-spam software , and on the lack of
+
+appropriate physical protection intended
+
+to ensure continuity of the service and to
+minimize the impact of natural events on
+physical infrastructure
+Technical vulnerabilities are instead
+due to the vulnerabilities ofhardware and
+software, and to faults in communication
+protocols. The latter are particularly
+worrisome when they affect the Domain
+
+(DNS),
+impact both ends of the systems, that is
+
+Name System because they
+to say the ﬁnal electronic communication
+users as well as the supervisory control
+and data acquisition systems of critical
+
+infrastructures connected to the Internet.
+National strategic framework for cyberspace security
+
+Such vulnerabilities can cause service
+unavailability, or they can compromise
+the integrity of the information stored
+and provided by the DNS. In both cases,
+the exploitation oFsuch vulnerabilities has
+extremely serious consequences, possibly
+resulting in
+
+a grave malfunctioning
+
+of Fundamental control nodes of the
+infrastructure
+
+In orderto preventthese vulnerabilities
+From being exploited, we must ﬁrst of all
+set up a risk assessment, mitigation and
+management plan, which must take into
+account physical, logic and procedural
+cybersecurity measures, and raise
+awareness among the personnel through
+training and education.
+
+In principle, key requirements of the
+cyber security policy should extend to:
+
+0 Control of the access to physical
+installations: in order to minimize the
+risk of damage, tampering or theft
+of hardware assets, only traceable
+
+and authorized personnel should be
+
+granted access to the installations
+warehouse;
+
+0 Exclusive use of certiﬁed products
+in order to exclude From the supply
+chain Foreign retailers considered
+“at risk”; use of up-to-date antivirus
+software; encryption of: data and
+digital signature; identiﬁcation and
+authentication of connected users;
+monitoring and logging of instances;
+updating of the access privileges of
+every user (logical measures);
+
+0 Norms and procedures instructing
+all phases and aspects ofthe security
+processes; deﬁnition of roles, tasks
+
+within the
+
+and responsibilities
+
+and
+of
+
+complete
+
+risk assessment, mitigation
+
+management plan; adoption
+
+speciﬁc measures that
+
+and reinforce the technological
+preparedness; recurring controls on
+the consistency and reliability of the
+
+ICTassets (procedural measures).
+
+CYBER SECURITY
+
+USER TRAINING, AWARENESS
+
+    
+
+A
+
+nn-
+H
+w
+
+- MEA5URES
+
+AND EMPOWERMENT
+
+RJSK
+CHAPTER 2
+
+TOOLS AND PROCEDURES TO STRENGTHEN
+NATIONAL CYBER DEFENCE CAPABILITY
+
+Strategic guidelines
+
+In order to allow the country to Fully ajoint effort and a coordinated approach
+beneﬁt from the social and economic of all key stakeholders of the national
+advantages made possible by a safe cybersecurity architecture identiﬁed by
+cyberspace, and keeping in mind the the Prime Minister’s Decree of the 24th
+overarchinggoalofenhancingthenation’s January 2013, under the coordination
+cyberpreparedness,resilienceandreaction and guidance of: the Committee for the
+capabilities, this National Cybersecurity Security ofthe Republic.
+
+Strategic Framework sets out the strategic These guidelines include:
+
+guidelines that must be pursued through
+National strategic framework for cyberspace security
+
+The
+
+technical,
+
+of
+
+operational
+
+enhancement the
+
+63
+
+institutions
+
+and
+
+analytic capabilities of all
+
+concerned with
+
+cybersecurity, so as to leverage
+the national capability to analyze,
+prevent, mitigate and effectively react
+
+to the multi-dimensional cyber threat;
+
+63
+
+assets From cyber attacks, with the
+
+The of
+
+capabilities to protect critical
+
+strengthening our
+
+infrastructure and strategic
+aim also to ensure their business
+continuity and the full compliance
+international
+
+with requirements,
+
+security standards and protocols
+
+63
+
+of the national intellectual property
+
+The Facilitation of all public-
+private partnerships designed to
+
+actively promote the protection
+
+and technological innovation;
+
+The promotion of the Culture
+
+6
+
+expertise of the academia, so as to
+
+of Security among citizens and
+
+institutions, also leveraging the
+
+raise awareness of the cyber threats
+
+among USEI’S;
+
+The of
+capability to effectively contrast
+
+reinforcement our
+
+6
+
+compliance
+
+online criminal activities, in
+
+and
+
+with national
+
+international norms;
+
+The Full support to international
+ﬁeld of
+special
+
+6
+
+attention to initiatives underway in
+
+cooperation in the
+
+cybersecurity, with a
+the International Organizations of:
+which Italy is a member and with its
+Allies.
+
+In accordance with these six strategic guidelines, eleven operational guidelines have
+
+been identiﬁed.
+
+20
+Tools and Procedures to Strengthen National Cyber Defence Capability
+
+Operational Guidelines
+
+Enhance the expertise of the
+intelligence community, the Armed
+Forces, the Police and of the Civil
+Protection Department to effectively
+prevent, identify, react to, manage,
+mitigate and neutralize malicious
+ICF
+
+in order to curb the
+
+activities targeting national
+networks
+negative impact that these activities
+
+may have on the systems that
+
+support the provision of services of
+
+and
+
+Identify
+Information Security(NlS) Authority
+
+the Network
+that will engage at the European
+level, both with individual member
+states and with the EU Commission,
+to share information and counter
+risks and incidents affecting lCF
+networks and systems.
+
+Improve public-private
+partnerships in order to ensure a
+continuous, secure and trustworthy
+ﬂow of information which would
+allow the private sector to share
+information on the attacks and
+incidents occurring in its networks,
+and to receive in turn risks and
+vulnerabilities assessment to
+
+strengthen its prepared ness.
+
+The public-private partnership
+will be Facilitated by the Following
+speciﬁc provisions:
+
+' The
+
+working groups, in which
+
+creation of joint
+
+21
+
+public interest, and to restore their
+original Functionality.
+
+Increase monitoring and
+analytical capabilities in order to be
+able to Foresee the potential risks
+that technological innovation can
+
+bring about.
+
+Develop the capabilities of the
+Armed Forces to plan and conduct
+
+computer network operations.
+
+the objective of enhancing
+ICT cybersecurity prevails
+on any market competition
+consideration;
+
+0 Periodic national exercises
+involving, along with public
+sector stakeholders, relevant
+private sector operators;
+
+' Compulsory reporting to
+
+competent authorities of
+computerincidentsoccurring
+in strategic sectors;
+
+' The deﬁnition ofinformation
+
+and
+
+sharing procedures
+
+templates.
+
+Foresee a
+of best
+
+regular exchange
+
+practices and lessons
+learned between private and public
+stakeholders, with a view also to
+Facilitate reciprocal understanding
+and to Foster joint training of
+
+personnel.
+National strategic framework for cyberspace security
+
+Develop a widely shared cyber
+taxonomy and promote a common
+understanding of cybersecurity
+terms and concepts in order to
+enhance interoperability and ease of
+communication at the national and
+
+international levels
+
+Promotetheuseofquestionnaires
+to evaluate the level of situational
+awareness among stakeholders so
+as to identifythose in need oFFurther
+
+training and education efforts.
+
+Sponsor training and education
+
+campaign, as well as courses
+
+designed to raise situational
+
+awareness among public and
+private sectors personnel, as well
+as among the general population,
+in order to spread the knowledge of
+the threats and the risks stemming
+From cyberspace, and to promote
+cyber hygiene and a responsible use
+ofinformation and communication
+
+technologies
+
+Foster Italy’s participation
+
+in international initiatives to
+
+enhance cybersecurity, both by
+joining endeavors underway in
+the International Organizations
+
+01” which Italy is a member and by
+strengthening ties with Friendly and
+allied nations. Participate actively
+in all relevant international forums
+and working groups aimed at:
+
+0 At the global level, deﬁning a
+
+set of international norms of
+
+22
+
+Enhance and continuously
+
+evaluate education and on—the-
+job training programs, with a view
+to validating existing cybersecurity
+management and procedures.
+Aggregate as much as possible
+the training and education efforts
+around already existing Public
+Administration’s learning centers
+(such as the ones of the Armed
+Forces), so as to avoid phenomena
+such as the “unaware insiders”,
+and to mitigate vulnerabilities
+associated with new organizational
+
+models such as the “bring your own
+device” (BYOD).
+
+Introduce cybersecurity curricula
+in schools of all levels, in order to
+promote cyber hygiene and the
+Culture ofSecurity.
+
+Withthesupportoftheacademia,
+ﬁnalize measures to improve and
+disseminate security standards and
+requirements For ICI' systems and
+networks.
+
+conduct and rules of behavior
+that clearly identify what is
+legitimate under international
+law;
+
+0 Atthe European level, reinforcing
+the protection of critical and
+strategic ICF communications
+
+supporting the single market;
+
+achieving a common cyber
+resilience capability; curbing
+cybercrime; developing a
+cyberdeFence policy and the
+Tools and Procedures to Strengthen National Cyber Defence Capability
+
+related operational capabilities,
+in line with the goals and means
+
+of the Common Security and
+
+Defence Policy; stimulating
+a solid technological and
+industrial base For ICI' and
+
+computer products, in line with
+the principles set out in the EU
+cybersecurity strategy and with
+
+the commitments made in the
+European Council and OSCE;
+
+0A:
+
+ensuring the efﬁciency and the
+
+the Trans—Atlantic level,
+interoperabilityofassetsdevoted
+
+to common defence, and
+
+supporting the Full integration
+of the cyber domain in NATO
+defence planning process and
+in the military doctrine, so as
+to ensure the deployment of a
+robust capability against cyber
+attacks targeting the vital and
+
+Attaining the full operational
+capability ofthe National Computer
+Emergency Response Team (CERT,
+as already identiﬁed by Article
+no. 16 of Legislative Decree no‘
+259/2003,
+purview ofthe Ministry oFEconomic
+
+and set within the
+Development), in order to enhance
+the national capability to survey
+and react to potential threats and
+actual attacks on the ICT domestic
+infrastructure through the creation
+of a and
+
+secure trustworthy
+
+exchange ofinformation.
+
+23
+
+strategic interests oFboth NATO
+and Italy;
+
+' At the bilateral level, engage
+
+with countries of strategic
+
+importance, as well as
+with potential recipients of
+multilateral projects oftechnical
+assistance and capacity-building
+initiatives.
+
+Participation in cybersecurity
+exercises organized by ENISA and
+NATO, with the aim of: testing and
+improving national preparedness,
+also in dealing with cybersecurity
+international
+
+events requiring
+
+cooperation.
+
+Italy’s participation in the global
+debate about cybersecurity cannot
+ignore the interests of the national
+
+ICI' and cybersecurity industrial
+
+base.
+
+The national CERT (CERT—N),
+has the task to identify a shared
+communication Framework with
+other CERTs as well as to designate
+roles, responsibilities and points-
+of-contact at the national level to
+effectively ensure crisis management
+capabilities and the consistency ofa
+
+national cybersecurity community.
+
+The CERT works
+
+as a public-private
+
+national
+cooperative
+partnership supporting citizens and
+ﬁrms through situational awareness
+
+and prevention campaigns, and
+National strategic framework for cyberspace security
+
+acting as the coordination point in
+the response to large-scale cyber
+
+events‘
+
+of all
+
+mechanisms
+
+Activation appropriate
+
+cooperation at the
+
+national and international level,
+making the national CERT the main
+interface oFother public and private
+CERTS operating both domestically
+national borders,
+
+and outside
+
+including the European CERT.
+
+Developmentofacommunication
+platform to facilitate, both at the
+technical and at the Functional
+level, communications among all
+CERTS, so as to ensure timely and
+effective interaction between all
+stakeholders involved in preventing
+and countering malicious cyber
+activity.
+
+Development and attainment of
+the Full operational capability OFthe
+
+Public Administration’s Computer
+
+Ensure effectiveness of cyber
+security countermeasures by means
+
+of: organisational and regulatory
+
+Establishment of security
+
+standards and requirements for
+products and systems implementing
+security protocols. Introduction of
+processes to certiﬁ/ the compliance
+to these security standards and,
+where appropriate, implementation
+for the
+
+of new proced ures
+
+procurement 01” KT products on
+
+24
+
+Emergency Response Team (CERT«
+PA), which represents the evolution
+of the CERT developed with the
+Public System oFConnectivity (SPC)
+established by the Presidential
+Decree of the lst April 2008. The
+CERT-PA is the designated ﬁrst
+point of contact For all Public
+Administrations, which will report
+to the national CERT in accordance
+with speciﬁc unitary models and
+procedures. The CERT—PA works in
+coordination with the other Public
+CERTs at
+
+European level through exchanges of
+
+Administrations’ the
+
+information and agreed procedures.
+
+The CERT of the Armed Forces
+follows the technical, Functional
+
+and procedural developments
+and guidelines of the NATO
+Computer Incident Response
+
+Capability (NCIRC), and it will
+be fully integrated in the military
+operational planning.
+
+proposals that adapt to the rapid
+progress oFinFormation technology.
+
+These
+standards and procedures should
+
+the national territory.
+
+always guarantee international
+interoperability, especially with
+NATO and UE countries.
+Establishment and adoption of
+technical norms to guarantee the
+
+security of information (integrity,
+availability and privacy) by
+introducing of a methodology For
+ensuring the secure design of ICT
+
+products and systems.
+
+Cooperation with the industrial
+sector For the adoption of security
+protocols aimed at protecting ICF
+networks and products, as well as
+innovative technologies. Planning
+of public services of assistance and
+support, in particular to small and
+
+medium enterprises
+
+Deﬁnition and identiﬁcation
+of best practices and procedures
+to mitigate supply chain risks and
+creation of audit mechanisms to
+verify the reliability OFICF products
+
+and vendors.
+
+Development, within the Public
+Administration, of a ﬂexible and
+
+Sincethecyberspaceisatthesame
+time the means and the object of
+strategic communication, ensuring
+consistency between strategic
+communication and the activities
+carried out in the cyber domain
+may strengthen the effectiveness
+of the
+
+country’s instruments
+
+Allocation of adequate human,
+ﬁnancial, technological and logistic
+resources to the strategic sectors
+of the Public Administration that
+
+are the most directly involved in
+
+25
+
+The Nature and the Evolving Trends of the Cyber Threat and of the Vulnerabilities of the National ICT Infrastructures
+
+Improvement of the support
+to ICT users, also through the
+introduction of suitable market
+incentive aimed at promoting the
+
+security ofavailable products.
+
+swift process of procurement,
+evaluation, veriﬁcation and
+certiﬁcation OFICI' products, which
+has to keep the pace with the rapid
+innovations that characterizes the
+
+secto F.
+
+Envisaging incentives to
+stimulate the national ICF industrial
+competitiveness: Focusing the
+activities of R&D and ofthe national
+Centers of Excellence on sectors that
+are deemed strategic For the Armed
+Forces or have a potential operative
+impact, such as the development of
+resilient and secure ICT products
+
+and software.
+
+of prevention and response
+to cyber attacks‘ An effective
+institutional communication of
+national dissuasion and deterrence
+capabilities in cyberspace may
+work as a disincentive to potential
+
+adversaries and criminals‘
+
+the achievement of the short and
+medium term strategic objectives
+envisaged in this National
+
+Cybersecurity Strategic Framework.
+National strategic framework for cyberspace security
+
+Implementation of a national
+integrated system of information
+risk management which is able to:
+
+' Identify potential risks;
+
+' Elaborate risk management
+
+policies and procedures.
+
+Establish an effective national
+
+structure For preventing and
+
+managing risk;
+
+The central Role of the Public-Private Partnership (PPP)
+
+As envisaged in the Prime Minister’s
+“Decree Containing Strategic Guidelines
+for the National Cyber Protection and
+ICF Security” of the 24th january 2013,
+public and private operators providing
+“public networks of communications or
+electronic communication services to the
+public, operating national and European
+critical infrastructures depending on ITC
+systems”aream0ngthe mainstakeholders
+of the national architecture to guarantee
+cyber protection and national IT security.
+
+According to the aforementioned
+Prime Minister’s Decree, such subjects are
+obliged to:
+
+' Communicate to the Cybersecurity
+Unit every signiﬁcant security and
+integrity violation of their own
+
+computer systems;
+
+' Adopt a” the best practices and
+measures necessary to pursue cyber
+security;
+
+' Share information with the agencies
+For intelligence and security and allow
+
+access to databases that are relevant
+
+26
+
+t0 cyber security;
+
+'Collaborate to the management
+of a cyber crisis by restoring the
+Functionality of the networks and
+systems they operate.
+
+The
+
+therefore
+
+public-private partnerships
+
+an essential component
+For ensuring the success of any cyber
+security strategy. In modern economic
+and institutional systems the majority
+of essential public services and national
+strategic infrastructures are managed by
+the private sector. The cooperation with
+these actors has been ensured through
+ad hoc agreements with the aim to
+substantiate even further the cooperation
+in this context. In light oFﬁthher progress,
+to be pursued through an incremental
+process, the synergies with the private
+sector should be extended so as to
+include all entities that, independently
+of their size, are of strategic value For the
+scientiﬁc, technological, industrial and
+
+economic progress ofthe country.
+ANNEX 1
+
+PUBLIC STAKEHOLDERS’ ROLES AND
+
+MANDATES
+
+The Prime Minister’s Decree of
+the 24th January 2013 outlined the
+institutional architecture devoted to cyber
+protection and ICFsecurity, one in which
+the various stakeholders involved, both
+from the private and the public sectors,
+act in an integrated and consistent way so
+as to mitigate cyberspace vulnerabilities,
+identiﬁ/threats, prevent risks and enhance
+the national capability to counter crisis
+situations.
+
+At the top of such architecture is
+the Prime Minister, who adopts the
+present National Cybersecurity Strategic
+Framework and the National Plan, and
+who ensures its practical implementation
+of
+
+directives. The Prime Minister is supported
+
+through the adoption speciﬁc
+in this endeavor by the Committee for the
+Security of: the Republic (CISR)y which
+may propose the adoption of legislative
+initiatives, approves the guidelines to
+foster public-private partnerships, the
+For
+
+policies enhancing
+
+the
+
+inFo-sharing
+
+arrangements and endorsement
+of best practices, and approves other
+measures to strengthen cybersecurity. The
+
+Committee For the Security oFthe Republic
+
+27
+
+at Working Level (the so called “Technical
+CISR") is in charge of the veriﬁcation of
+the timely and correct implementation of
+the National Plan For cybersecurity, which
+complements the National Cybersecurity
+Strategic Framework
+
+Supporting the political level is the
+national intelligence community, that
+
+gathers intelligence, produces aII-source
+
+analysis, evaluations and Forecasts
+about the cyber threat, contributes
+to the promotion of cybersecurity
+
+awareness and education, and provides
+relevant information and alerts to the
+Cybersecurity Unit and to other public
+and private stakeholders.
+
+The Cybersecurity Unit is established
+within the Prime Minister Military
+Advisor’s Ofﬁce with the mandate of
+coordinating the various institutions
+that compose the national cybersecurity
+architecture, preventing and preparing
+For situations of crisis, and For early
+warning. Notwithstanding the primary
+responsibility of each Administration For
+the ownership, custody, protection and
+data processing of their database and
+
+digital archives, the Cybersecurity Unit:
+' Promotes, with the Full participation
+of the relevant public and private
+stakeholders, contingency planning
+activities and the preparation oFcrisis
+managementoperationsinresponseto
+crises aFFecting cyberspace; elaborates
+inter—ministerial coordinating
+procedures to manage crisis;
+
+' Ensures a 24/7 Alert and Response Cell;
+
+' Evaluates and promotes procedures
+For ensuring info-sharing and early
+warning alerts for crisis management;
+
+' Receives notice — including From
+private operators providing public
+ICT networks or publicly accessible
+computer communication services,
+or that manage relevant national
+
+and European critical infrastructures
+
+ 
+
+-concerning signiﬁcant cyber incidents
+
+regarding security violation or loss of:
+integrity. Private operators cooperate
+actively in crisis management and
+contribute to the restoration of
+the Functionality of: systems and of:
+networks they operate;
+
+Promotes and coordinates the
+execution 0Finter—ministerial drills and
+Italy’s participation in international
+exercises;
+
+Is the national point«of-contact in
+cyber crisis situations involving the
+United Nations, the EU, NATO as well
+as other International Organizations
+and countries.
+
+In order to activate the response and
+
+restoring procedures, the Cybersecurity
+Public Stakeholders‘ Roles and Mandates
+
+Unit receives warnings of cybersecurity
+incident and disseminates the relative
+alarms. In the event of an incident of a
+magnitude, intensity or nature such that
+it is considered of national security rele-
+vance, or it cannot be dealt with by the in-
+dividual concerned Administrations and
+it therefore requires a coordinated inter-
+
+ministerial response, the Cybersecurity
+
+national cyber crisis”, and activates the
+Inter—ministerial Situation and Planning
+Unit in its "Inter-ministerial Cyber Crisis
+Unit” composition. This ensures that all
+stakeholders’ response and stabilization
+activities are coordinated, and ensures
+the Full support ofthe national Computer
+Emergency Response Team (CERT) set
+within the purview of the Ministry of
+
+Unit declares the so—called “situation of Economic Development.
+National strategic framework for cyberspace security
+
+ROLES AND TASKS OF THE DIFFERENT
+PUBLIC ENTITIES
+
+THE AGENCY F OR DIGITAL ITALY
+
+In charge of attaining the goals set out in the Italian Digital Agenda through the
+monitoring ofthe lCFdevelopment plans ofPublic Administrations and the promotion
+
+oFannual reviews, in line with the European Digital Agenda Program.
+
+' ls in charge onlanning and coordinating
+
+a“ strategic initiatives aimed at providing
+access to Public Administration’s online
+services to citizens and ﬁrms in the most
+
+eﬁcective way;
+
+Identiﬁes objectives, technical
+regulations, and guidelines regarding
+IT security and taxonomy, as well as
+procedures and standards (including
+open standards), so as to guarantee
+Full interoperability and cooperation
+among the Public Administration
+
+computer systems and between these
+and the EU’s (Decree Law no.83/2012,
+Art. 20 (3) (b);
+
+Ensures the technical quality and the
+security oFthe Public Administration’s
+and ICI'
+
+connections, so as to safeguard the
+
+computer systems
+integrity, availability and privacy of its
+databases, ofdigital archives, and of
+the services provided to citizens, in a
+
+way that is consistent throughout the
+
+30
+
+national territory and Fully integrated
+at an European level. In particular,
+this activity Focuses on database
+of national interest such as those
+identiﬁed as critical by Arts 2—bis OFthe
+Decree Law n0. 179/2012 as amended
+
+by the conversion law no. 221/2012;
+
+Operates the CERT—SPC (Computer
+EmergencyResponseTeamofthePublic
+System of Connectivity), managing
+in the CERT—PA
+(Computer Emergency ResponseTeam
+of the Public Administration), that
+ensures the cybersecurity and inter«
+
+its transformation
+
+connection of Public Administration’s
+
+information systems, coordinating
+all different players involved in
+security management (lCT—ULS,
+
+SOC, CERTs), in respect of their
+respective competences The CERT-
+PA cooperates with the national CERT
+and with the Armed Forces CERT For
+the achievement of national security
+
+objectives;
+Public Stakeholders‘ Rules and Mandates
+
+' Is the national hub in charge For
+
+Fostering Italy’s participation in
+
+European and national programs
+devoted to the development OFthe [T
+
+society;
+
+of
+
+adm i nistrative documents, oversees
+
+' Follows the digitalization
+the quality of lT-related services and
+the spending efﬁciency in IT Public
+procurement, contributes to the
+diffusion and use of ICI'S to Foster
+innovation and economic growth,
+also promoting the diffusion of new
+
+generation’s networks.
+
+31
+
+0 Looks after the promotion and
+diffusion of computer literacy
+campaigns through innovative
+
+educational technologies For citizens
+and civil servants, concluding to that
+end appropriate agreements with the
+Higher Educational Institute for Public
+Administration (ScuolaSuperioredella
+Pubblica Amministrazione) and the
+Centre forServices,Assistance,Studies
+and Training for the Modernization of
+
+the Public Administration (Formez—
+PA)‘
+National strategic framework for cyberspace security
+
+PRESIDENCY OF THE COUNCIL OF MINISTERS
+DIS, AISE, AIS/
+
+Intelligence collection ﬁnalized to strengthening national cyberspace protection
+
+and IT security.
+
+'The
+and Security (DIS) and the two
+
+Department For Intelligence
+intelligence Agencies carry out their
+activities in the ﬁeld of: cybersecurity
+by making use of the tools, means
+and procedures set Forward by Law
+no. 124/2007, as amended as by Law
+no. 133/2012. To that end, following
+the Prime Minister’s directives for the
+strengthening ofintelligence collection
+activities For the protection ofphysical
+and intangible ICF critical national
+infrastructure, and taking into account
+the general guidelines and objectives
+put Forward by the Committee For the
+Security of the Republic (CISR), the
+General Director of DIS coordinates
+all intelligence collection activities to
+bolster national cyberspace protection
+
+and ICF security.
+
+' The Department For Intelligence and
+
+Security, through its various ofﬁces:
+
+— Ensures the support to the Director
+
+General’s coordinating role;
+
+— Provides analysis, assessment
+
+and previsions regarding the
+cyber threat, taking into account
+information,
+
+relevant analyses
+
+32
+
+and reports originated by the two
+Agencies, the Police, the Armed
+Forces, all Public Administrations
+and public and private research
+Institutes, a||<sources intelligence,
+and data gathered From Public
+Administrationsand publicutilities
+
+service providers;
+
+In Full
+
+Prime Minister’s Decree of the
+24th January 2013, it provides
+
+compliance with the
+
+For the transmission of relevant
+information and alerts regarding
+issues to the
+
+Public
+to other
+
+cybersecurity
+Cybersecurity Unit, to
+Administrations and
+subjects, including in the private
+sector, interested in the acquisition
+
+ofsuch security information;
+
+On the basis of what is Foreseen
+in the Prime Minister’s Decree
+of the 22nd July 2011, deﬁnes
+the cybersecurity requirements
+that need to be adopted For the
+protection of ICF systems and
+that
+
+infrastructures store and
+
+process classiﬁed or secreted
+
+informationy issuing the required
+
+technical homologations and
+Public Stakeholders‘ Rules and Mandates
+
+evaluating eventual security
+violations or breaches ofclassiﬁed
+information Following accidental
+
+or intentional events;
+
+' Together with the two Agencies, acting
+in their respective competences, and
+in line with the guidelines deﬁned by
+the Prime Minister and the speciﬁc
+research objectives set out by the
+General Director of: DIS, carries out
+the information gathering activity and
+its elaboration For the national cyber
+protection and the ICI' security.
+
+' Together with the two Agencies, it
+interacts with Public Administrations
+and public services providers, as well
+as with Universities and research
+
+institutes, instructing to that end
+
+appropriate agreements. The Public
+and the
+
+Administrations public
+
+33
+
+services providers allow DIS and the
+two Agencies to access their digital
+databases and archives in line with
+the procedures deﬁned in the Prime
+Minister’s Decree no. 4/2009;
+
+Encourages every initiative aimed
+
+at promoting and spreading the
+knowledge and the awareness of the
+cyber threats and the measures to
+
+mitigate them, also Following the
+
+recommendations of the Scientiﬁc
+Committee;
+Composes the national security
+
+document highlighting the activities
+For the defense ofthe critical, physical
+and intangible infrastructures, the
+national cyberspace protection and IT
+security, that is annexed to the Annual
+Report to the Parliament on national
+
+security strategy and policies‘
+National strategic framework for cyberspace security
+
+MINISTRY OF FOREIGN AFFAIRS
+
+The Ministry of: Foreign Affairs is responsible for representing the Italian national
+
+position within uppermost multilateral and international political Forums.
+
+' Ensures a coherent promotion
+and safeguard of Italian national
+interests in cybersecurity issues in all
+
+international Forums and at all levels;
+
+' Coordinates Italian participation
+and efforts in the various multilateral
+Forums OFdiscussion on cybersecurity
+issues, also encompassing the
+contribution of the private sector and
+
+ofthe academia;
+
+' Negotiates, involving other national
+relevant authorities, all international
+agreements and arrangements on the
+subjectmatter,verifyingtheircoherence
+and their suitability with respect to the
+wider national strategic guidelines For
+the projection of national interest in
+its various international Formulations
+(security policies, human rights and
+Fundamental liberties’ protection,
+
+countering of transnational threats,
+
+safeguard and development of the
+ﬁnancial, economic and commercial
+
+exchanges, etc);
+
+34
+
+0 Cooperates For the swift introduction
+at the domestic level of international
+obligations undertaken by Italy and of
+the guidelines emerging in the subject
+matter in all international forums (i.e.
+soft law, CSBM);
+
+0 Coordinates and ensure the services
+and the activities — also with respect to
+the education and awareness raising
+of its employees - for enhancing
+the protection, the resiliency and
+the efﬁciency of [CF systems of the
+Ministry and the diplomatic and
+
+consular ICT network;
+
+° Participatesinthesecuritycommunities
+of the Public Connectivity System
+(CERT—SPC, now CERT—PA) through
+the Ministry of External AFFairs’ CERT
+(the so called “Local Security Unit"),
+
+already ofﬁcially accredited to the
+CERT—SPC.
+Public Stakeholders‘ Rules and Mandates
+
+MINISTRY OF INTERIOR
+National Public Security Authority
+
+Law enforcement and public order, public rescue and civil protection, contrast
+to threats that involve or stem from cyberspace and that affect the population, the
+institutions, the ﬁrms or business continuity ofthe Government.
+
+' Ensures, through the Public Security
+Department, the prevention and the
+contrast ofcybercrime;
+
+' Guarantees, through the Postal and
+Communication Police, the integrity
+and the correct Functioning oFthe ICF
+network, here included the protection
+of ICT
+(through National
+
+critical infrastructures
+
+the Anti-crime
+Computer Centre For the Protection
+of Critical Infrastructure - CNAIPIC),
+the prevention and the contrast of
+computer attacks to strategic assets of:
+the country, the security and reliability
+of telecommunication services, the
+hindering ofonline child pornography
+and of crimes affecting means of
+and
+
+payment copyright whenever
+
+35
+
+the exclusive or prominent means to
+execute those crimes has been the
+distorted use ofthe computer systems
+or oFthe ICI' tools;
+
+Contributes to the prevention and
+hindering of terrorist activities and
+of support to terrorism executed by
+means of computer systems and ICT
+networks;
+
+Ensures preventive and hindering
+activities against the wider range of
+
+cybercrimes;
+
+Preempts cybercrime by promoting
+
+awareness-raising campaigns to
+inform citizens about cybersecurity
+
+threats.
+National strategic framework for cyberspace security
+
+MINISTRY OF DEFENCE
+
+Defence of the State, peace—enforcing and peace-keeping operations, support in
+
+safeguarding the Freedom Ofnational institutions.
+
+' Deﬁnes and coordinates the
+
+military policies and strategies, the
+cyber governance and the military
+
+capabilities in the cyber domain;
+
+' Plans, executes and sustains
+
+Computer Network
+
+(CNO) in the cyber domain in order
+
+Operations
+
+to prevent, localize, defend (actively
+and in-depth), oppose and neutralize
+a|| threats and/or hostile actions
+in the cyber domain targeting ICF
+networks, computer systems and
+services on the national territory
+or in-theatre. In this context, the
+Ministry of Defence negotiates
+memoranda of understanding and
+international agreements concerning
+the norms and rules of engagement
+governing the subject matter,
+and coordinates its cyberdefence
+activities with NATOy the UE and the
+Defence Forces ofallied and Friendly
+
+countries;
+
+' Contributes to the intelligence
+gathering in support of in-theatre
+cyber operations ofthe Armed Forces,
+as foreseen in Law no. 124/2007 and
+
+subsequent amendments;
+
+36
+
+' Supports the prevention and the
+contrast of terrorist activities and of
+support to terrorism executed by means
+ofcomputer systems and ICF networks
+against the Armed Forceson the national
+territory and in-theatre, as Foreseen in
+Law no. 124/2007 and subsequent
+
+amendments;
+
+0 Ensures all those services and
+activities necessary to guarantee the
+protection, resilience and eFﬁciency
+of military assets and installations,
+reaction and
+
+and contributes to
+
+stabilization activities carried out
+in case of crisis situations affecting
+cyberspace, working as the
+between the CERT of the Ministry
+of Defence7 the National CERT and
+NATO’s Computer Incident Response
+
+Capability (NCIRC);
+
+|in|<
+
+' Contributes to the prevention and
+contrast of cyber attacks targeting
+of national
+
+[CF systems strategic
+
+relevance;
+
+' Ensures the training and education
+of its personnel and makes available
+its own training centers to other
+Administrations.
+Public Stakeholders‘ Rules and Mandates
+
+MINISTRY OF ECONOMY AN D FINANCE
+
+Protects national savings in their wider sense (the regulation oFﬁnancial markets
+to state—participated companies), manages the veriﬁcation and collection of taxes
+
+through the Central Tax Records.
+
+' MEF, as a whole and through its
+
+Departments, the Fiscal Agencies
+and the Italian Finance Police, is
+responsible for various National
+Critical Computer Infrastructures and
+is provided with a complex security
+
+organization;
+
+' Actively participates in the security
+communitiesofthePublicConnectivity
+System(SPC),bymeansofthesocalled
+“Local Security Units” - ULS MEF/
+Sogei and ULS DF/Sogei, ofﬁcially
+
+37
+
+accredited among the CERT—SPC —
+that takes care of the coordination
+of the activities of prevention and
+
+management of incidents within the
+SPC;
+
+Within the MEF, there are several
+divisions in charge ofguaranteeing the
+security ofcyber networks and systems
+through the prevention and repression
+of ﬁnancial and economic fraud
+carried out through IT networks and
+
+the Internet (Italian Financial Police)‘
+National strategic framework for cyberspace security
+
+MINISTRY OF ECONOMIC DEVELOPMENT
+
+Communication Department
+
+Promotes7 develops and regulates electronic communications.
+
+0 It is the national Authority in charge
+of the regulations in matters of
+security and integrity of electronic
+communication system — as set in
+Art. 16 bis of Legislative Decree no.
+259/2003 — and cooperates with other
+national and international bodies in
+this subject;
+
+0 As set in the above mentioned law, the
+
+Ministry of Economic Development:
+
+— Identiﬁes technical and
+organization measures For the
+security and integrity of the
+networks and veriﬁes that the
+networks operators and the
+suppliers of ITC services comply
+with them;
+
+— Collects from the networks
+operators and the suppliers of
+ITC services notiﬁcations of: severe
+cyber incidents and Forward them
+to the EU Commission and ENISA;
+
+— Operates the national CERT
+(CEKFNx
+
+— Represents Italy at ENISA - through
+the Director of: the Institute for
+
+38
+
+Communications and Information
+Technologies (Istituto Superiore
+delle Comunicazioni e delle
+
+Tecnologie dell’lnformazione-
+
+5comy
+
+ISCOM is:
+
+Is the Certiﬁcation Authority of IT
+Security (OCSI);
+
+Participates in the activities
+promoted by ENISA For
+the protection of critical IT
+infrastructures;
+
+Participates in the works ofseveral
+international and European bodies
+involved in the issue of Internet
+Governance;
+
+Is in the charge OFthe surveillance
+Ofcountry-code top»|eve| domains
+in the context oFthe Italian Registry
+ofccTLD “.it”;
+
+Is involved in the European
+program “safer Internet”;
+
+Carries out research activities
+in cooperation with research
+centers and Universities in
+
+various ﬁelds regarding electronic
+Public Stakeholders‘ Rules and Mandates
+
+communications so as to the Head of the Telecommunication
+highlight concrete actions for the Department—isincharge ofthe Culture
+implementation of the objectives oFSecurity education, the reporting of
+pursued by the European Digital the set oFcompulsory services that the
+Agenda. Internet Service Providers (ISPs) must
+' The Permanent Observatory for make available to the Law Enforcement
+Security and Protection of Networks Authorities; the promotion to the
+and Communications — chaired by Internet access,etc.
+
+39
+ANNEXZ
+
+GLOSSARY OF CYBERSECURITY
+
+AGCOM — The Communications CERT — Computer Emergency Response
+Regulatory Authority Team
+The two main tasks assigned to this Organization with the tasks of
+independent Authority by Law no. preventing cyber incidents and
+249/1997 are to ensure equitable coordinating response to cyberevents.
+conditions Forfairmarket competition Several CERTs also carry out training
+and to protect Fundamental rights of and information Functions For ICI'
+all citizens. users.
+
+APT — Advanced Persistent Threat CERT-PA — Computer Emergency Response
+A threat entailing a targeted attack, Team _ Public Administration
+aimed at installing a number of EVOIUEiO” Of the CERT'SPC (see
+malwares in the networks oFthe target next paragraph) With a competence
+in order to establish links necessary extended to Public Administration’s
+For remotely exﬁltrating relevant IG— and computer SYStemS and to
+information From the networks oFthe all its services, in addition to the
+
+- Interconnectln networ s‘ t as t e
+targeted entity. g k I h h
+
+. I task of supporting and coordinating
+
+BYOD — Bring Your Own DeVIce I I I I I I
+
+I I the PubIICAdmInIstratIon In preventing
+
+A policy allowmg company employees I I
+
+I I I I to, responding to, and recovering From
+
+to bring their own mobile devuces I I
+
+cyber InCIdents.
+
+(laptops, smart phones, tablets, etc.)
+
+to their workplace and using them in CERT'SPC ' Computer Emergency
+. . Response Team — System of Public
+order to have access to Information . .
+d I' . _ ConnectIVIty
+an cor orate a Icatlons I.e. . .
+. P PP ’ ThestructureresponSIble,atthenational
+emails. . . .
+level, For preventing, monitoring,
+ccTLD — Country Code Top Level Domain ensuring information sharing and
+The last Part Of the Internet domain analysis ofthe security incidents within
+name USEd by a State‘ It COHSiStS 0F the Public Administration SPC‘ It
+tWO letters: "‘it” 170?“ Italy. has also the mandate of ensuring the
+
+40
+Glossary of cybersecurity
+
+implementation of a coherent and
+uniform methodology For managing
+[CT The CERT—SPC is
+primary point of contact For all Local
+Units oFSecurity (ULS) established For
+each network domain connected with
+the SPC.
+
+incidents.
+
+CNA — Computer Network Attack
+
+Activities that are conducted in and
+
+order
+
+through
+
+the cyberspace in
+
+to manipulate, obstruct, deny,
+downgrade or destroy information
+stored in the ICT networks or in
+the computer systems, or the [CT
+networks or in the computer systems
+
+themselves.
+
+CNAIPIC — National Anti-crime Computer
+
+Centre for the Protection of Critical
+Infrastructure
+
+The CNAIPIC, established by Law no.
+155/2005 and with a Decree of the
+Minister ofthe |nteriorof9th February
+2008y is set within the Service oFPostaI
+Police and Communications, which is
+responsible For the security and the
+integrity of IT communications of:
+the Ministry of the Interior, National
+Authority of Public Security. The
+Centre, as provided For by law, is
+responsible For ensuring prevention
+and repression ofcyber crimes against
+critical infrastructures or ICT assets
+of national relevance7 even through
+with the
+
+partnership agreements
+
+structures concerned.
+
+CND — Computer Network Defence
+
+Actions taken by using computer
+networks For protecting, monitoring,
+
+analyzing, detecting7 and hindering
+
+41
+
+non~authorized activities carried out
+against computer networks and IT
+
+systems.
+
+CNE — Computer Network Exploitation
+
+Operations carried out in cyberspace
+in order to extract information From
+targeted ICI' networks or computer
+systems.They are intelligence gathering
+activities, or actions preparing the
+
+execution ofa cyber attack‘
+
+CNO — Computer Network Operation
+
+This term generally encompasses
+Computer Network Attack (CNA),
+Computer Network Defence (CND)
+and Computer Network Exploitation
+(CNE).
+
+CPS — Cyber Physical System
+
+ICT
+
+systems supporting, managing and
+
+networks and computer
+supervising physical assets such as civil
+infrastructures, aerospace7 transports,
+health care, energy and production
+
+PFOCESSES.
+
+CSBM — Confidence and Security Building
+
+Measures
+
+Measures aimed at preventing or
+resolving hostilities among States7
+and at avoiding their worsening by
+developing mutual conﬁdence. Such
+measures can have Formal or informal,
+bilateral or multilateral, military or
+
+political nature.
+
+DoS — Denial of Service
+
+Attack aimed at making a
+
+computerized system or resource
+unavailable to legitimate users by
+saturating and overloading server’s
+
+network connections.
+ENISA —
+
+National strategic framework for cyberspace security
+
+DDoS — Distributed Denial of Service
+
+A DoS attack launched by several
+compromised and infected systems
+(Botnets).
+
+DF — Digital Forensics
+
+A discipline — also called computer
+Forensics~ that deals with identifying,
+
+storing, analyzing, and reporting
+
+computer ﬁnds, in order to present
+
+valid digital evidence that
+
+can
+
+be submitted in civil or criminal
+
+proceedings.
+
+DNS — Domain Name System
+
+A classiﬁcation system of domain
+consisting of a distributed database
+converting automatically a website
+address into a Internet Protocol
+numerical code (IP address), which
+identiﬁes the server web hosting the
+
+site‘
+
+European Network and
+
+Information Security Agency
+
+An Agency of the European Union
+established to foster ICF security
+through technical counseling
+and EU
+
+institutions, to Facilitate the sharing
+
+to national authorities
+of best practices as well as the
+emergence of a community of ICF
+security practitioners, and to promote
+
+the Culture ofSecurity.
+
+Exploit
+
+A code using a bug or a vulnerability
+ofa computerized system.
+
+IC — Critical Infrastructures
+
+Critical infrastructure is an asset
+or system within the EU which is
+
+essential for the maintenance of vital
+
+42
+
+societal Functions. The damage to a
+critical infrastructure, its destruction
+or disruption may have a signiﬁcant
+negative impact For the security of the
+EU and the well-being of its citizens
+(Art. 2 |it. b) (Directive 2008/114/
+CE).
+
+ICE — European Critical Infrastructures
+
+EU
+
+member States whose damage or
+
+Critical structure within the
+destruction can have a signiﬁcant
+impact on at least two member states.
+The relevance of such an impact is
+assessed comprehensively, that is to
+say in terms of the impacts on other
+sectors, including the impact on other
+sectors related to other infrastructures
+
+(Art. 2 |it. e) (Directive 2008/114/CE).
+
+Social Engineering
+
+Art of manipulating the psyche of
+people in order to Force them to
+carry out speciﬁc actions or disclose
+conﬁdential information, such as the
+login credentials to computerized
+
+systems
+
+loE — Internet of Everything
+
+A network where people, objects,
+data and processes are connected
+to one another through the Internet,
+and where information is transformed
+into actions in real time, thus creating
+new and as today unforeseen business
+opportunities.
+
+loT — Internet ofThings
+
+A buzz word referred to the extension
+OFthe Internet to the world oFobjects,
+which become remotely accessible
+
+through the Internet and are therefore
+Glossary of cybersecurity
+
+able to communicate information
+about themselves connecting to other
+objects and users. The objective is to
+ensure that the Internet traces a map
+of the real world, giving an electronic
+identity to things and places in the
+physical environment. The potential
+applications of the IoT are multiple:
+From the industrial applications
+(productive processes), to logistics
+and info mobility, up to the energetic
+efﬁciency7 remote assistance and
+
+environment protection‘
+
+ISP — Internet Service Provider
+
+A company that provides commercial
+internet access and other services
+through a telephone line such as
+Dialup and ISDN or broadband
+
+connections like optical ﬁbers or DSL‘
+
+Malware
+
+Contraction 0F“Ma|ici0us software”.
+A program injected in a computer
+system, generally surreptitiously, with
+
+the intention Ofcompromising privacy,
+
+to access a false website. The phisher
+uses the data it gets to acquire goods,
+transfer money or only as a “bridge"
+
+For Further attacks.
+
+Reverse engineering
+
+An analysis designed to understand the
+Functioning ofhardware and software
+products in order to reengineer
+them, For example, to enhance their
+Functions or in order to use them For
+different and further aims with respect
+to the original ones.
+
+SCADA — Supervisory Control and Data
+
+Acquisition
+
+Systems employed in the monitoring
+and controlofplantsand equipmentin
+sectors such as trafﬁc control (air, rail,
+automobile), the control of systems
+of ﬂuid stransportation (aqueducts,
+pipelines, etc.), of the distribution
+of the electrical energy, managing
+production lines that realize industrial
+processes and remote environmental
+
+detection surveys.
+
+integrity or the availability of data, of SOC _ Security Operations Center
+
+the applications or of the operative
+systems of the target. To this general
+category belong, For example: viruses7
+worm, trojans, backdoor, spyware,
+dialer, hijacker, rootkit, scareware,
+rabbit, keylogger, logic bombs, etc.
+
+Phishing
+
+A cyber attack having, generally, as
+objective the wheedling of sensitive
+information (user—id, password, credit
+card numbers, PIN) by sending False
+emails to a large number ofaddresses.
+The emails are designed to convince
+
+the receivers to open an attachment or
+
+A center that provides services aimed
+at the security of computer systems
+in ﬁrms (internal SOC) or external
+clients‘ A SOC can also supply
+incident response services: in this case
+it acts as a Computer Security Incident
+Response Team(CS|RT), even if this
+Function often depends on a separate
+
+entity within the ﬁrm.
+
+TCP/IP — Transmission Control Protocol/
+
+Internet Protocol
+
+A set of standard protocol developed
+in the second half of the' 705 by the
+
+Defence Advanced Research Project
+National strategic framework for cyberspace security
+
+Agency (DARPA), with the aim of consisting of a ﬁrewall, an antivirus
+allowing communication among software, and systems to ﬁlter spam
+different types of computers and and its contents.
+
+computer networks. TCP/IP is7 still Web defacement
+
+today,used bythelnternet. An attack carried out against a
+
+UTM — Uniﬁed Threat Management website and consisting in modifying
+An integrated security product the contents of the homepage or of
+to protect From multiple threats, other pages oFthe website.
+
+44
+
+

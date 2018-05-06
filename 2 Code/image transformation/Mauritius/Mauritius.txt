@@ -1,0 +1,1312 @@
+REPUBLIC OF MAURITIUS
+
+NATIONAL CYBER SECURITY STRATEGY
+2014 - 2019
+
+0’
+
+FOEA REéMENT ANDéECURE MAURITIUS
+
+~ «c:- J a
+
+The time has come for the protection mindset to be broadened — to embrace the broader concept of
+resilience The aim is to build a more resilient nation — one where all Mauritians are better able to
+
+adapt to change, where we can reduce exposure to risks, and where we are all better able to bounce
+back from disaster.
+TABLE OF CONTENTS
+
+Part 1
+1. Introduction ............................................................................................................................... 5
+2. Vision, Mission And Goals For Cyber Security ..................................................................... 6
+Part 2
+3. Cyber Security Management And The Mauritian Approach ............................................... 8
+Part 3
+4. Strategic Guidelines For Cyber Security .............................................................................. 14
+5. Importance Of The National Cyber Security Strategy And Action Plan .......................... 15
+Part 4
+6. National Cyber Security Strategic Action Plan .................................................................. 188
+
+ZIPage
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+List of Abbreviations
+
+AML — Airports of Mauritius Limited
+
+BOM 7 Bank ofMauritius
+
+CEB 7 Central Electricity Board
+
+CERT-MU — Computer Emergency Response Team of Mauritius
+CIB 7 Central Informatics Bureau
+
+CISD 7 Central Information Systems Division
+
+CWA — Central Water Authority
+
+DPO 7 Data Protection Ofﬁce
+
+FSC 7 Financial Services Commission
+
+GOC — Government Online Centre
+
+IBA 7 Independent Broadcasting Authority
+
+ICTA — Information and Communications Technologies Authority
+ISP — Internet Service Providers
+
+ITSU 7 IT Security Unit
+
+MBA — Mauritius Bankers Association
+
+MCCI — Mauritius Chambers of Commerce and Industry
+
+MICCP — Ministry of Industry, Commerce and Consumer Protection
+MICT — Ministry of Information & Communication Technology
+MIH — Mauritius Institute of Health
+
+MITIA 7 Mauritius IT Industry Association
+
+MOBEC - Ministry of Business, Enterpﬁse, and Cooperatives
+MOE/HR — Ministry of Education and Human Resources
+MOFARIIT 7 Ministry of Foreign Affairs, Regional Integration and International Trade
+MOFED — Ministry Of Finance and Economic Development
+MOGECFW - Ministry of Gender Equality, Child Development and Family Welfare
+MPA 7 Mauritius Ports Authority
+
+MRA — Mauritius Revenue Authority
+
+MSA— Mauritius Sugar Authority
+
+MSB 7 Mauritius Standards Bureau
+
+MTPA — Mauritius Tourism Promotion Authority
+
+NCB — National Computer Board
+
+NGO 7 Non—Governmenta] Organisations
+
+OTAM — Outsourcing & Telecommunications Association of Mauritius
+PMO — Prime Minister’s Ofﬁce
+
+SIL 7 State Informatics Limited
+
+SLO — State Law Office
+
+SMEDA — Small and Medium Entelprises Development Authority
+TEC 7 Tertiary Education Commission
+
+3|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+PART 1
+
+Introduction
+
+Vision, Mission And Goals For Cyber Security
+
+ 
+
+4|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+1. INTRODUCTION
+
+Societies are becoming increasingly more dependent on information and communication
+technologies which are globally interconnected. With these growing dependencies, information
+systems and networks are extremely vulnerable to disturbances which can affect their
+functioning. Cyber-security threats have become more sophisticated and have more serious
+repercussions than before. There is a growing misuse of electronic networks for criminal
+purposes or for objectives that can adversely affect the integrity of a nation’s critical
+infrastructures. Cyber—attacks can be mounted at any time, against anyone and from anywhere. In
+a realm, where technology and change are speeding, responding effectively to cyber threats
+require a consistent and extensive effort. To address the cyber security issues in Mauritius, a
+National Cyber Security Strategy is required which will define the main goals, guidelines and
+action plans to respond effectively to cyber threats. The strategy also recognizes the fundamental
+challenge of balancing the measures intended to protect security.
+
+By following the strategic guidelines and measures, Mauritius will be able to manage deliberate
+and unintentional disturbances in the cyber space as well as respond to and recover from them.
+The aspiration is that the action plans outlined in this strategy will position Mauritius where
+citizens know what to do to protect them; law enforcement is tackling cyber criminals; effective
+cyber security is seen as positive for business in Mauritius; online public services are secure and
+the threats to our national infrastructure and national security have been confronted.
+
+The strategy provides an overview of what it takes to effectively protect information systems and
+networks and also gives an insight into the Government’s approach and strategy for protection of
+cyberspace in the country. The cybersecurity strategic programmes which were set out in both
+NICTSP 2007-2011 and NICTSP 2011-2014 have been taken into account to build the
+cybersecurity strategic plan. The inputs have also been taken from the survey conducted on the
+State of Information Security in Businesses in Mauritius completed in October 2013. The
+purpose 0fthe survey was to assess the security posture of businesses in Mauritius.
+
+The cyber security policy is an evolving task and it caters to the whole spectrum of ICT users
+including home users and small, medium and large enterprises and Government & non-
+Government entities. It serves as an umbrella framework for deﬁning and guiding the actions
+related to the security of cyberspace. It also enables individual sectors and organisations in
+designing appropriate cyber security policies to suit their needs.
+
+5|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+2. VISION, MISSION AND GOALS FOR CYBER SECURITY
+
+Vision
+
+Mission
+
+ 
+
+Goals
+
+To achieve this vision, we want:
+
+Goal 1:
+
+To secure our Cyberspace and establish a front line of defense against
+Cybercrime.
+
+      
+      
+     
+ 
+
+Goal 2:
+To enhance our resilience to Cyber Attacks and be able to defend
+against the full spectrum of Threats.
+
+Goal 3:
+
+To develop an efﬁcient collaborative model between the authorities
+,. and the business community for the purpose of advancing National
+Cyber Security and Cyber Defense.
+
+    
+  
+
+ 
+
+ 
+
+  
+    
+ 
+
+  
+ 
+ 
+  
+
+Goal 4:
+
+To improve the Cyber Expertise and the comprehensive Cyber
+Security Awareness of the society at all levels.
+
+  
+      
+
+6|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+PART 2
+
+C yber Security [Vlanagement And The [Mauritian Approach
+
+ 
+
+7|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+3. CYBER SECURITY MANAGEMENT AND THE MAURITIAN APPROACH
+
+Preparing for cyber threats and cyber defense involve immediate, transparent and better
+coordinated action from all parties in society, both individually and collectively. It is important
+to provide political guidance and strategic guidelines for cyber security and take necessary
+decisions regarding the allocation of resources and prerequisites.
+
+Cyber Security management requires that the different stakeholders have a reliable, real—time
+cyber security situation depiction of the condition of society’s key functions and the disturbances
+which can affect their functions. The natures of threats highlight the importance of cooperation
+as well as efficient and ﬂexible coordination.
+
+National cyber resilience will be tailored to ensure the preparedness and predictive capabilities
+required by the goals and to facilitate its operating capability during cyber conﬂicts and post-
+conﬂict recovery.
+
+3.1 Principles
+
+ 
+
+The Mauritian approach for managing cyber security is built 011 the followingprinciples:
+
+1.
+
+3‘
+
+Cyber security is a significant part of the comprehensive security of society. The
+approach for the implementation of the national cyber strategic plan is based on the set of
+goals for cyber security.
+
+Cyber Security relies on the information security preparedness 0f the whole nation. The
+implementation of a CIIP framework will help in protecting the national critical
+information infrastructures. This will also include developing and offering expeltise and
+advice, support and implement responses to threats or incidents and strengthen crisis
+management.
+
+The methodology for the implementation of national cyber strategic action plan is
+established on efﬁcient and comprehensive collection of information, an analysis and
+gathering system along with common and shared situation awareness, national and
+international cooperation in preparedness. This requires the establishment of an Anti-
+Cyber Threat Monitoring System which will aid to better respond, monitor and
+coordinate cyber threats at national level by operating on a 24/7 basis.
+
+Cyber security is being constructed to meet its functional and technical requirements. A
+comprehensive framework will be set up to monitor Internet traffic which might be
+harmful to the nation and society.
+
+BIPage
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+5. In order to ensure cyber security development, Mauritius will see to it that appropriate
+
+legislations and incentives exist to support the business activities and their development
+
+in this field.
+
+3.2 Proposed Governance Structure
+
+ 
+
+Project Owner
+GOVERNANCE STRUCTURE
+
+Reports to
+
+     
+    
+
+Decision Making Body
+
+   
+ 
+
+Law
+Enforcement Academla
+Agencies
+
+    
+ 
+
+Stakeholders
+
+ 
+
+ 
+
+ 
+
+To enable a collaborative working of all key players in public and private sector to safeguard the
+country’s information infrastructure, a partnership of government, corporate and private
+stakeholders is important and will lead to the success of the implementation of the strategy. An
+effective public—private partnership for cyber security would provide the abilities to identify
+threats, anomalous behaviours, respond to them and will create a more secure network
+environment through better standardized security programs. This partnership will also set a stage
+to carry out research and development and ﬁnd ways to mitigate security threats. Finally, this
+will also help to empower stakeholders to properly address cyber threats.
+
+9|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+Stakeholders and their Roles
+
+The different stakeholders and their roles towards this collaborative framework are described
+below:
+
+Stakeholders Roles
+Ministry of [CT I Acts as the Project owner and is responsible for setting—
+up of the necessary legal framework for strategy
+implementation.
+
+ 
+
+Nationaleber SecurityCommittee The National Cyber Security Committee acts as the
+decision making body and will include representatives
+from the MICT, National CERT (CERT—MU), Law
+Enforcement and Regulatory Bodies, Critical Sectors,
+PMO, Data Protection Office, Vendors & Private sectors
+and Academia to oversee and monitor the implementation
+of the strategy.
+
+The role of the National Cyber Security Committee will be
+to:
+
+0 Lead activities associated with developing and
+managing national CIIP efforts, including coordinating
+policy development, outreach and awareness, risk
+assessment and management efforts, funding and
+suppon for the CUP program efforts.
+
+0 Serve as an important escalation functions for resolving
+important issues and emergencies.
+
+ 
+
+NationalCERT The National CERT (CERT-MU), a division of the
+National Computer Board is the advisory body for
+information security issues in the country.
+
+The responsibilities of the National CERT will be:
+
+I To implement the outputs generated from the
+cybersecurity committee.
+
+I To handle and coordinate cyber security incidents.
+
+I To monitor and analyse the information security
+situation at national level.
+
+I To prevent occurrence and recurrence of cyber
+incidents by developing incentives for cyber security
+compliance and proactive actions
+
+I To promote the adoption of best practices in
+information security and compliance.
+
+ 
+
+ 
+
+ 
+
+10|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+ 
+
+0 To interact with government agencies, industry, the
+research community, and others to analyse cyber
+threats and vulnerabilities, disseminate reasoned and
+actionable cyber security information such as
+mitigations to the public.
+
+ 
+
+Law Enforcement Law Enforcement will be represented by members of the
+Police. Their roles will be to:
+
+0 Enable effective prevention, investigation, and
+prosecution of various aspects of cybercrime
+that intend to steal information or compromise
+the integrity of critical operations.
+
+ 
+
+Regulatory Bodies The Regulatory bodies shall include the ICTA, IBA and
+the Bank of Mauritius (the ﬁnancial sector regulator). The
+roles of the regulatory bodies will be to:
+
+0 Establish, control, inspect and enforce
+regulations with regard to cyber security
+
+0 Encourage organisations to adopt security best
+practices and guidelines
+
+ 
+
+Critical Sectors The critical sectors will include members from different
+the financial services (FSC, MRA), Tourism (MTPA),
+CEB, CWA, ICT & Broadcasting, Health (MIH),
+Government Services (GOC, CISD), Manufacturing
+(MEXA), Transport & Logistics (AML, MPA), Sugar
+(MSA) and Customs (MRA).
+
+The role of the critical sectors will be to facilitate
+identiﬁcation, prioritization, assessment and protection of
+critical information infrastructure through information
+sharing and reporting.
+
+ 
+
+Prime Minister’s Ofﬁce (PMO) The Representatives of the PMO would be the PMO
+Security Division and Counter Terrorism Unit. Their roles
+will be to advise and support the implementation of the
+strategy geared towards protecting Mauritius from cyber
+threats and attacks.
+
+ 
+
+IT Security Unit The IT Security Unit will establish IT Security best
+practices and promote implementation of information
+security standards within the Civil Service.
+
+ 
+
+Data Protection Office The Data Protection Ofﬁce will act as the advisory body on
+data protection and privacy issues.
+
+ 
+
+ 
+
+ 
+
+11|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+ 
+
+Academia Academia will consist of members from the Tertiary
+Education Commission, the Universities and Tertiary
+Education Institutions. The roles of the academia will be
+to:
+
+0 Encourage Research & Development to develop
+trustwonhy and cost effective security solutions
+
+- Collaborate with industry in frontline technologies
+and solution oriented research
+
+- Develop educational and training programs for the
+formation of information security professionals and
+students
+
+ 
+
+Vendors and Private Sectors Vendors & Private Sectors will be represented through
+respective Associations. Their responsibilities will be to:
+
+0 To advise on secure products and services which are
+critical to the information infrastructure operators and
+the general participants in the national economy
+
+- To provide strategic insights on security architecture,
+operations and risk management approaches to users
+
+I To provide patches and mitigation strategies in the face
+of attacks
+
+ 
+
+ 
+
+ 
+
+12|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+PART 3
+
+Strategic Guidelines For Cyber Security
+
+Importance Of The National C yber Security Strategy And Action Plan
+
+ 
+
+13|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+4. STRATEGIC GUIDELINES FOR CYBER SECURITY
+
+A national cyber security strategy is established in line with the strategic guidelines. This will
+create the conditions for the realization of the national cyber security vision. A separately
+prepared action plan will outline the measures to achieve the national cyber security goals. The
+implementation of the strategic guidelines will reinforce national and international cooperation.
+Such collaboration can best serve the whole society and suppon the stakeholders who play a
+significant role in the cyber security community. Cyber security is constructed on capabilities
+development over the long term, their convenience and ﬂexible use and the resilience of
+society’s key functions against the disturbances in cyber security.
+
+Strategic Guidelines
+
+Guidelines
+
+To secure our Cyberspace and establish a front line of defense against Cybercrime
+
+This initiative is aimed at building an approach to Cyber defense strategy that prevents
+interference and attack in cyberspace by improving capabilities, articulating roles and
+developing appropriate responses for public and private sector. By creating or enhancing shared
+situational awareness of network vulnerabilities, threats and events and the ability to act quickly
+to reduce our current vulnerabilities and prevent intrusions can help in securing our cyberspace.
+Additionally, this strategic guideline also emphasizes on enhancing the capacity of law
+enforcement agencies to investigate and prosecute cybercrime. Cyber defense against
+cybercrime will be exercised and developed together through international cooperation and the
+exchange of information.
+
+To enhance our resilience to Cyber Attacks and be able to defend against the full spectrum
+of threats
+The strategic guidelines of the National Cyber Security Strategy are advanced by intensifying
+
+efforts to protect the critical infrastructure and networks in order to provide reasonable assurance
+of resilience and security to support national missions and economic stability. The well-being of
+the national economy, secu1ity and quality of life is becoming increasingly dependent on the
+safety and the robustness of critical infrastructures whose disruptions can affect a nation’s ability
+to function effectively in crisis. Key importance is being given to government information
+infrastructure & systems which will be protected against cyber threats through security audits
+and implementation of national and international Information Security standards. The goal is to
+detect and identify any disturbances to the vital functions and to respond to them in a manner
+which minimizes their detrimental effects.
+
+14|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+To develop an efﬁcient collaborative model between the authorities and the business
+community for the purpose of advancing National Cyber Security and Cyber Defense
+
+The strategic guidelines of the Cyber Security Strategy are reinforced by strengthening active
+collaboration between actors whose aim is to achieve a shared situation awareness and effective
+defense against the cyber threats. A common set of criteria will be created to facilitate
+identiﬁcation of critical IT infrastructures and systems, A method will be devised for risk and
+vulnerability assessments. Cyber defense will be advanced by promoting the exchange of
+information and regulations as well as through cooperation between the authorities and the
+business community.
+
+To improve the Cyber Expertise and the comprehensive Cyber Security Awareness of all
+societal actors
+
+Encouraging a cadre of cyber security professionals and building capacity to deter and
+defend against high-end threats
+
+In a secure infonnation society, everyone must be aware of the information security risks of their
+actions and their responsibility in preventing those risks. This strategy is intended to raise the
+level of competence by investing in the expertise of information security professionals and in the
+general awareness of information security of all actors. T0 continuously improve the competence
+and awareness of the actors, inputs will be made to promote the development of a cadre of
+skilled cyber security professionals and capacity building so that Mauritius can retain an edge in
+this area and development to keep producing innovative solutions operations in cyberspace.
+
+By promoting awareness of the need for cyber security, the Strategy will encourage individuals,
+Industry and all levels of government to adapt behaviour and adopt the technology required to
+confront evolving cyber threats.
+
+The cooperation between industry and academia on knowledge sharing in information security
+areas will also be promoted by holding regular annual conferences on information security
+targeting major players and participants in the region.
+
+5. IMPORTANCE OF THE NATIONAL CYBER SECURITY STRATEGY
+AND ACTION PLAN
+
+The ICT sector is inﬂuencing the lives of people through direct or indirect contribution to the
+various sociO-economic parameters such as employment and standard of living. It is playing a
+significant role in transforming Mauritius into a cyber-hub in the African region. The
+Government has also been a key driver for increased adoption and promotion of IT based
+
+15|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+products and IT enabled services in the public services (e—Govemment services to citizens),
+education (e—learning, virtual classrooms) and ﬁnancial services (mobile banking, Intemet
+banking). Such initiatives have enabled increased IT adoption in the country.
+
+In the light of the growth of the ICT sector in Mauritius, providing the right focus for creating a
+secure computing environment has become one of the compelling priorities for the country.
+Cyber space is vulnerable to a wide variety of incidents which could hamper economic, public
+health, safety and national security activities. Reputation, trust and brand value can all be
+seriously affected by information loss and theft.
+
+However, with rapid identification, information exchange, investigation and coordinated
+response and remediation, the damaged caused by malicious activities can be mitigated. The
+protection of information infrastructure and preservation of the confidentiality, integTity and
+availability of information is the essence of a secure cyberspace.
+
+Due to the dynamic nature of the cyberspace, there is a need to address the security challenges
+and issues. These actions are unified under a National Cyber Security Strategy which sets out
+guidelines, measures and action plans that will provide reasonable assurance of resilience and
+security to support national missions and economic stability. A secure society makes it easier for
+both individuals and businesses to plan their activities, which in turn boosts economic activity as
+well as improve the country’s appeal for international investors. The implementation of the
+strategy is planned over a period of 5 years from 2014 to 2019.
+
+16|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+PART 4
+
+National Cyber Security Strategic Actinn Plan
+
+ 
+
+17|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+6. NATIONAL CYBER SECURITY STRATEGIC ACTION PLAN 2014 - 2019
+
+  
+
+GOAL 1: T0 SECURE OUR CYBERSPACE AND ESTABLISH A FRONT LINE OF DEFENSE AGAINST CYBER CRIME
+
+ 
+ 
+ 
+   
+
+         
+
+ 
+
+Appruach Project Project Name Description] Lead Stakclmldcrlsl Priority Start End Date
+Code
+
+     
+
+ 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tackling cyber Setting up of 3 Cyber To better respond, monitor and MICT
+security Threat Monitoring System coordinate cyber threats at ICTA
+Reducing online national level It will also ITSU
+vulnerability include a cyber-forensics lab for CERT-MU DPO
+Limiting criminal carrying out forensic activities. POLICE
+activity online PMO
+Stimulating more ISPs
+effective CSIPZ Setting up of a content For controlling and blocking MICT High 2015 2016
+partnerships ﬁltering system to block access to age-sensitive content CERT-MU
+illicit materials on ICT on mobile devices. ICTA
+. MICT
+Making it safer to do dev1ces ISPs
+business in DPO
+cyberspace POLICE
+- increasing ITSU
+awareness and CSlP3 Establish a mechanism for This mechanism will help to MICT High 2015 2016
+visibility ofﬂn‘eats the removal of illegal remove online , illegal child CERT-MU ICTA
+Improvmg contents content after 1t has been POLICE
+Incident Response identiﬁed MOGECFW
+Protecting NGOlS
+Information and CSlP4 Conducting Cyber Security To conduct regular cyber High 2015 2017
+Services Drills security drills and exercises at
+‘ national and or anizalional level MICT
+Fostenng a culture a1 th g _ CERT-MU ICT A
+that manages the to dev Illatel e sgcunty posture ITSU POLICE
+risks an eve . o §n1ergency CRITI C AL
+Promoting preparedness 1n resmmg and SECTORS
+conﬁdence in dealmg thh cyber secunty
+cyberspace 1nc1dents.
+C51P5 Enhance Law Enforcement I To develop new training, MICT High 2015 2019
+capability on cybersecurity giving more capability to POLICE SLO
+understand and investigate CERT-MU
+cybersecurity. ICTA
+
+ 
+
+l CSlPl — Cyber Security Strategic Goal 1 Project 1
+
+18|Page
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+ 
+
+19|Page
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c To incorporate eleclrunic DPO
+evidence and introductory
+cybercrime training within
+the curriculum for law
+enforcement agencies.
+I To include training on
+cybercrime and electronic
+evidence for all new police
+recruits
+CSIPG International and Regional To promote greater levels of MICT High Ongoing
+Cooperation on cybercrime cooperation regionme and ICTA
+internationally and shared ITSU
+understanding on cyber-crime. CERT-MU DPO
+POLICE
+MOFARIIT
+CSlP7 Enhance the security of To develop effective public MICT High 2014 2019
+cyberspace private partnership and ICTA
+collaborative engagement ITSU
+through technical and DPO
+operational cooperation between CERT'MU POLICE
+authorities and business PMO
+community. ISPs
+CRITICAL
+SECTORS
+CSIPS Legal Framework 0 To develop a dynamic legal High 2014 2016
+Assessment ﬁ'amework and its periodic
+rev1e\-av to address c-yper CERT-MU
+secunty challenges ansmg SLO
+out of technological ICT A
+developmefxts m Icy1)er MICT ITSU
+spflce and IIS harnnongnon DPO
+w1th mtematxonal POLICE
+frameworks.
+ISPs
+
+ 
+
+ 
+
+I To introduce in the law the
+possibility to intercept
+communications on real—
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+    
+    
+
+ 
+
+time and to retain trafﬁc
+data for a speciﬁc period of
+time.
+
+GOAL 2: TO ENHANCE OUR RESILIENCE T0 CYBER ATTACKS AND BE ABLE TO DEFEND AGAINST THE FULL SPECTRUM OF THREATS
+
+  
+    
+ 
+  
+   
+
+          
+ 
+
+ 
+ 
+
+Approach Project Name Description] Lead Slakclmldurtsh Priority Start End
+
+   
+
+   
+
+      
+
+ 
+
+ 
+
+ 
+
+Date Date
+Defending our Develop and Implement a To protect the national critical MICT 2014 2015
+national CIIP Framewurk information infrastructures and ICTA
+infrastructure from 5511ng up of sectoral CERTs Io ISPs
+cyber attacks coordinate and communicate CRITICAL
+- Reinforcing actions within respective sectors SECTORS
+defenses in cyber for effective incident response CERT'MU DPO
+space and resolution and cyber crisis MITIA
+Improving management. POLICE
+resilience and ITSU
+reducing the PRIVATE
+impact of cyber SECTORS
+attacks CS2P2 Development and To enable organisations to ITSU High 2015 2018
+Implementation of a Cyber respond to cyber incidents and ICTA
+Ensuring that Crisis Management Plan assess the preparedness of DPO
+Mauritius has the organisations to withstand cyber- CERT-MU PMO
+capability to protect attacks. ISPs
+our interests in cyber CRITICAL
+space SECTOR
+POLICE
+. Improving our CS2P3 Provision for Fiscal To encourage organisations to MICT Medium 2016 2017
+ability to detect Schemes and Incentives install, reinforce and upgrade CERT-MU MOFED
+threats in cyber information infrastructure with SMEDA
+space regard to cyber security‘ MOBEC
+Increasing uur CS2P4 Creation of a naﬁonal test- To provide a secure and resilient MICT CERT—MU Medium 2016 2019
+capability to bed for network security infrastructure by encouraging 3.11 MOFED ITSU
+prevent and organizations to periodically test ISPs
+disrupt attacks on and evaluate the adequacy and VENDORS
+Mauritius effectiveness of technical and ACADEMIA
+operaﬁonal security conn'ol CRITICAL
+measures implemented in IT SECTORS
+systems and networks. CISD
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ZOIPage
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Adoption of a
+
+threats
+
+Cyber
+Security Controls Scheme
+for protection against cyber
+
+  
+  
+
+To mandate the implementation
+and accreditation of a Cyber
+Security Controls Scheme within
+organisations‘ This will provide
+the basic but essential level of
+protection within organizations’
+IT systems in order to mitigate
+the risks emanating from cyber
+threats
+
+CERT-MU
+
+    
+ 
+ 
+    
+   
+   
+   
+   
+   
+
+GOAL 3: DEVELOP AN EFFICIENT COLLABORATIVE MODEL BETWEEN THE AUTHORITIES AND THE BUSINESS COMMUNITY F OR THE
+PURPOSE OF ADVANCING CYBER SECURITY
+
+ADPI‘OdLh
+
+   
+
+ 
+   
+
+Helping to shape the
+
+development of cyber
+
+space
+
+0 Promoting an open
+and interoperable
+cyberspace
+Protecting our way
+of life
+Ensuring security
+without
+compromising our
+values
+
+lePage
+
+Project Name
+
+Description
+
+  
+      
+
+Stakeholdcrtsb
+
+Priuuly
+
+S -' rt
+Dale
+
+End
+Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+Promote Information Risk To promote Information Risk
+Management at National Management using standard ITSU
+s CERT-MU RISK MGT
+level frameworks such as NIST s FIRMS
+Framework for Cybersecurity
+within public and private sector.
+CS3P2 Promote the universal T0 adopt the implementation of MSB Medium Ongoing
+adoption of Information security standards such as ISO CERT-MU ITSU
+Security standards at 27001, ISO 27003, ISO 27004, ISO SGS
+National level 27005, ISO 27006.
+CS3P3 Promote Secure software To encourage secure software CERT-MU MICT High 2015 2018
+Development development processes based on ACADEMIA
+global best practices. MITIA
+CS3P4 Promote the designation of To encourage all organisations, Medium 2017 2019
+a Senior Information private and public to designate
+Security Personnel (CISO, member of a senior management as CERT-MU APPLICABLE
+IS Consultants, Chief Information Security Ofﬁcer, TO ALL
+Information Security IS Consultants, Information SECTORS
+Experts) within Security Experts responsible for
+organisations security efforts and initiatives.
+CS3P5 Promote the ISMS to be implemented for High 2014 2019
+tmplemehtatlon 0f. Mtntstrtes and 'Depanments wtth ITSU MICT
+Information Secunty Cntlcal Informatwn Systems .
+Standards in the Civil & Lme CIB
+- Ministries CISD
+Servtce
+ZZIPage
+
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+ 
+
+ 
+
+CS3P6 To promote e-Governmenl T0 mandate the implementation of MICT High 2014 2019
+initiatives and ensure global security best practices, . CERT-MU
+conformance to security business continuity management .L.me. ITSU
+_ _ . . Mlmstnes/
+beslplactlces. and cyber crms management plan Department GOC
+for all e-Govemment initiatives to CIB
+decrease the risk of disruption and CISD
+improve the security posture.
+C53P7 Adoption of guidelines for To encourage organisations to adopt MICT Medium 2017 2019
+procurement of ICT guidelines to procure trustworthy CERT»MU
+products ICT products and provide the ITSU
+procurement of manufactured ICT CIB
+products that have security CISD
+implications. PUBLIC
+PROCUREMENT
+ICTA OFFICE
+MRA
+Ministry of
+Industry,
+Commerce &
+Consumer
+Protection
+CS3P8 Conducting mandatory To make security audit mandatory CERT-MU High 2014 2016
+Information Security on a periodic basis for assessing the ITSU
+Audit organisation’s security postme, SLO
+including critical information ICTA
+infrastructure. MICT CIB
+MOFED
+DPO
+BANK OF
+MAURITIUS
+CS3P9 Collaboration with c To collaborate jointly with MICT Medium 2017 2019
+industry for research and industry and academia to ITSU
+development support the application of AC ADEMI A
+research for building innovative CERT-MU MRC
+cyber security solutions and I d
+enhance our technical A n ustly
+ssocxatxons
+
+ 
+
+ 
+
+capabilities to support our
+national security interests and
+ACTORS
+Approach
+
+Extending knowledge
+
+0 Building a
+coherent cross-
+sector agenda
+Deepening
+
+understanding of
+the threats.
+vulnerabilities and
+risks
+
+Enhancing skills
+0 Building a culture
+that makes people
+
+Z3|Page
+
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+wider economic prosperity.
+
+- T0 enlarge and strengthen the
+
+cyber security research
+community by formalis'mg the
+coordination and prioritisation
+of cyber security research and
+development activities.
+
+ 
+
+CS3P10
+
+ 
+
+To establish
+collaborative
+
+a
+
+frame work
+
+with vendors and service
+providers to improve the
+visibility of the integTity
+
+of ICT products
+
+and
+
+testing and validating the
+security of such products
+
+ 
+
+I To foster trusted relationships
+
+with product/system vendors
+and service providers for
+improving end-to-end supply
+chain security visibility‘
+
+- To encourage a consortium of
+
+Government and private sector
+to enhance the availability of
+tested and certiﬁed IT products
+based on open standards
+
+ 
+
+ICTA
+
+ 
+
+MICT
+ITSU
+CERT-MU
+Industry
+Associations
+MlCCP
+PROCUREMENT
+OFFICE
+MINISTRY OF
+INDUSTRY &
+COMMERCE
+
+ 
+
+Medium
+
+ 
+
+2017
+
+ 
+
+2019
+
+GOAL 4: TO IMPROVE THE CYBER EXPERTISE AND THE COMPREHENSIVE CYBER SECURITY EDUCATION & AWARENESS OF ALL SOCIETAL
+
+ 
+
+Pru' ct Project Name Actions tu Include Lend Stukehuldertst Priority Start End
+Code Dale Dute
+CS4P1 Promote security To promote security certiﬁcations MICT Medium 2016 2019
+certiﬁcations and trainings from organisations such as EC— ITSU
+fromrenowned Council, OWASP, ISC2, SANS ICTA
+International organisations amongst others can be considered CERT-MU ACADEMIA
+for security professionals. INDUSTRY
+ASSOCIATIONS
+CS4P2 Establish cyber security To establish cyber security training MICT Medium 2016 2019
+training programmes for programmes for SMEs. This Will NCB MINISTRY OF
+SMEs help to foster a culture of (CERT-MU) BUSINESS
+information security within the SMEDA ENTERPRISE
+SME sectur‘ INDUSTRY
+Republic of Mauritius - National Cyber Security Strategy
+
+ 
+
+ 
+
+ 
+
+understand risks
+and enable them to
+use cyberspace
+securely.
+
+ 
+
+Expanding capability
+- Building technical
+
+to respond to
+incidents
+
+ 
+
+ 
+
+ 
+
+ 
+
+Security annual events
+
+ 
+
+major players and participants in
+the region.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ASSOCIATION
+ICTA
+CS4P3 Cyber Security Education To improve educational MICT High 2014 2019
+involvement with cyber security at CERT-MU
+. TEC
+all levels (pnmary, secondary and MOE/HR ICTA
+teniaxy) through curriculum ITSU
+development and research. POLICE DEPT
+CS4P4 Cyber Security AwaIeness To improve Cyber Security High 2014 2019
+in Civil Service Awareness and Education in Civil ITSU MICT
+Service MCSAR
+CS4P5 Organisation of To hold regular annual conferences Medium 2015 2019
+. . . . . CERT—MU
+Internatxonal Cyber on mformatlon secunty targetmg MICT ICT A
+
+ 
+
+Z4|Page
+

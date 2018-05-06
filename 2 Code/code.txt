@@ -1,0 +1,4 @@
+TF-IDF Model
+Select top 3 stems(stemmed by PorterStemmer) of highest tf-idf values to represent each sentence.
+LDA Model
+Apply LDA model to assign a topic for each sentence.

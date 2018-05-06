@@ -1,0 +1,1338 @@
+-IRITY STRATEGY OF LATVIA
+2014—2018
+
+CYBER SECURITY STRATEGY OF LATVIA
+2014—2018
+
+CONTENTS
+
+1. Introduction ........................................................................................................................................................................... 2
+2. Aims and Basic Principles of the Policy ............................................................................................................................... 3
+3. Overview of Cyber Security in Latvia ................................................................................................................................ 4
+4. Key Areas of Action ............................................................................................................................................................... 5
+
+ 
+
+4.1. Governance and Resources of Cyber Security:
+
+National Cyber Security ........................................................................................................................................... 5
+State Owned ICT ........................................................................................................................................................ 7
+Critical Infrastructure .............................................................................................................................................. 8
+Human Resources ...................................................................................................................................................... 9
+4.2. Rule of Law in cyber space and Reduction onyber Crime ................................................................................ 10
+4.31 Crisis Management ................................................................................................................................................... 1 l
+4.4. Awareness raising, Education and Research ............................................................................................................... 12
+4.5. International Cooperation ........................................................................................................................................... 14
+
+ 
+
+5. Link to Other Development Planning Documents .
+
+ 
+
+6. Final Remarks ......................................................................................................................................................................... 17
+7. Acronyms and Deﬁnitions of Terms .. . 18
+Appendix No. 1 — Visualisation of National Cyber Security Policy Coordination ........................................................... 21
+1. INTRODUCTION
+
+Latvian state administration, society and economy depend
+on the opportunities and services ensured by information
+and communication technology (hereinaﬁer — ICT), and
+ICT determines the existence of information society in
+Latvia. The Sustainable Development Strategy of Latvia
+deﬁnes the promotion of the further development of a
+modern and innovative society, open for new ideas and
+the use of high technology as an asset for the economic
+development and global competitiveness of Latvia'
+
+Due to the increasing use of ICT in society, state ad-
+ministration, and the economy, its illegal use, damage,
+paralysis or destruction may cause threats to state and
+public security, public order and economic activity,
+as well as the hindrance of the further development of
+the national economy. It is possible to intentionally and
+unintentionally disturb or suspend the operation of the
+network of state information systems and electronic
+communications, as well as to encumber the functions
+of the political, economic and military decision-making
+mechanisms of the state, cause material damages, mis-
+information of society, and trigger technogenic failures.
+Insecurity in cyber space may impact the reliability of
+the use of ICT and thus prevent the development of a
+
+' Sustainable Development Strategy of Latvia until 2030.
+
+2
+
+modern and innovative society. During politically, so-
+cially, or economically sensitive developments, major
+cyber attacks may be directed against Latvia. A secure
+and reliable information society and e-government is not
+possible in a state without a national competence in cy«
+bet security and cryptography.
+
+With the increasing trend of society’s range and use of
+services in cyber space, the number of cyber attacks and
+methods in which attacks are carried out is increasing re<
+spectively.Z
+
+To reduce and prevent the risks and threats in cyber space,
+a uniﬁed and coordinated cyber security policy involving
+both the public and private sector is required. The Cyber
+Security Strategy of Latvia lays down strategic priorities
+in developing cyber security policy and an accompanying
+action plan will be introduced in the ﬁrst half of 2014. The
+Strategy has been developed in line with documents of in-
+ternational organisations, especially the EU and NATO as
+well as according to the measures speciﬁed in the National
+Security Concept and the State Defence Concept.
+
+‘ Symanlec Internet Security Threat Report 2013 about the increase of
+attacks and vulnerability in the world.
+2. AIMS AND BASIC PRINCIPLES OF THE POLICY
+
+The aim of the cyber security yolicy is a secure and reliable
+cyber space, which ensures a safe, reliable, and continuous
+supply of services essential for the state and society.
+
+In implementing the cyber security policy, the following
+principles are being used — development, cooperation,
+responsibility, and openness.
+
+Development - it is possible to protect against rapidly
+growing threats in cyber space only by constantly and
+systematically developing and improving skills in the
+ICT sector and its security specialisation.
+
+Cooperation — the effective protection against threats in
+cyber space unrestricted by geographical boundaries of
+countries or administrative boundaries of institutions is
+
+only possible through cooperation at both the national
+and international level.
+
+Responsibility — it is possible to effectively reduce risks
+in cyber space only if all parties involved in cyber space,
+including individuals, state institutions, and private busi-
+nesses are informed about and aware of the effects of their
+activity or inactivity on their own security and the secu-
+rity of others.
+
+Openness — the cyber security policy is to be imple-
+mented by facilitating the accessibility of information
+and communication technology while respecting the
+rights and fundamental freedoms of an individual,
+searching for a balance between freedom, privacy, and
+security, as well as promoting good practices, ethics,
+and standards in cyber space.
+3. OVERVIEW OF CYBER SECURITY IN LATVIA
+
+Modern society uses ICT more extensivety by both direct—
+1y acquiring information and processing it and creating
+new and widely accessible tools for self-expression, Con-
+venient and diverse mutual communication tools and
+platforms are being used to receive services. A total of
+75.8 ‘36 of the inhabitants of Latvia have used the Internet.
+while 70.3 % use the Internet at least once a week'. The
+number of electronic transactions in the biggest banks in
+Latvia exceeds 90 96 of the total number of transactions,Z
+
+and more than 25 % of state institution services are avail-
+able electronically’.
+
+Extensive use of ICT has changed the daily routine of
+society, and a virtual environment where physical and dig-
+ital actions merge has been created. The idea that ICT is a
+matter of interest ofjust a small group of professionals has
+been gradually substituted by the understanding that the
+entire society is, to a greater or lesser extent, linked with
+ICT, and the range of services provided and supported by
+ICT will increase in the following yams. Since ICT is widely
+used. all members of society — from ICT users to man-
+agers, decision makers and legislators — should have an
+understanding about the basic principles of the processes
+and security of cyber space.
+
+ICT solutions and services have a complicated structure,
+but they are wider accessible. It is easy to use cyber space to
+
+' Central Statistical Bureau Inhabitants using computer/Imernel at the
+beginning ofthe year. 2012.
+
+‘ Latvian Internet Asochuion. Study of Internet Banking in Lam 2011.
+3 Ministry of Envimnmenlal Protection and Regonal Development. Ree
+suhs of Assessment Ind Qualiﬁalion o(a.“ Public Services vaided by the
+State Summary ofnll Department Servm Version 1.02012.
+
+4
+
+cause damage to an individual, a societal group, or a coun-
+try as a whole. Furthermore, the use of ICI‘ tools can re—
+strict the rights and fundamental freedoms of an individual
+
+or violate the right to privacy and personal data protection.
+
+The situation in Latvian cyber space is characterised by
+a considerable number of ICT security incidents, from
+several incidents of high signiﬁcance to hundreds of in-
+cidents of low signiﬁcance aﬁ'ecting state and municipal
+institutions, private businesses and individuals. According
+to an overview by CERTLV, 4964 high priority incidents
+and over 200 thousand low priority incidents have been
+registered in 2013.‘ The trend of politically, socially or
+economically sensitive developments being accompanied
+by intentionally organised cyber attacks in is increasing.
+Latvia may be subject to an increased risk during its 2015
+Presidency of the Council of the EU.
+
+In order to reduce the number of cases when with the help
+of ICT damage to society is caused, it is important to de-
+velop a set of comprehensive measures that would protect
+cyber space and its services. The strategy sets ﬁve priority
+areas of action:
+
+1. Governance and Resources onyber Security.
+
+2. Rlﬂeoflawincybaspaneandmducﬁmonyba’Crime.
+3. Crisis management.
+
+4. Awareness raising, education and research.
+
+5. International cooperation.
+
+‘ CERTLV Overview 2013.
+4. KEY AREAS OF ACTION
+
+4.1. GOVERNANCE AND RESOURCES OF CYBER
+SECURITY
+
+ICT solutions and services are developed, improved and
+maintained in both the public and the private sector. For
+the solutions and services to be reliable, safe and continu-
+ous, it is necessary to apply information security require-
+ments, standards, and good practices throughout their
+entire life cycle by including risk analysis based security
+planning, and assessing political, economic, social, legal,
+and personal data protection aspects. Cyber security policy
+implementation in Latvia involves a broad, comprehensive
+range of interested parties; therefore it is necessary to create
+an effective cyber security governance model.
+
+National Cyber Security
+
+National cyber security should be viewed in three di-
+mensions k infrastructure, services, and processes #
+where the provision of information safety is required.
+At the moment, cyber security governance is organised
+in a partially centralised model, where the leading insti-
+tutions (according to the respective authority) perform
+the function of handling the strategy, methodology and
+coordination of cyber security, whereas supervisors of
+speciﬁc ICT solutions and services constantly ensure
+practical implementation and execution of the estab—
+lished requirements. National cyber security is based on
+mutual cooperation, where each state authority performs
+its functions, including in cyber space, and cooperates
+with other involved parties directly or through the Na-
+tional Information Technology Security Council (here-
+inafter — Council). The Council has been established
+by the Law on the Security of Information Technolo-
+gy, which determines the development of cyber security
+
+policy at a national level. According to the Law the
+Council coordinates the development of cyber security
+policy and planning and implementation of objectives
+and measures. The Council is the central national au-
+thority for the exchange of information and cooperation
+between the public and private sector, and its operation
+is ensured by the National Cyber Security Policy Coordi-
+nation Section of the Ministry of Defence.
+
+National cyber security policy is developed by
+
+(Visualisation in Appendix No. l):
+
+1. Ministry of Defence (MOD) — coordinates develop-
+ment and implementation of infnnnation technology
+security and protection policy, as well as cooperates
+in the provision of international cooperation. The Na-
+tional Cyber Security Policy Coordination Section of
+the MOD organises and provides support for the im-
+plementation ofcyber security policy.
+
+2. MinistryofForeignAﬁairHMFA) — coordinatesintet-
+national coopeiaﬁm and Iatvia’s participation in vari-
+ousiutemaﬁonaliniﬁaﬁvarelntcdmthecybasecurity.
+
+3. FinancialandCapttalMarket Commission(FCMC) —
+regulates and supervises activities in cyber space of
+members of the ﬁnancial and capital market cyber
+space; the Bank of Latvia (BoL) promotes secure and
+smooth operation of payment systems, while credit
+institutions are responsible for secure availability of
+electronic services in their sector.
+
+4. Ministry of Economics (MOE) - develops economic
+policy and promotes the development of competitive-
+ness and innovation.
+
+5. Ministry of the Interior (M01), State Police (SP) and
+Security Polite (Se?) — implement the policies for com-
+bating crime, public order, security protection, and ﬁle
+protection of rights and legal interests of individuals, as
+well as coordinates the settlement of crisis situations.
+
+6. Information Technology Security Incident Re-
+sponse Institution CERTLV - monitors and analy—
+ses developments in cyber space, reacts to incidents
+and coordinates their prevention. carries out re—
+search, organises educational events and training. as
+well as supervises the implementation of obligations
+speciﬁed in the Law on the Security of Information
+Technology. CER‘IZLV provides support for Latvian
+and foreign state and municipal institutions, entre-
+preneurs, and individuals.
+
+7. Ministry of Education and Science (MoES) — pro-
+motes knowledge and understanding of cyber space
+and its secure use.
+
+8. Ministry of Welfare (MOW) — implements the so-
+cial policy and the policy for the protection of chil-
+dren’s rights.
+
+9. Operation of the Safer Internet Centre of Latvia Net-
+Safz Latvia is ensured by the Latvian Internet Associ—
+ation, educates society about possible risks and threats
+online, and promotes the use of secure internet content.
+
+10. National Armed Forces (NAP) and Cyber Defence
+Unit (CDU) — provide support in crisis situations.
+
+11. Nongovernmental organisations in the IT sector -
+provide support, consult and cooperate with the
+Council in developing and implementing the cyber
+security policy'.
+
+12. Ministry of Transport (MoT) — organises the imple-
+mentation of communication policy.
+
+' Existing partners of the Council: association “ISACA Latvia Chap-
+ter", Latvian Open Technology Association, Latvian Information and
+
+Communication Technology Association. Latvian lntemet Association.
+Asociation of Commercial Banks of Latvia, Latvian Chamber of Com-
+
+merce and Industry.
+
+13. Constitution Protection Bureau (CPB) — oversees
+the critical infrastructure.
+
+14. Ministry of Justice (M01) and Data State Inspec-
+torate (DSI) — develop, organise and coordinate the
+policy on rights in the ﬁeld of personal data pro-
+tection, freedom of information and supervision of
+electronic documents.
+
+15. State )olnt Stock Company “Latvian State Radio
+and Television Centre” (LSRTC) — the only provider
+of reliable certiﬁcation services, which ensures the
+infrastructure of electronic identity cards and elec-
+tronic signatures.
+
+16. Ministry of Environmental Protection and Region-
+al Development (MEPRD) — organises the gover-
+nance of state ICT and coordinates the electrisation
+of public services, whereas State Regional Devel-
+opment Agency (SRDA) ensures the operation and
+development of solutions for shared use of state ICT.
+
+The Law on the Security of Information Technology and
+related Cabinet regulations determine basic security
+requirements for state and municipal institutions and
+providers of public electronic communications services,
+as well as supervisors of the critical infrastructure of ICT.
+In cases of incidents, a set of deﬁ nite procedures for state
+and municipal institutions and owners and legal managers
+of the critical infrastructure are established.
+
+In the private sector, the governance of information securi~
+ty is based on the sustainability of business and secure and
+reliable provision ofservices. In some sectors, there are laws
+and regulations which, for example, apply to credit institu—
+tions, providers of electronic services, or personal data pro-
+tection; but good practices and standards for the security of
+ICT solutions are not widely used. The market of electronic
+communication operators is scattered, and a part of service
+providers do not fulﬁl the requirements speciﬁed in the leg-
+islation, thus causing security risks to both clients and other
+users of ICT infrastructure in Latvia and abroad.
+
+According to the Law on the Security of Information
+Technology, a national Information Technology Security
+Incident Response Institution CER'ELV has been created.
+CERTLV maintains common monitoring of cyber space,
+provides support for Latvian and foreign state and mu-
+nicipal institutions, entrepreneurs and individuals in
+preventing IT security incidents as well as coordinates
+the prevention of security incidents. As activity in cyber
+space increases, CERTLV together with institutions from
+the public and private sectors must develup resources
+which would allow the summarization of technical infor-
+mation about incidents in cyber space and storage of this
+information for analysis and evaluation.
+
+Required actions:
+
+1. Improve coordinated development, implementation
+and evaluation of the national cyber security policy
+within the framework of the National IT Security
+Council through cooperation of representatives of pub-
+lic, non-governmental and private sectors. Strengthen
+the leading position of the Ministry of Defence in a
+coordinated development and implementation of the
+cyber security policy.
+
+2. Create an information exchange medium (platform)
+by promoting the exchange of information among en<
+trepreneurs about topical cyber security threats, prob-
+lems, solutions, good practices, and their application.
+
+3. Implement the assessment of risks to national cyber
+security.
+
+4. Promote the standards and practices of good security
+management in the public and private sector by creat—
+ing understanding about ICT security in the business
+
+environment and organising regular training for lead-
+ing employers.
+
+5. Improve the mechanism of implementation and
+monitoring of security requirements for electronic
+communication operators.
+
+6. Improve the ability of CERT.LV to observe, analyse
+and prevent IT security incidents and cooperate with
+NATO and EU partners on information exchange.
+
+7. Develop CERT.LV resources and competences to per-
+form centralised security tests.
+
+State owned ICT
+
+Cyber security at a national level is closely connected to
+the state ICT governance system, which is now partially
+regulated by the Law on State Information Systems. Its fur-
+ther development has been outlined in the concept of the
+organisational model of state ICT management The con-
+cept sets many tasks for the optimisation of state ICT and
+the improvement of management processes of state ICI‘.
+Fulﬁlment of necessary tasks would allow reaching a ho«
+mogenous, more shared and professionally and rationally
+maintained state ICT infrastructure, which would attract
+better motivated human resources with a higher degree of
+specialisation and higher professional competences, thus
+increasing the overall level of state ICT security. The op-
+timisation of state ICT would. inter aha, allow focusing of
+resources for the improvement of the technological security
+of state ICT solutions, for example, by creating shared solu—
+tions for the continuity of operations, etc. Mth respect to
+the management of state ICT. the concept provides for the
+development and implementation of standards and guide-
+lines for the continuity, reliability and security of electronic
+state administrative processes.
+
+Currently used state ICT solutions and especially state infor-
+mation systems (SIS) contain information, illegal exposure
+or acquisition, distortion or deletion of which can cause
+signiﬁcant damage to a speciﬁc person, society, or state.
+Denying access to SIS or interrupting the operation of sup-
+port systems can completely or partially paralyse the work
+of the public administration. Therefore it is important that
+the development, introduction and operation of state ICT
+solutions, including security management, is carried out in
+a rational, effective, transparent and mutually harmonised
+manner by using best practices of the sector and guidelines
+to minimise to the occurrence of ICT security threats due
+to mistakes as well as deliberate actions.
+
+The Law on State Information Systems provides for a single
+level of technical and organisational requirements for all
+registered systems irrespective of their functionality, value
+of the collected information, and inﬂuence on the execu-
+tion of functions of the public administration, both within
+the institution and outside of it. The lack of differentiation
+of requirements causes inadequate pressure on systems of
+varying signiﬁmnce and capacity, as well as the willingness
+to avoid system registration. Differentiation of the require-
+ments and categorisation of the systems would allow the
+application of more precise and ~ appropriate legal mea»
+sures in case of a criminal oﬁence.
+
+The case study by MOEPRD suggests that one half of the
+holders of state information systems do not ensure mea-
+sures for security management, as they axe not motivated
+or competent. The state ICT security monitoring and
+control system is insufﬁcient.
+
+Required actions:
+
+1. Continue the implementation of improved manage-
+ment measures speciﬁed in the conceptual organisa-
+tional model ofstate ICT management, which provides
+for the development of a uniﬁed ICT architecture and
+
+development or improvement of management process-
+es, standards and guidelines.
+
+2. Develop a legal order for a uniﬁed management of the
+provision of state ICT that provides for a categorisa—
+tion of systems based on a risk analysis and appropri<
+ately differentiated requirement framework for secu-
+rity management.
+
+3. Improve the understanding and knowledge of the
+holders of ICT solutions and infrastructure by organ-
+ising training programmes for the managing staﬂ of
+the state administration and the staff invoked in ICT
+security management.
+
+4. Evaluate the efﬁciency of the supervision of ICT secu<
+rity management, the responsibility and penalties for
+not implementing the security management measures,
+as well as to establish minimum requirements for the
+work of security managers.
+
+5. Organise extraordinary audits and security tests of
+state ICT solutions and infrastructure performed by
+independent organisations.
+
+6. Develop the procedure according to which the institu<
+tions report to a common competent authority about
+the implementation of information security measures.
+
+7. Improve the cooperation between the Latvian Associ-
+ation of Local and Regional Governments, Municipal-
+ities and Institutions in order to improve the security
+management of municipal ICT resources.
+
+Critical Infrastructure
+
+Critical infrastructure of information technology has been
+established for the performance of basic functions essen—
+tial for state and society to ensure the integrity, accessibi—
+lity and conﬁdentiality of the critical infrastructure. Once
+a year the Cabinet of Ministers establishes and reviews the
+information technology mfrastructure whose termination
+can substantially threaten the existence of the state.I The
+critical infrastructure of information technology has been
+included in the critical infrastructure of the state. and its
+owners and legal managers, in cooperation with security
+institutions and CERTLV, consistently improve security
+measures. Planning and implementation of security mea-
+sures for critical infrastructure is regulated by the Cabinet
+of Ministers.‘ For the purposes of exchange of knowledge
+and experience, as well as for the improvement of proce-
+dures, representatives of critical infrastructures are regular-
+ly involved in training organised by CERTZLV.
+
+Required actions:
+
+1. Improve the processing of information and experi-
+ence exchange about incidents, protection of the crit-
+ical infrastructure and prevention of risks among the
+holders of critical infrastructures, CERTLV and state
+security institutions.
+
+2. Organise crisis training and security breach tests at a
+national, regional and international level and in coop-
+eration with the Cyber Defence Unit of the National
+Armed Forces (NAP).
+
+3. Strengthen the security of state ICT resources by
+developing technical tools for the automatic provi-
+sion and control of security, as well as to improve the
+capacity, knowledge and mutual cooperation of the
+security staff,
+
+' Cabinet Regulation No. 496 of l April 2010 “Pinning and Implemen-
+tation Procedure of Identiﬁcation and Security Measum for the Critical
+Infrastructure, including the Critical Infrastructure ofEumpe'
+
+1 Cabinet Regulation No. 100 of 1 February 2011 “Planning and Im-
+plementation Procedure of the Security Measures for the Critical
+Infrastructure of Information Technology”
+
+Human Resources
+
+The situation in state and municipal institutions is char-
+acterised by signiﬁcant differences in human and mate-
+rial resources, from institutions with well—paid and high-
+1y qualiﬁed employees and modem technical resources
+to — in most cases —institutions with employees with
+inadequate qualiﬁcation and low quality information
+technology. This creates an unequal level of fulﬁlment
+of obligations laid down by the legislation in the area of
+information security management in the state adminis-
+tration. Fuxthermore, the restricted availability of highly
+qualiﬁed experts in the labour market does not meet the
+demand of the private sector and companies are using
+outsourcing services to carry out their functions.
+
+The number of ICT security management experts and se-
+curity technology experts in the Latvian labour market is
+small. The professional standard for ICT security manag-
+ers and a certiﬁcation procedure for this speciality have
+not been established, and study programmes in comput—
+ing, computer science and information technology do not
+purposefully train experts for this specialisation. There
+are minimum competency requirements established for
+the ICT security managers in state administration in-
+stitutions. IT specialists from state and municipal insti-
+tutions participate in “Be secure” training seminars and
+annual brieﬁngs in the institutions; however, the acquired
+amount of knowledge is restricted and its use in practical
+situations is not being practised and tested.
+
+Required actions:
+
+1. Assess and raise existing professional standards related
+to the ICT by including the requirements for the knowl-
+edge about and skills for cyber security.
+
+2. Deﬁne, increase and assess the professional competen-
+cies of experts responsible for cyber security and promote
+
+9
+the use of expert certiﬁcations acquired abroad for the directions — preventive work for the reduction of criminal
+conﬁrmation of such competencies. oﬂ'ences and eﬂ‘ective combating of crime.
+3. Promote the contribution of higher education institu-
+tions by including cyber security specialisation in study The complicated structune and operation of cyber space out.
+programmes. line two problematic areas in the implementation ofeﬁecu've
+4. Perform a labour market analysis about the demand, combating 0f cybercrime. Firstly, the understanding of the
+supply, remuneration of cyber security experts and the concept “signiﬁcant damage” and its application is an im«
+employment level of experts prepared by educational portant precondition for establishing constituent elements of
+institutions. a criminal offence and appropriate qualiﬁcation and punish-
+5. Improve the competencies of the teaching staff in the ment ofa criminal oﬁmceSecondty, investigation and collec-
+area of cyber security and to support the prepaIation of tion of evidence in cyber space requires spedﬁc knowledge.
+methodological materials.
+Implementation of preventive actions requires organised
+ICT and a legislative base regulating its security, as well as
+4.2. RULE OF LAW IN CYBER SPACE AND REDUCI'ION eﬂ'ective use thereof. The existing capacity in combating
+OF CYBER CRIME cybercrime should be developed by strengthening elec-
+tronic evidence. Investigation, as well as collection and
+Rule of Law in cyber space is based on the principle of assessment of evidence requires special knowledge and
+equivalency, which provides for the observation of laws 3 suﬁcient level of competence is crucial in law enforce-
+and regulations both in the physical and the virtual en~ ment agencies, prosecutor’s ofﬁces and courts to ensure
+vironment. The state is obliged to ensure the basic rights the rule of law in cyber space.
+and freedoms of any person laid down by the Constitu-
+tion and the observation of principles of universal rights Required actions:
+irrespective of their ﬁeld of application. The provided 1. Assess the laws and regulations in the ICT sector as
+
+technological opportunities have favoured the increase a foundation for applying the Latvian Administrative
+of criminal offences in cyber space. To commit such of- Violations Code and Criminal Law and to improve this
+fences, criminals use automatic data processing systems foundation to ensure effective protection of individu—
+as a tool for committing crimes that direct them towards als’ interests through and in relation to criminal law.
+another protected or publicly inaccessible automatic 2. Assess the present situation and the necessary amend<
+data processing system or its resources. An automatic ments in legislation that provide for punishment for
+data processing system can also be used as a medium causing damage to the security or operation of infor—
+for the circulation of illegal or offensive and defamatory mation systems directed towards automatic data pro-
+(incitement to racial hatred, distribution of child por— cessing systems.
+nography, etc.) information. 3. Develop the terminology related to the information
+security and cyber security in the Latvian language and
+The reduction of cybercrime requires action in two basic harmonise its use in the legislative enactments.
+10
+4. Assess and improve the supervision of obligations in
+the area of cyber security laid down by the legislative
+enactments and to promote support for the fulﬁl-
+ment thereof.
+
+5. Facilitate discussions and exchange of opinions about
+the identiﬁcation of new ICT crimes and improvement
+of the legal basis for the restriction thereof in line with
+the international trends.
+
+6. Combat and investigate cybercrimes by assessing and
+improving the existing resources, procedures, coopera-
+tion mechanisms, and their efﬁciency.
+
+7. Assess and develop the existing capacity of acquiring
+and analysing evidence in the process of investigation
+of cybercrimes by developing the competence of SP
+and improving the cooperation with CERTZLV.
+
+8. Develop methodical materials for studies about the ICT
+sector for the purposes of increasing the knowledge of
+police oﬂﬁcers. persons directing the proceedings and
+judges about the ICT sector and to implement an in-
+depth training programme about the issues of combat-
+ing cybercrime.
+
+9. Develop a uniﬁed mechanism for listing the criminal
+offences in cyber space (statistics) in the system of
+police, prosecution and court.
+
+4.3. PREPAREDNESS AND CAPACITY TO Acr IN CRISIS
+SITUATIONS
+
+Institutions which ensure national cyber security capabili-
+ties have been set up in Latvia. Plans for action in the case
+of increased threat have been developed and are being regu<
+[arty updated. Cooperation with the Ministry of the Interior
+for solving different crisis situations has been established.
+The involvement of experts is available in collaboration
+with the private sector. However, the present resources and
+
+measures are not suﬂicient and organised enough to ensure
+efﬁcient and prompt action in the use of serious and exten-
+sive [CT security incidents or cyber attacks.
+
+The present situation in Latvia and threats in cyber space,
+as well as resources for the prevention of risks and man-
+agement of a crisis that are at the disposal of the state have
+been assessed in the cyber crisis exercise by the Cabinet
+of Ministers 0n 7 December 2012. Reduction of incidents
+and the prevention of a crisis require individual under-
+standing about cyber security and the responsibility of
+each organisation, where CERTLV can give advice on
+daily work or provide support in cases of serious and
+unexpected incidents.
+
+Considering the limited resources of the state administra-
+tion and the conclusions of the cyber crisis exercise, the
+NAF are developing a Cyber Defence Unit to provide sup
+port for CER'ELV and NAF units in preventing ICT secu-
+rity incidents and management of consequences in crisis
+situations in cyber space or in war time. The Unit would be
+used should CERTLV resources be insufﬁcient and involve-
+ment of the Unit would faster expedite the implementation
+of emergency measures or if the Unit had at its disposal
+special resources for perforating such activities.' The Unit
+is being created as a hack-up team of experts consisting
+of volunteers from the public and private sector accord-
+ing to the legal basis of the service of the National Guard.
+
+To ensure the functioning and strengthening of the infra-
+structure of electronic communication the existing infra-
+structural capabilities should be developed (especially with
+respect to resistance to the inﬂuence of external conditions),
+
+' Concept of the National Armed Fares Cyber Defence Unit of the Mi-
+nistry of Defence, Riga 2013.
+
+11
+as well as a new infrastructure for securing the basic func-
+tions of a state, especially when the daily use of electronic
+communication networks can be restricted.
+
+Required actions:
+
+1. Evaluate the deﬁnition of a crisis, its procedures, leg»
+islation and the use thereof in the case of a possible
+cyber crisis.
+
+2. Develop the capabilities of the NAP and the Cyber
+Defence Unit to react in a crisis situation and in man-
+aging the consequences of major incidents by providing
+and ensuring operational capability of the Unit.
+
+3. Develop information technology and communication
+systems for the NAF to ensure the support of NAP
+management capabilities in crisis situations.
+
+4. Organise regular theoretical and practical training at a
+national level with the involvement of high ofﬁcials and
+merchants in order to develop mutual understanding
+and coordinate the management of crisis situations.
+
+5. Improve the competence and resources of state insti-
+tutions when preparing and ensuring the presidency
+of the Council of the European Union in 2015 when
+global cyber attacks may be directed against Latvia
+
+6. Develop regional and international cooperation, to
+ensure regular training for providing and receiving
+support in a crisis situation
+
+7. Establish an electronic communication network for
+emergency situations.
+
+8. Develop a technological and organisational solution
+that provides state institutions with infrastructure and
+ensures high conﬁdentiality and integrity of and acces-
+sibility to state information systems.
+
+9. Strengthen the outer scope of the national external
+communication network: establish, categorise, coordi-
+nate, evaluate risks, and make necessary improvements
+to ensure a reliable and secure ﬂow of data between
+
+12
+
+Latvia and other countries, but, when necessary, to use
+the network for changes in data ﬂows or the restriction
+thereof between countries.
+
+4.4. AWARENESSRAISING,EDUCATIONANDRESEARCH
+
+An informed society is a crucial part of a secure and re
+liable cyber space. Awareness is ensured by purposeful
+and regular explanatory work, including the policy and
+communication implemented by the leading ofﬁcials of a
+country, raising the issues in educational institutions and
+organising regular discussions of experts in the media.
+
+The level of awareness of a society about the threats to
+ICT, tools available for their prevention, personal rights in
+the electronic medium and their infringement, as well as
+about action in the case of a threat is low. According to the
+statistics of CERT.LV, in almost all cases when the devices
+of users have been infected and have become a part of bot-
+nets (approximately 15—20 thousand a month), the users
+have not deliberately caused damage and the cause of the
+infection is software that has not been updated or the lack
+of antivirus solutions when malicious e-mail attachments
+are opened. Along with raising awareness of society, it is
+important to increase understanding about ethical norms
+and moral responsibilities in the electronic environment.
+
+To improve the knowledge of ICT users, it is necessary to
+implement a set of complex measures, starting from primary
+and secondary education. It is necessary to organise reg‘
+ular information campaigns in cooperation with non—gov—
+emmental and private institutions, as well as constantly
+reﬂect the information in mass media. At the moment,
+cyber security issues are only tested in a uniform model in
+general education in an informatics examination (knowl-
+edge test part) at the secondary education leveL Although
+the average level of answered questions is comparatively
+high (2013 — 0.79%), it is impossible to assess the actual
+actions of students in daily life. The type of communica—
+tion (channel), content and methodology is to be applied
+according to the chosen target audience (see Figure 1).
+
+To develop new study programmes and educate experts and
+professionals from other sectors (e.g., experts in law) about
+ICT issues, a teaching stat? with an appropriate competen-
+cy is required Competency should be increased by creating
+and supporting security mch groups at universities and
+scientiﬁc institutes. These would, ﬁrstly, attract Latvian spe-
+
+Figure 1. The level afcyber space security knowledge according to the target audience.
+
+Develop, motivate
+
+Resend: l Innovation / Opinion leaders
+
+' vironm
+\
+./ '\
+/ Higher / ‘ ‘
+Professioﬂgl \ ‘\ Create specialisation Expertise
+education
+Students] Ed t General
+Educational institutions um 2 knowledge I.
+/ /
+Basic /
+
+Society I All users 1,, form skills
+
+At the moment, there are no academic study pro-
+grammes and scientiﬁc activity in the area of cyber
+security and people studying the respective subjects
+abroad are not motivated to return to Latvia due to low
+salaries, lack of opportunities for professional devel-
+opment. According to a study by the World Economic
+Forum, Latvia ranks 110th with regard to the availabil-
+ity of scientists and engineers.1
+
+‘ World Economic Forum “The Global Competitiveness Report
+2012-2013”, p. 227.
+
+cialists who are currently working abroad, serve as a basis
+for the creation ofa national Cyber security (including cryp-
+tography) school, provide the oppormnity in the future to
+successfully participate in scientiﬁc EU projects and, ﬁnal-
+ly. to create commercial products with a high added value.
+
+Required actions:
+
+1. Increase the competency of educational institutions
+and teaching staff and their contribution to educating
+children and youth about the issues of ICT security by
+integrating these issues into the educational system and
+
+13
+14
+
+organising learning activities that create understanding
+about information security, privacy protection and
+the use of reliable e-services. Additionally, opportuni-
+ties must be ensured for children and youths to report
+violations on the Internet and to receive support from
+a psychologist. Further education of the teaching staﬂt
+about the issues of cyber security must be organized.
+
+. Develop educational and informative materials about
+
+cyber security for use in educational institutions and
+interest groups that are easily accessible and diﬁerenti-
+ated according to various age groups.
+
+. Develop academic studies and research in cyber se-
+
+curity to train experts, promote innovation, establish
+public-private partnerships for the support of science
+and research, and to attract European funds, grants and
+ﬁnancial instruments.
+
+. Create an ICT security laboratory and to organise sci»
+
+entiﬁc conferences about topical issues concerning
+cyber security and cybercrime in cooperation with
+universities and scientiﬁc institutes.
+
+. Implement educational and informative campaigns
+
+and other measures for the overall enhancement of the
+understanding of society about the cyber security, cy-
+bercrime and important threats, to expand the accessi-
+bility of various ICT security software
+
+. Develop the exchange of information and opinions
+
+among public administration, associations of the sec-
+tor, experts, business leaders, as well as creators of
+public opinion — non-govemmental organisations
+and the academic environment.
+
+. Participate in international informative initiatives and
+
+platforms, use the European Cyber Security Month and
+the e-Skills Week to raise issues about the cyber security.
+
+. Promote innovation in the cyber security sector and
+
+develop a uniﬁed academic resource of high»capacity
+computing (supercomputer).
+
+4.5. INTERNATIONAL COOPERATION
+
+The opportunities and security threats provided by cyber
+space do not recognize national borders and therefore no
+state can eﬂectively face new security challenges on its own.
+
+Due to the awareness of the increasing role of cyber space
+in every society, cyber security as an important issue has
+been included on the agenda of cross border cooperation
+and by international organisations. In bilateral and multi-
+lateral Cooperation, 3 wide range of issues are usually con-
+sidered i from observation of human rights in the virtual
+environment to combating of crime, often also involving
+the private sector. Under these conditions, different na-
+tional interests inevitably collide, and thus far the inter-
+national community has not reached signiﬁcant progress
+in creating a common understanding and approach. At
+the same time, many nomharmonised processes still take
+place. It is important for Latvia to have knowledge of the
+work of international and regional organisations and to
+participate in this work while at the same time expressing
+support for ensuring the basic principles of a democratic
+society in the virtual environment. It should be not only
+be safe, but also free and accessible.
+
+Latvia is taking part in international processes, including
+the work of NATO, the EU, OSCE and UN, to promote
+the improvement of a secure, free and accessible cyber
+space. Latvia supports the ﬁrst comprehensive resolution
+of the United Nations Human Rights Council on human
+rights in the virtual space and will continue to partici-
+pate and strengthen such initiatives as the Freedom
+Online Coalition, which focuses on observing human
+rights and basic freedoms in cyber space, especially the
+freedom of speech.
+Latvia has joined the Council of Europe Convention on
+Cyber Crime and its Additional Protocol concerning the
+criminalisation of acts of a racist and xenophobic nature
+committed through computer systems. According to the
+Convention, all involved countries harmonise their legal
+regulations to cooperate in the investigation of crimes
+and to ensure that the people responsible for committing
+cybercrimes are held liable.
+
+Cyber security is an important part of national defence,
+and nationally developed defence capabilities can be
+strengthened by cooperating with NATO and EU memv
+ber states in a crisis situation. To receive effective support
+when necessary and to strengthen cyber security mea-
+sures in the Euro-Atlantic space, the development of both
+collective and individual cyber protection capabilities of
+each member state should be facilitated in accordance
+with the approved NATO and EU cyber security planning
+documents. NATO has approved the Cyber Defence Con-
+cept and Action Plan and corresponding planning docu-
+ments, which provide for the necessity to promote the de-
+velopment of cyber security capabilities of both NATO as
+a whole and each individual member state.
+
+Required actions:
+1. Strengthen cooperation with countries from the Bal-
+tic and Northern European countries and improve the
+
+cooperation with NATO, the EU, OSCE and UN to
+improve the security, accessibility and freedom of ICT.
+
+. Support international efforts in enhancing mutual trust
+
+and cooperation, emphasising the equal applicability of
+international legal norms to both the physical and the
+virtual environment.
+
+. Create a common Baltic university study programme
+
+to combine regional educational resources to preparing
+strong and qualiﬁed experts.
+
+. Organise international cyber security events in Latvia
+
+on a regular basis, highlighting Latvia as a country that
+takes care of the security of ICT at a national and inter-
+national level.
+
+. Develop and test national procedures to receive prompt
+
+and effective help in case of a cyber threat according
+to the Memorandum of Understanding between Latvia
+and NATO and pursuant to the NATO Cyber Defence
+Concept and Action Plan.
+
+. Strengthen cyber protection capabilities by participat-
+
+ing in various international training courses, exercises
+and cyber attack simulations within NATO, the EU,
+and other international organizations and forums.
+giving local experts and the Cyber Defence Unit the
+opportunity to improve their knowledge about the
+latest solutions in information systems security.
+
+15
+gm
+
+5. LINK TO OTHER DEVELOPMENT PLANNING DOCUMENTS
+
+National documents:
+
+National Security Concept
+
+State Defence Concept
+
+Law on the Security of Information Technology
+
+Law on State Information Systems (authored by MoEPRD)
+Sustainable Development Strategy of Latvia until 2030
+Guidelines for the Development of Information Soci»
+cry in 2014—2020
+
+Concept of the Organisational Model of the State Infor-
+mation and Communication Technology Management.
+Guidelines for the Electronic Communication Policy
+in 201 1—20 16
+
+Authentication Law (authored by MoEPRD)
+
+Concept of the National Armed Forces Cyber Defence
+Unit of the Ministry of Defence, 2013.
+
+16
+
+International documents:
+
+I UN Human Rights Council resolution: The promotion,
+
+protection and enjoyment of human rights on the Internet
+
+NATO Strategic Concept
+
+NATO Concept on Cy'ber Defence
+
+NATO Cyber Defence Policy Action Plan
+
+EU Cyber Security Strategy
+
+Convention on Cybercrime (Budapest Convention)
+
+Europe 2020 A Strategy for Smart, Sustainable and
+
+Inclusive Growth
+
+- Digital Agenda of the EU
+
+I Directive of the European Parliament and of the Council
+on attacks against information systems
+6. CONCLUSIONS
+
+An ex-ante evaluation of the proposed solution has not
+been carried out, since cyber security is constantly and
+rapidly developing, but the ﬁelds of action established in
+the guidelines are a continuation of priorities speciﬁed in
+the National Security Concept and actions initiated so far.
+The evaluation of the cyber security provided for in the
+guidelines will create a basis for assessing and improving
+further policy and the action plan.
+
+Based on the guidelines, an action plan will be devel-
+oped, which will include detailed results of the actions
+and calculations on the inﬂuence on state and municipal
+
+budgets in 2014 and in the following years. Every two
+years, the Ministry of Defence performs an evaluation
+of the guidelines and implementation of the action plan
+within the Council and submits an informative report
+and, if necessary, proposals for raising the issues of the
+guidelines to the Cabinet of Ministers.
+
+There are no policy planning documents that are be
+deemed as having lost their validity. At the same time,
+implementation of priorities laid down by the National
+Security Concept shall continue.
+
+17
+7. ACRONYMS AND DEFINITIONS OF TERMS
+
+ACRONYMS
+
+BoL Bank of Latvia
+
+CCDCOE NATO Cooperative Cyber Defence Centre of Excellence in Tallinn
+CDU Cyber Defence Unit of the National Armed Forces
+
+CERT.LV Information Technology Security Incident Response Institution
+CPB Constitution Protection Bureau
+
+DISS Defence Intelligence and Security Service
+
+DSI Data State Inspectorate
+
+ENISA European Union Agency for Network and Information Security
+EU European Union
+
+FCMC Financial and Capital Market Commission
+
+ICT Information and communication technology
+
+IT Information technology
+
+LSRTC Latvian State Radio and Television Centre
+
+MoE Ministry of Economics
+
+MoEPRD Ministry of Environmental Protection and Regional Development
+MoES Ministry of Education and Science
+
+MoFA Ministry of Foreign Affairs
+
+MoI Ministry of the Interior
+
+Mo] Ministry of Justice
+
+MOT Ministry of Transport
+
+MOW Ministry of Welfare
+
+NAF National Armed Forces
+
+NATO North Atlantic Treaty Organization
+
+NetSafe Safer Internet Centre of Latvia Net-Safe Latvia
+
+OSCE Organization for Security and Co-operation in Europe
+
+SeP Security Police
+
+SIS State information systems
+
+SP State Police
+
+SRDA State Regional Development Agency
+
+UN United Nations
+
+1 8
+TERMS
+
+ELECTRONIC COMMUNICATION OPERATOR
+
+A merchant or afﬁliation of a foreign merchant who has
+the right to perform commercial activities, provide a
+public electronic communication network or electronic
+communication services pursuant to the procedure laid
+down by the Law on Electronic Communications.
+
+ELECTRONIC COMMUNICATION NETWORK
+
+Transmission systems, commutation and routing devices
+(including elements of the network that are not used) and
+other resources that allow to transmit signals in the network
+with the help of cables. radio waves, optical or other electro-
+magnetic mans irrespective of the infomation transmitted.
+
+E—GOVERNMENT
+
+Eﬂecﬁve management of the state and municipal admin
+istration with the use of information and communication
+technology.
+
+INFORMATION SOCIETY
+
+A society whose members are able and have the upperm-
+nity to acquire information with the help of information
+and communication technology, link it with the existing
+knowledge and use the newly acquired knowledge for
+increasing their welfare.
+
+INFORMATION TECHNOLOGY
+
+Technology that uses electronic processing of data, in-
+cluding creation, deletion, saving, reﬂection and transmit-
+ting, for the purposes of performing the required tasks.
+
+INFORMATION TECHNOLOGY SECURITY INCIDENT
+A harmful event or offence, as a result of which the
+
+ 
+
+integrity, availability or conﬁdentiality of information
+technology is endangered.
+
+INFORMATION AND COMMUNICATION TECHNOLOGY
+
+A set of knowledge, methods and technical equipment that
+ensures acquisition, storage and distribution of any informa-
+tion with the help of computers and communimtion tools.
+
+CYBER SECURITY
+
+Cyber security is the collection of tools, policies, security
+concepts, security safeguards, guidelines, risk manage-
+ment approaches, actions, training, best practices, as-
+surance and technologies that can be used to protect the
+cyber environment and organization and user’s assets. Or-
+ganisation and user’s assets include connected computing
+devices, personnel, infrastructure, applications, services,
+telecommunications systems, and the totality of transmit-
+ted and/ or stored information in the cy'ber environment.‘
+
+CYBER SPACE
+
+Cyber space is an interactive environment that includes
+users, networks, computing technology, soﬁware, pro~
+cesses, information in transit or storage, applications,
+
+ 
+
+' Deﬁnition by the International Telecommunication Union in the En—
+glish language: 'Cybn security is the collection oftoals, policiu, security
+concepts. security safeguards, guidelines, risk management approaches,
+actiuns. (mining, best practices. assurance and technolagies that can be
+used In protert the cyber environment and argunizah‘an and user’s us-
+szts. Organisation and user's assets include connected computing nd~
+25, personnel. inﬁutrucmre. applications. services, telecommunications
+systems. and the tutulity of transmitted and/or stored infamaliou in the
+tyber environment.” ITU-T X1205.
+
+19
+services, and systems that can be connected directly or
+indirectly to the Internet, telecommunications and com-
+puter networks. Cyber space has no physical boarders.‘
+
+CRITICAL INFRASTRUCTURE
+
+Critical infrastructure is the objects, systems, or their
+parts in Latvia, which are important in providing the
+performance of functions essential to society, as well
+as for ensuring the protection of human health, secu-
+rity, economic or social welfare, whose destruction or
+malfunctioning may signiﬁcantly inﬂuence the perfor
+
+ 
+
+' Deﬁnition of the "cyber space" from the International TelecommuA
+nication Union National Cyber Security Strategy Guide in the English
+language. “We use the term cybersyau tn dmribe systems and services
+connected either directly to at indfrcctly to the Internet, Ielecnmmum’cm
+lions and wmputer network” ind the description of cyber space in the
+ITU recommendation "I’Ihisl indudcs users, networks, devices, all saﬂ-
+ware. pmmcs. infomminn in 530mg: or tmnsit. applications. services.
+and systems that am be connected directly or indirectly [0 network?
+ITU~T X1205. Avnilahle at: http:llej.uleverviewOK3ybersecurity
+
+20
+
+ 
+
+mance of state functions. The critical infrastructure of
+
+information technology is protected in order to ensure
+the performance of basic functions essential to the state
+and society.
+
+STATE INFORMATION AND COMMUNICATION
+
+T E C H N 0 LOGY
+
+According to the scope and objective of the Concept of
+the Organisational Model of the State Information and
+Communication Management, state information and
+communication technology in this document refers to in-
+formation and communication technology solutions and
+services used, introduced, maintained. and operated by
+direct administration institutions and institutions under
+direct subordination 0r supervision thereof.
+
+Mth respect to municipalities and legal entities or natural
+persons of private law delegated to perform the duties of the
+state, the concept of state information and communication
+technology is applicable to the information and communi-
+cation technology solutions and services that are used in
+order to perform such delegated duties of the state.
+Functions
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+           
+
+ 
+
+s g
+a E-services StatelCT State 3 1; Electronic Private
+2‘ infrastmcture information '5 E communication businesses
+a} systems E providers
+
+\ STATE SECTOR PRIVATE SECTOR
+
+ 
+
+ 
+
+Soddy/usax
+—
+
+
+

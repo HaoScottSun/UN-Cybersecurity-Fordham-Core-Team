@@ -3,10 +3,10 @@
 ### Data collection
 BeautifulSoup was used to automatically download policy files.
 
-76* unlabeled Cybersecurity policy files were crawled from:
+76 unlabeled Cybersecurity policy files were crawled from:
 >https://www.itu.int/en/ITU-D/Cybersecurity/Pages/National-Strategies-repository.aspx
 
-193 human labeled Cybersecurity policy files were crawled from:
+195 human labeled Cybersecurity policy files were crawled from:
 >https://www.itu.int/en/ITU-D/Cybersecurity/Pages/Country_Profiles.aspx
 
 ### Extract text from pdf files
@@ -26,7 +26,7 @@ The Unicoder was set to ‘UTF-8’
 When extracting text data from pdf files, special page splitters were added to the end to each page, which will be a signal to recognize different pages.
 
 ### Translate
-Google translator * package was used to translate non-English language files into English.
+Googletrans package was used to translate non-English language files into English.
 
 ## Sentence Extraction
 ### Filter sentences

@@ -1,2 +1,0 @@
-DOC2VEC_PCA is the paragragh vectors of sentences visualization by PCA dimension reducting.
-DOC2VEC_RBM is the paragragh vectors of sentences visualization by Bernoulli RBM dimension reduction.

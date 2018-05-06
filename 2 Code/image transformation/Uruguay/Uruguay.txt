@@ -1,0 +1,424 @@
+MINISTERIO DEL INTERIOR
+MINISTERIO DE RELACIONES EXTERIORES
+
+MINISTERIO DE ECONOMiAY FINANZAS
+
+MINISTERIO DE DEFENSA NACIONAL
+
+MINISTERIO DE EDUCACION Y CULTURA
+
+MINISTERIO DE TRANSPORTE Y OBRAS PUBLICAS
+
+MINISTERIO DE INDUSTRIA, ENERGiA Y MINERfA
+
+MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL
+
+MINISTERIO DE SALUD PUBLICA
+
+MINISTERIO DE GANADERiA, AGRICULTURAY PESCA
+
+MINISTERIO DE TURISMO Y DEPORTE
+
+MINISTERIO DE VIVIENDA, ORDENAMIENTO TERRITORIAL Y MEDIO AMBIENTE
+MINISTERIO DE DESARROLLO SOCIAL
+
+Montevideo, U7 ABR 2014
+
+VISTO: lo dispuesto por el articulo 149 de la Ley N" 18.719, de 27 de diciembre de
+2010 y por el Decreto N° 452/009, de 28 de setiembre de 2009;
+
+RESULTANDO: l) que en el referido Decreto se determine la "Politica de Seguridad
+de la Informacién para Organismos de la Administracién PLZIinca", con el propésito de
+desarrollar, implantar, mantener y mejorar continuamente un "Sistema de Gestién de
+
+Seguridad de la Informacién";
+ll) que en su articulo 1" se establece que Ias Unidades Ejecutoras
+
+de Ios lncisos 02 al 15 del Presupuesto Nacional, deberén adopter en forma obligatoria
+
+una Politica de Seguridad de la lnformacién;
+
+CONSIDERANDO: I) que a los efectos de dar cabal cumplimiento a lo dispuesto en la
+norma referida, es sustancial estandarizar Ios nombres de dominio de la
+
+Administracién Central de forma tal de garantizar la transparencia y la seguridad;
+
+_, (1:? ‘ \ :“’\ ;
+ll) que es fundamental garantizar a Ios ciudadanos, a los
+organismos y a sus funcionarios, Ia existencia de correos electrénicos institucionales
+seguros, motivo por el cual es imprescindible establecer Ios lineamientos ml'nimos de
+
+seguridad para el intercambio entre Ios mismos;
+
+Ill) que la seguridad de la informacién es fundamental para el
+desarrollo del gobierno electrénico, por lo que resulta necesario que la Administracién
+cuente con lineamientos para la implementacién y uso de centres de datos seguros;
+
+IV) que la Agencia para el Desarrollo del Gobierno de Gestién
+Electrénica y la Sociedad de la Informacién y del Conocimiento (AGESIC) tiene
+cometidos de fiscalizacién en materia de seguridad de la informacién, pudiendo
+apercibir directamente a Ios organismos que no cumplan con las normas y esténdares
+en tecnologia de la informacién establecidas por la normativa vigente, en lo que refiera
+a seguridad de Ios activos de la informacién, politicas de acceso, interoperabilidad e
+integridad de datos, tal como surge del articulo 74 de la Ley N° 18.362 de 6 de octubre
+
+de 2008;
+V) que en cumplimiento de Ias disposiciones normativas vinculadas
+
+con la transparencia, la seguridad, el relacionamiento con la ciudadania en el menor
+tiempo posible, es que se considera conveniente la elaboracién de planes de accién
+
+tendientes a una égil adecuacién a Ios esténdares que se indicarén como pertinentes;
+
+ATENTO: a lo precedentemente expuesto, y a lo dispuesto en el articulo 168 ordinal 4°
+
+de la Constitucién de la Repﬂblica;
+
+EL PRESIDENTE DE LA REPUBLICA
+- actuando en Consejo de Ministros -
+DECRETA:
+
+Articulo 1°.- Los organismos de la Administracién Central deberén utilizar nombres de
+dominio “gub.uy" o “mil.uy", éste Ultimo para el Ministerio de Defensa y sus
+dependencies, para todos Ios servicios vinculados con Internet, prohibiéndose Ia
+
+utilizacién de cualquier otro nombre de dominio, de acuerdo con los “Lineamientos
+@Wmaé%% ﬂWé/W
+
+para la gestién y uso de nombres de dominio de Internet", que se anexa y forma parte
+
+del presente Decreto (Anexo l).
+
+Articulo 2°.- Los organismos de la Administracién Central para el ejercicio de sus
+funciones deberén utilizar sistemas de correos electrénicos institucionales con nombre
+de dominio “.gub.uy" o “.mil.uy”, prohibiéndose Ia utilizacién de cualquier otro nombre
+de dominio, de acuerdo con los “Lineamientos para la implementacién y uso de
+servicios de correo electrénico seguro”, que se anexa y forma parte del presente
+
+Decreto (Anexo II).
+
+Los funcionarios de los organismos de la Administracién Central en el ejercicio de sus
+
+funciones estarén sujetos a igual prohibicién.
+
+Articulo 3°.- Los sistemas informéticos (art. 3° del Decreto N° 451/009 de 28 de
+setiembre de 2009) de la Administracién Central deberén estar alojados en centros de
+datos seguros situados en territorio nacional, exceptuéndose aquéllos que no
+constituyan un riesgo para el organismo, de acuerdo con Ios “Lineamientos para la
+implementacién y uso de centros de datos seguros", que se anexa y forma parte del
+
+presente Decreto (Anexo III).
+
+Articulo 4°.- Los organismos de la Administracién Central deberén presentar a
+AGESIC un Plan de Accién para el cumplimiento de las disposiciones de este Decreto,
+
+en el plazo de 90 dies desde su publicacién.
+
+Articulo 5°.- Se comete a AGESIC Ia fiscalizacién del cumplimiento de Ias normas
+
+establecidas en este Decreto, pudiendo contemplar excepciones por razones
+
+debidamente fundadas.
+
+@mMW MMXW
+
+Anexo l
+Lineamientos para la gestién y uso de nombres de dominio de Internet
+
+Objetivo
+
+El objetivo de esta normativa es el de establecer los lineamientos para el uso y gestién
+de nombres de dominio por parte de la Administracién Central, con el fin de garantizar
+un adecuado uso de nombres de dominio y la actualizacién de la informacién de
+
+contacto de sus responsables.
+
+Alcance
+
+Esta normativa tiene como alcance la totalidad de los nombres de dominio de internet
+
+utilizados por los organismos de Administracién Central y sus dependencias.
+
+Gestién y uso de dominios de internet
+
+ldentiﬁcacién de dominios para portales web institucionales
+
+Los portales Web institucionales de los organismos de la Administracién Central y sus
+dependencias. deben identiﬁcarse con la extensién “gub.uy" o “mil.uy", segL'Jn
+
+corresponda.
+
+ldentiﬁcacién de dominios para portales Web de contenido genérico
+
+Los podales Web institucionales de Unidades Ejecutoras, aplicaciones, portales y
+sitios web correspondientes a proyectos y programas, sitios promocionales y
+teméticos, incluyendo zonas restringidas de acceso mediante usuario y contraseﬁa
+disponibles para ciudadanos y funcionarios del organismo (contenidos web) deberén
+ser subdominios del dominio del inciso correspondiente con excepcién de los que
+justifiquen la necesidad de un dominio auténomo, lo que podré efectuarse
+considerando: funciones y competencies, nivel de aprehensién ciudadana, capacidad
+de mantenimiento del sitio, disponibilidad de recursos o justificacién de la
+
+necesidad. Dichas excepciones deberén ser validadas por AGESIC.
+Se exceptﬂan a aquellos canales de comunicacién que se justifiquen debidamente por
+
+su vinculo con la ciudadania y su carécter pLZIinco.
+
+Referenciamiento de dominios y sub dominios
+
+En cualquier caso, el portal del organismo jerarca deberé hacer referencia a todos Ios
+
+dominios y subdominios que se correspondan con todos los contenidos web que
+
+reporten a éste.
+
+Nombres de Dominio
+
+Los nombres de dominio del organismo o dependencies serén, sus iniciales, su
+acronismo, 0 el nombre con el cual se conoce pﬂblicamente al mismo y se justifique
+
+que sea més representative que su nombre, acronismo o iniciales.
+
+lnformacién de contacto del responsable técnico del dominiolsubdominio
+
+La informacién de contacto de Ios responsables de Ios dominios y subdominios deberé
+ser comunicada y actualizada en periodos de seis meses a AGESIC.
+@Wmaéém ﬂWMW
+
+Anexo ll
+
+Lineamientos para la implementacién y uso de servicios de correo electrénico
+
+seguro
+Objetivo
+
+El Objetivo de esta normativa es mejorar los niveles de seguridad del envio, recepcién
+y almacenamiento de los servicios de correos electrénicos de dominios
+
+gubernamentales, con el fin de garantizar un adecuado nivel de confidencialidad de los
+
+mismos.
+
+Alcance
+
+Esta normativa tiene como alcance Ia totalidad de los servidores de correo electrénico
+implementados en dominios “gub.uy" o “mil.uy” (en adelante, dominios
+gubernamentales), las comunicaciones realizadas por éstos hacia servidores de
+
+terceros, y todos los correos electrénicos recibidos o enviados por los mismos.
+
+Componentes implicados
+
+Modelos de cifrado
+
+Los correos electrénicos deben ser protegidos tanto en su generacién,
+almacenamiento, como asi también durante su transmisién y recepcién, de manera
+que se garantice su confidencialidad durante toda su vida. Para ello es necesario
+
+aplicar diferentes modelos de cifrado dependiendo del contexto:
+
+1. Cifrado a nivel del mensaje.
+
+Se denomina cifrado de mensaje a un correo electrénico que ha sido cifrado haciendo
+uso de criptografias asimétricas, utilizando para ello un par de claves privadas/pﬂblicas
+Ias cuales fueron generadas y compartidas previamente por los usuarios. Estas claves
+
+deben ser intercambiadas adecuadamente a fin de evitar falsas identidades. Este
+mecanismo también permite aﬁadir una firma electrénica a un mensaje, de esta
+
+manera Ia totalidad del mensaje y el remitente pueden ser verificados.
+
+2. Cifrado a nivel del canal de comunicacién.
+
+Se denomina que un canal de comunicacién esta siendo cifrado cuando Ia
+comunicacién entre 2 elementos que intervengan en el intercambio de un correo
+electrénico hacen uso de protocolos de transmisién que implementen algoritmos
+
+criptogréficos robustos basados en esténdares internacionales como (SSL, TLS).
+MUA
+
+Se denomina MUA (Agente de Correo de Usuario por sus siglas del inglés) al cliente
+de correo electrénico desde el cual el usuario gestiona los mensajes: creacién,
+borrado, envio. lectura. El MUA es utilizado para enviar y descargar correo electrénico,
+
+a través del MTA correspondiente (ver punto siguiente)
+
+Dentro de esta categoria se pueden identificar dos tipos de MUA bien definidos, por un
+|ado los clientes pesados como por ejemplo (Outlook, Thunderbird, Mail, etc.), y por
+otro |ado denominados clientes livianos 0 Web Mail los cuales son accedidos haciendo
+
+uso de un browser web. Estos se encuentran alojados en un servidor web.
+
+MTA
+
+Se denomina MTA (Agente de Transferencia de Correo por sus siglas en inglés: Mail
+Transfer Agent) al sistema implantado en el servidor de correo capaz de recibir
+mensajes desde un MUA, procesarlos convenientemente y entregarlos a sus
+destinatarios mediante uno o més protocolos de comunicacién. Tipicamente, el MTA
+debe ser capaz de comunicarse mediante el protocolo SMTP —o sus extensiones— para
+enviar y recibir correos y, adicionalmente, suelen comunicarse mediante POP3 o IMAP
+
+para que los usuarios puedan gestionar sus buzones de correo.
+QWQMW ﬂmm/aé/M
+
+Requerimientos de seguridad minimos obligatorios.
+
+Seguridad del servidor de correo
+
+Los servidores de correo electrénico (MTA) de dominios gubernamentales deben
+alojarse dentro del territorio nacional, y no se permite Ia implementacién de estos
+
+sobre tecnologias que no garanticen dicho requerimiento.
+Seguridad de los canales de comunicaciones
+
+Se debe garantizar que los correos electrénicos en trénsito entre dos MTAs, o entre un
+MUA y un MTA, no comprometa Ia confidencialidad de la informacién cuando esto sea
+
+posible.
+
+Entre MTAs de dominios gubernamentales.
+
+La implementacién de canales de comunicacién cifrados entre MTAs de dominios
+gubernamentales es mandatoria, y deberé implementarse utilizando SSL v3, TLS 1.0,
+
+STARTI'LS o superior.
+
+Los MTAs de dominios gubernamentales deberén interrumpir el intento de entrega o
+
+recepcién de mensajes si este canal cifrado no se puede negociar.
+
+Entre MTAs gubernamentales y MTAs de terceros.
+
+La implementacién de canales de comunicacién cifrados con SSL v3, TLS 1.0,
+STARTTLS o superior entre MTAs de dominios gubernamentales y un MTA de
+
+terceros deberé ser eI método preferido de comunicacién.
+
+Cuando el establecimiento de estos canales cifrados no sea posible, se podré
+
+establecer un canal en texto claro.
+Entre MUA y MTA de dominios gubernamentales.
+
+La implementacién de canales de comunicacién cifrados entre MUAs y MTAs de
+
+dominios gubernamentales es mandatorio, y deberé implementarse utilizando SSL v3,
+
+TLS 1.0, STARTTLS 0 Superior.
+
+Los MTAs de dominios gubernamentales no deberén aceptar Ia descarga o entrega de
+
+correos por parte de MUAs si este canal cifrado no se puede negociar.
+
+Los MTA no deberén aceptar Ia descarga o consulta de correos electrénicos sobre
+
+canales en texto claro.
+
+Seguridad de los MUA
+
+De implementar servicios de webmail estos deben ser implementados sobre el
+protocolo HTTPS utilizando un certificado de seguridad vélido, y deberén estar
+
+alojados dentro del territorio nacional.
+
+Los titulares de cuentas de correo de dominios gubernamentales no podrén acceder a
+
+sus cuentas desde servicios webmail que no sean el provisto por el organismo.
+
+Cuando Ia informacién a transmitir via email represente un riesgo alto para el
+
+organismo se recomienda implementar un modelo de cifrado a nivel de mensaje.
+@mggm ﬂ’Waé/m
+
+Anexo ||l
+
+Lineamientos para la implementacién y uso de centros de datos seguros
+Objetivo
+
+El Objetivo de esta normativa es mejorar Ios niveles de disponibilidad, confiabilidad e
+
+integridad de Ios centros de datos utilizados por el Estado.
+
+Alcance
+
+Esta normativa tiene como alcance Ia totalidad de Ios centros de datos que alojen
+sistemas informéticos de la Administracién Central, exceptuéndose aquellos sistemas
+
+que no representen un riesgo para el organismo.
+
+Requerimientos minimos de sub sistemas de Infraestructura
+
+Telecomunicaciones
+
+Los sistemas criticos de telecomunicaciones, cableados, routers, switches LAN y
+
+switches SAN deben ser redundantes.
+
+Arquitectura y Estructura
+
+El sistema estructural del edificio debe ser de acero 0 de hormigén. Como minimo, Ia
+estructura del edificio debe estar diseﬁada para soportar cargas de vien’to de acuerdo
+con los cédigos de construccién aplicables para la ubicacién en cuestién y de
+conformidad con las disposiciones de las estructuras designadas como instalaciones
+esenciales (por ejemplo, construccién de Clasificacién Ill del Cédigo Internacional de la
+
+Construccién).
+
+Debe prever proteccién contra Ios principales eventos fisicos, intencionales o
+
+accidentales, naturales o artificiales, que podrl’an causar una falla en el mismo.
+
+Es requerido control de acceso fisico, muros exteriores sin ventana, seguridad
+perimetral, CCTV y proteccién contra incendio.
+
+Electricidad
+
+Se debe contar con un sistema generador de energia eléctrica con capacidad
+
+suficiente para abastecer todo el centre de datos.
+Se debe contar con sistemas de alimentacién ininterrumpida redundantes.
+Se deben implementar unidades de distribucién de energia (PDU) redundantes.
+
+Para energizar los racks se deben implementar circuitos eléctricos redundantes y de
+
+tal manera que el fallo de uno de ellos no afecte a més de un rack.
+Mecénica
+
+El sistema de climatizacién debe implementarse con varias unidades de aire
+acondicionado cuya capacidad de refrigeracién combinada mantenga constante la
+temperature del espacio critico y la humedad relativa a las condiciones de diseﬁo.
+
+El sistema de climatizacién debe contar con una redundancia que garantice los niveles
+
+de temperature y humedad relativa en caso de falla o mantenimiento de uno de sus
+
+componentes.
+
+Los sistemas de aire acondicionado deben estar diseﬁados para un funcionamiento
+
+continuo 7 dias/24 horas/365 dias/aﬁo.
+
+El sistema de climatizacién debe ser alimentado por el generador de energia eléctrica.
+
+Control de Acceso y Proteccién del Centro de Datos
+
+Se debera’ contar con los mecanismos de gestién que aseguren Ia proteccién y
+salvaguarda de los componentes ﬁsicos y légicos, incluyendo entre otros la seguridad
+fisica, de la red de datos, de la infraestructura, asi como proteccién contra incendios,
+
+desastres naturales o riesgos por fallas humanas.
+@WaMW ﬂWMW
+
+Requerimientos de Gestién y Operacién
+Gestién de Monitoreo
+
+Se recomienda contar con un sistema de gestién y monitoreo centralizado capaz de
+
+alertar fallas en componentes criticos.
+
+Disponibilidad y Niveles de servicio
+
+Se deben definir acuerdos de niveles de servicio con los proveedores que den soporte
+a los componentes criticos del centro de datos y deben ofrecer cobertura en un
+
+régimen de 7 dias/24 horas/365 dias/aﬁo.
+

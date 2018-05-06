@@ -1,0 +1,163 @@
+National
+Cyber Security
+Masterplan
+
+2011.8.2
+National Cyber Security Masterplan(Summary)
+
+> Protecting national cyber space from cyber attacks 4
+
+Purpose
+
+The Masterplan is a comprehensive response strategy at the national level in order to
+effectively deal with national cyber threats which are getting increasingly sophisticated
+and intelligent.
+
+Progress
+
+' i V135. 3.; i j The ’National Cyber Security Strategy Council’ decided on the
+
+establishment of the Masterplan.
+
+‘3 313‘,ng Jul“ :91 ‘ A draft was devised jointly by relevant organizations in consulta—
+
+tion with experts
+
+The Masterplan was deliberated and resolved at the 'National
+
+Cyber Security Countermeasure Council’ meeting
+
+3 AL‘CILJSL 13' i 50 deliverables were drawn and implemented
+
+ 
+
+ 
+
+ 
+
+ 
+
+Key points
+
+5 action plans
+
+Establishing joint response system of private, public and
+military sectors
+
+Strengthening the security of critical infrastructure and
+enhancing secrets protection
+
+6 Detecting and blocking cyber attacks at the national level
+
+0 Establish deterrence through international cooperation
+
+6 Building cyber security infrastructure
+
+ 
+
+1/4
+Organizing the response system and establishing
+
+roles within the government departments
+
+0 Establishing '"National cyberthreatjoint response teamJ comprised of Private, Public
+and military sectors under the National Cyber security center(NCSC) in order to
+strengthen the cooperative ties such as cyber threat information sharing among
+participating organizations
+
+>I< 'Synthetic Judgement’ ~ ’Joint monitoring’ - ’Jointanalysis’ - 'Jointinvestigation’com-
+prise rThe national cyber threatjoint response teamJ which started operating at full
+capacity in Jan. 2012.
+
+0 Establishing roles among relevant organizations such as the National Intelligence
+Service(NlS, overall control in times of peace and crisis), Korea Communications Commis-
+sion(KCC, supervision over broadcasting and communications) and Ministry of Public Admin-
+istration and Security(MOPAS, e—government service to the public, National Computing and
+Inform ation Agency(NClA) operating under MOPAS, and support for cyber security activities of local
+governments)
+
+Major imperatives
+
+n Establishing cyber threat early detection and response system
+
+I Setting up 3-tier defence systemJ connecting international gateway,
+ISPS and end-users(organizations and consumers) in order to detect and block
+cyber attacks in advance
+
+I Strengthening response system in ﬁnancial sector by reinforcing security
+systems in ﬁnancial institutions and expanding security monitoring serv-
+ices to insurance companies and credit card corporations
+
+I Reinforcing cyber restoration system by developing and distributing
+anti-virus softwares for the exclusive use of Zombie PCs to help rapid re-
+covery and enhancing cooperative relations between the private and
+the public sectors; expanding the size and number of DDoS Cyber Urgent
+Shelters
+
+2/4
+Improving the level of security for critical information and
+facilities
+
+I Expanding secret management system and upgrading encryption sys—
+tem to protectational conﬁdential information
+
+I Strengthening security measures for information and communications
+system in critical infrastructures such as electric power stations and trans-
+portation facilities; establishing immediate checking system comprising
+related organizations
+
+I Tightening up security measures and deﬁning clear responsibilities when
+outsourcing; making it mandatory to establish a system that diagnoses
+vulnerabilities of government S/W security
+
+Developing platform that would enable a stronger cyber
+security
+
+I Strengthening legal framework dealing with cyber threats by amend-
+ing ’National Cyber Security Management Regulation’ and promoting
+enactment of new related laws
+
+I Establishing sector-speciﬁc circulation systems designed to create arms
+exclusively for cyber security, reinforce manpower and train technical
+professionals
+
+I Providing support for exporting Information Protection Products and in-
+creasing the budget for information protection R&D(s—-10%)
+
+Establishing deterrence against cyber provocation and
+strengthening international cooperation
+
+I Expanding bilateral or multilateral cooperative relations in cyber security
+area and establishing information sharing systems with other leading
+cou ntries and international organizations
+
+I Operating private veriﬁcation schemeJ in order to deal with the public
+suspicion over a perpetrator and their motivation, and build public con-
+ﬁdence
+
+3/4
+I Fostering and improving joint training between related organizations to
+help them increase their ability to effectively respond to cyber crisis
+
+a Elevating the level of security management of critical infor-
+mation and facilities
+
+I Establishing rInformation Protection DayJUegalanniversary) at the national
+level in orderto raise public awareness and expanding the base in cyber
+security area
+
+>Z< Wednesday of the second week of July is proclaimed to be ‘National Informa-
+tion Protection Day’; and the month ofJuly ’the Month of Information Security’.
+Joint government ceremony was held to celebrate the ﬁrst rNational Informa-
+tion Portection Day) on 11 July,2012.
+
+I Promoting rClean Internet Campaign] in the private sector to protect
+personal information and to prevent personal computers from turning
+into Zombie PCs,; strengthening the cyber security education in elemen-
+tary, middle and high schools budget for information protection R&D
+(S-—~10%)
+
+National Cyber Security
+Master Plan
+
+4/4

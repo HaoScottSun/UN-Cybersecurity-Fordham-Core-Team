@@ -1,0 +1,1198 @@
+,Document,Page,Sentence
+0,uk.pdf,1,National CYBER SECURITY STRATEGY - 2016-2021 
+1,uk.pdf,3,12: The scope of the strategy: 
+2,uk.pdf,3,17 States and state-sponsored threats
+3,uk.pdf,3,22: An expanding range of devices; 
+4,uk.pdf,3,22 Poor cyber hygiene and compliance
+5,uk.pdf,3,22 Insufficient training and skills; 
+6,uk.pdf,3,22 Legacy and unpatched systems; 
+7,uk.pdf,3,23 Availability of hacking resources; 
+8,uk.pdf,3,25 Roles and responsibilities; 
+9,uk.pdf,3,26 Businesses and organisations; 
+10,uk.pdf,3,26 Driving change; the role of the market; 
+11,uk.pdf,3,"27 Driving change, expanded role for the Government; "
+12,uk.pdf,4," Building a more secure Internet, Protecting government"
+13,uk.pdf,4,", Protecting our critical national infrastructure and other priority sectors"
+14,uk.pdf,4," Changing public and business behaviours, Managing incidents and understanding the threat"
+15,uk.pdf,4,"Cybers role in deterrence, Reducing cyber crime, Countering hostile foreign actors, Preventing terrorism, Enhancing sovereign capabilities, offensive, cyber"
+16,uk.pdf,4,", Enhancing sovereign capabilities, cryptography "
+17,uk.pdf,4," Strengthening cyber security, skills"
+18,uk.pdf,4,", Stimulating growth in the cyber security sector"
+19,uk.pdf,4,", Promoting cyber security, science and technology, Effective horizon scanning "
+20,uk.pdf,4,Conclusion: Cyber Security beyond 2021 
+21,uk.pdf,4,"74 Annex 3 Headline implementation programme, "
+22,uk.pdf,6,"National Cyber Security Strategy, 2016"
+23,uk.pdf,6,The UK is one of the worlds leading digital nations
+24,uk.pdf,6, Much of our prosperity now depends on our ability to secure our technology data and networks from the many threats we face
+25,uk.pdf,6," Yet cyber attacks are growing, more frequent, sophisticated and damaging when they succeed"
+26,uk.pdf,6, So we are taking decisive action to protect both our economy and the privacy of UK citizens
+27,uk.pdf,6, Our National Cyber Security Strategy sets out our plan to make Britain confident capable and resilient in a fast-moving digital world
+28,uk.pdf,6," Over the lifetime of this five-year strategy, we will invest 1"
+29,uk.pdf,6,"9 billion in defending our systems and infrastructure, deterring our adversaries and developing a whole- society capability from the biggest companies to the individual citizen From the most basic cyber hygiene to the most sophisticated deterrence"
+30,uk.pdf,6, We need a comprehensive response
+31,uk.pdf,6," We will focus on raising the cost of mounting an attack against anyone in the UK, both through stronger defences and better cyber skills"
+32,uk.pdf,6," This is no longer just an issue for the IT department, but for the whole workforce"
+33,uk.pdf,6, Cyber skills need to reach into every profession
+34,uk.pdf,6," The new National Cyber Security Centre will provide a hub of world-class user-friendly expertise for businesses and individuals, as well as rapid response to major incidents"
+35,uk.pdf,6," Government has a clear leadership role, but we will also foster a wider commercial ecosystem"
+36,uk.pdf,6, Recognising where industry can innovate faster than us
+37,uk.pdf,6,", This includes a drive to get the best young minds into cyber security"
+38,uk.pdf,6, The cyber threat impacts the whole of our society
+39,uk.pdf,6, So we want to make very clear that everyone has a part to play in our national response
+40,uk.pdf,6, Why this strategy is an unprecedented exercise in transparency
+41,uk.pdf,6,", We can no longer afford to have this discussion behind closed doors"
+42,uk.pdf,6," Ultimately, this is a threat that cannot be completely eliminated"
+43,uk.pdf,6, Digital technology works because it is open and that openness brings with it risk
+44,uk.pdf,6, What we can do is reduce the threat to a level that ensures we remain at the vanguard of the digital revolution
+45,uk.pdf,7," This strategy sets out how The Rt Hon Philip Hammond MP, Chancellor of the Exchequer, National Cyber Security Strategy, 2016"
+46,uk.pdf,7,"As Minister for the Cabinet Office with responsibility for cyber security and government security, I am determined to see this strategy implemented in full"
+47,uk.pdf,7," I will work closely with colleagues across Government and with partners in the Devolved Administrations, the wider public sector, industry and academia to ensure we achieve that ambition"
+48,uk.pdf,7," The Rt Hon Ben Gummer MP, Minister for the Cabinet Office and Paymaster General PREFACE "
+49,uk.pdf,7,Our primary responsibility is to keep the nation safe and deliver competent government
+50,uk.pdf,7, This strategy reflects these duties
+51,uk.pdf,7, It is a bold and ambitious approach to tackling the many threats our country faces in cyberspace
+52,uk.pdf,7," Managing and mitigating those threats is a task for us all, but the Government recognises its special responsibility to lead the national effort required"
+53,uk.pdf,7, The Government is committed to ensuring the commitments set out in this strategy are carried out and that we accurately monitor and regularly report on progress in meeting them
+54,uk.pdf,7, We will also keep our approach under review and respond to changes in the level of threat we face as well as evolutions in security
+55,uk.pdf,7," Government also has a special responsibility to the citizen, to companies and organisations operating in the UK and to our international allies and partners"
+56,uk.pdf,7, We should be able to assure them that every effort made has been to render our systems safe and to protect our data and our networks from attack or interference
+57,uk.pdf,7," We must therefore set ourselves the highest standards of cyber security and ensure we adhere to them, both as the cornerstone of the countrys national security and economic wellbeing and also as an example for others to follow"
+58,uk.pdf,7, We shall report back on progress made on an annual basis
+59,uk.pdf,8," National Cyber Security Strategy, 2016"
+60,uk.pdf,9,"National Cyber Security Strategy, 2016Section 1 EXECUTIVE SUMMARY"
+61,uk.pdf,9,"9, The future of the UKs security and prosperity, rests on digital foundations"
+62,uk.pdf,9, The challenge of our generation is to build a flourishing digital society that is both resilient to cyber threats and equipped with the knowledge and capabilities required to maximise opportunities and manage risks
+63,uk.pdf,9,We are critically dependent on the Internet
+64,uk.pdf,9,", However, it is inherently insecure and there will always be attempts to exploit weaknesses to launch cyber attacks"
+65,uk.pdf,9," This threat cannot be eliminated completely, but the risk can be greatly reduced to a level that allows society to continue to prosper and benefit from the huge opportunities that digital technology brings"
+66,uk.pdf,9, The 2011 National Cyber Security 
+67,uk.pdf,9,"Strategy, underpinned by the British Governments, 860m National Cyber Security Programme, has delivered substantial improvements to UK cyber security"
+68,uk.pdf,9, It achieved important outcomes by looking to the market to drive secure cyber behaviours
+69,uk.pdf,9,", But this approach has not achieved the scale and pace of change required to stay ahead of the fast moving threat"
+70,uk.pdf,9, We now need to go further
+71,uk.pdf,9,"Our vision for 2021 is that the UK is secure and resilient to cyber threats, prosperous and confident in the digital world"
+72,uk.pdf,9," To realise this vision, we will work to achieve the following objectives: DEFEND We have the "
+73,uk.pdf,9,"Means to defend the UK against evolving cyber threats, to respond effectively to incidents to ensure UK networks, data and systems are protected and resilient"
+74,uk.pdf,9," Citizens, businesses and the public sector have the knowledge and ability to defend themselves"
+75,uk.pdf,9, Deter The UK will be a hard target for all forms of aggression in cyberspace
+76,uk.pdf,9," We detect, understand, investigate and disrupt hostile action taken against us pursuing and prosecuting offenders"
+77,uk.pdf,9, We have the means to take offensive action in cyberspace
+78,uk.pdf,9, Should we choose to do so DEVELOP
+79,uk.pdf,9,"An innovative growing cyber security industry, underpinned by world- leading scientific research and development"
+80,uk.pdf,9," - We have a self-sustaining pipeline of talent, providing the skills to meet our national needs across the public and private sectors"
+81,uk.pdf,9, Our cutting-edge analysis and expertise will enable the UK to meet and overcome future threats and challenges
+82,uk.pdf,9,"Underpinning these objectives, we will pursue INTERNATIONAL ACTION and exert our influence by investing in partnerships that shape the global evolution of cyberspace in a manner that advances our wider economic and security interests"
+83,uk.pdf,9,", We will deepen existing links with our closest international partners, recognising that this enhances our Collective security"
+84,uk.pdf,9,", We will also develop relationships with new partners to build their levels of cyber security and protect UK interests"
+85,uk.pdf,9," We will do this both bilaterally and multilaterally, including through the EU, NATO and the UN"
+86,uk.pdf,9, We will deliver clear messages about consequences to adversaries who threaten to harm our interests or those of our allies in cyberspace
+87,uk.pdf,9," To achieve these outcomes over the next five years, the UK Government intends to intervene more actively and use increased investment while continuing National Cyber Security Strategy"
+88,uk.pdf,10," We will have the means to respond to cyber attacks in the same way as we respond to any other attack using whichever capability is most appropriate, including an offensive cyber capability"
+89,uk.pdf,10,"We will use the authority and influence of the UK Government to invest in programmes to address the shortage of cyber security skills in the UK, from schools to universities and across the workforce"
+90,uk.pdf,10,We will launch two new cyber innovation centres to drive the development of cutting-edge cyber products and dynamic new cyber security companies
+91,uk.pdf,10, We will also allocate a proportion of the 165m Defence and Cyber Innovation Fund to support innovative procurement in defence and security
+92,uk.pdf,10,We will invest a total of 1
+93,uk.pdf,10,9 billion over the next five years to transform significantly the UKs cyber security 
+94,uk.pdf,10,To support market forces to raise cyber security standards across the UK
+95,uk.pdf,10,", The UK Government, in partnership with the Devolved Administrations of Scotland, Wales and Northern Ireland, will work with the private and public sectors to ensure that individuals, businesses and organisations adopt the behaviours required to stay safe"
+96,uk.pdf,10,", We will have measures in place to intervene, (, where necessary and within the scope of our powers, ) to drive improvements that are in the national interest, particularly in relation to the cyber security of our critical national infrastructure"
+97,uk.pdf,10, The UK Government will draw on its capabilities and those of industry to develop and apply active cyber defence measures to significantly enhance the levels of cyber security across UK networks
+98,uk.pdf,10," These measures include minimising the most common forms of phishing attacks, filtering known, bad IP addresses and actively blocking malicious online activity"
+99,uk.pdf,10, Improvements in basic cyber security will raise the UKs resilience to the most commonly deployed cyber threats
+100,uk.pdf,10,"We have created a National Cyber Security Centre, ( NCSC ), to be the authority on the UKs cyber security environment, sharing knowledge, addressing systemic vulnerabilties and providing leadership on key national cyber security issues"
+101,uk.pdf,10,We will ensure that our Armed Forces are resilient and have the strong cyber defences they need to secure and defend their networks and platforms continuing to operate and retaining global freedom of manoeuvre
+102,uk.pdf,10,", Our military Cyber Security Operations Centre will work closely with the NCSC and we will ensure that the Armed Forces can assist in the event of a significant national cyber attack, 1 Understanding, the threats to networks and then devising and implementing measures to proactively combat Or defend against those threats"
+103,uk.pdf,11," See Glossary for an explanation of all technical terms: National Cyber Security Strategy, 2016Section 1 EXECUTIVE SUMMARY"
+104,uk.pdf,11,"11, Section 1, EXECUTIVE, SUMMARY "
+105,uk.pdf,11,National Cyber Security Strategy - 2016 
+106,uk.pdf,13,"National Cyber Security Strategy, 2016Section 2 INTRODUCTION"
+107,uk.pdf,13,13 Information and communication 
+108,uk.pdf,13,Technologies have evolved over the last two decades and are now integrated into virtually every aspect of our lives
+109,uk.pdf,13, The UK is a digitalised society
+110,uk.pdf,13, Our economy and our daily lives are the richer for it
+111,uk.pdf,13, The transformation brought about by this digitalisation creates new dependencies
+112,uk.pdf,13," Our economy, the administration of government and the provision of essential services now rely on the integrity of cyberspace and on the infrastructure systems and data which underpin it"
+113,uk.pdf,13," A loss of trust in that integrity would jeopardise the benefits of this technological revolution, determination to address cyber threats and put in place tough and innovative measures as a world leader in cyber security"
+114,uk.pdf,13," This National Cyber Security Strategy delivers on that commitment In preparing this new strategy, "
+115,uk.pdf,13,"The Government is building on the achievements, objectives and judgements of the first five-year National Cyber Security Strategy issued in 2011"
+116,uk.pdf,13, The Government invested 860m over that period and is proud of what has been achieved
+117,uk.pdf,13," The policies, institutions and initiatives developed over the last five years have helped to establish the UK as a leading global player in cyber security"
+118,uk.pdf,13,"Much of the hardware and software originally developed to facilitate this interconnected digital environment has prioritised efficiency, cost and the convenience of the user, but has not always had security designed in from the start"
+119,uk.pdf,13," Hostile states, criminal or terrorist organisations and individuals can exploit the gap between convenience and security"
+120,uk.pdf,13, Narrowing that gap is a national priority
+121,uk.pdf,13, These are sound foundations
+122,uk.pdf,13,But the persistence and ingenuity of those who would threaten us the prevalence of our vulnerabilities and gaps in our capabilities and defences mean we need to work even harder to keep pace with the threat
+123,uk.pdf,13, A comprehensive approach is required if we are to effectively secure our cyber interests
+124,uk.pdf,13," Our resolution to make further investment and interventions is based on the following assessments: The expansion of the Internet, "
+125,uk.pdf,13,Beyond computers and mobile phones into other cyber-physical or smart systems is extending the threat of remote exploitation to a whole host of new technologies
+126,uk.pdf,13," Systems and technologies that underpin our daily lives, such as power grids, air traffic control systems, satellites, medical technologies, industrial plants and traffic lights Are connected to the Internet and therefore potentially vulnerable to interference The 2015 National Security "
+127,uk.pdf,13,"Strategy, ( NSS ) reaffirmed the cyber threat as a Tier One risk to UK interests"
+128,uk.pdf,13," The NSS set out the Governments, the scale and dynamic nature of cyber threats and our vulnerability and dependency mean that maintaining the current approach will not in itself be sufficient to keep us safe"
+129,uk.pdf,13, A market based approach to the promotion of cyber hygiene has not produced the required pace and scale of change
+130,uk.pdf,13," Therefore, Government has to lead the way and intervene more directly by bringing its influence and resources to bear to address cyber threats"
+131,uk.pdf,13, The Government alone cannot provide 
+132,uk.pdf,13,"For all aspects of the nations, cyber security"
+133,uk.pdf,13,", An embedded and sustainable approach is needed"
+134,uk.pdf,14," National Cyber Security Strategy, 2016Section 2INTRODUCTION"
+135,uk.pdf,14,"14, where citizens, industry and other partners in society and government play their full part in securing our networks, services and data"
+136,uk.pdf,14," The UK needs a vibrant cyber security sector and supporting skills base that can keep pace with and get ahead of the changing threat, THE SCOPE OF THE STRATEGY "
+137,uk.pdf,14,"This strategy is intended to shape the Governments policy, while also offering a coherent and compelling vision to share with the public and private sector, civil society, academia and the wider population"
+138,uk.pdf,14, The strategy covers the whole of the UK
+139,uk.pdf,14," The UK Government will seek to ensure the strategy is implemented for all parts of the UK, recognising that, to the extent that it touches on devolved matters, we will work closely with the devolved Governments on its application to Scotland, Wales and Northern Ireland ( respecting the three Separate legal jurisdictions and four education systems that exist in the UK ), Where proposals set out in the strategy relate to devolved matters"
+140,uk.pdf,14, Their implementation will be agreed as appropriate with those Governments in accordance with the devolution settlements
+141,uk.pdf,14,The strategy sets out proposed or recommended actions aimed at all sectors of the economy and society from central government departments to leaders across industry and the individual citizen
+142,uk.pdf,14, The strategy aims to increase National Cyber Security Strategy
+143,uk.pdf,15,"15, Section 2 INTRODUCTION "
+144,uk.pdf,15,Cyber security at all levels for our collective benefit and will be the basis on which the UK engages internationally to promote good internet governance In this strategy
+145,uk.pdf,15," Cyber security refers to the protection of information systems, ( hardware, software and associated infrastructure, ) the data on them and the services they provide from unauthorised access, harm or misuse"
+146,uk.pdf,15, This includes harm caused intentionally by the operator of the system or accidentally as a result of failing to follow security procedures
+147,uk.pdf,15,"Consistent with our assessment of the challenge we face and building on the achievements of the 2011 strategy, this document sets out our updated assessment of the "
+148,uk.pdf,15,"Strategic context, including the current and evolving threats, who poses the most serious threat to our interests and the tools at their disposal, a review of vulnerabilities and how these have developed over the last five years"
+149,uk.pdf,15, The Governments vision for cyber 
+150,uk.pdf,15,"Security in 2021 and the key objectives to achieve that goal, including guiding principles, roles and responsibilities and how and where government intervention will make a difference"
+151,uk.pdf,15," How we intend to put our policy into practice, setting out where the Government will lead and where we expect to work"
+152,uk.pdf,15," In partnership with others, and how we intend to assess our progress towards our objectives, "
+153,uk.pdf,15,National Cyber Security Strategy - 2016 
+154,uk.pdf,17,"National Cyber Security Strategy, 2016Section 3 STRATEGIC CONTEXT"
+155,uk.pdf,17,", When the last National Cyber Security Strategy was published in 2011, the scale of technological change and its impact was already apparent"
+156,uk.pdf,17, The trends and opportunities described then have since accelerated
+157,uk.pdf,17,", New technologies and applications have come to the fore and greater uptake of internet-based technologies worldwide, in particular in developing countries, has offered increasing opportunities for economic and social development"
+158,uk.pdf,17, These developments have brought or will bring significant advantages to connected societies such as ours
+159,uk.pdf,17,", But as our reliance on networks in the UK and overseas grows, so do the opportunities for those who would seek to compromise our systems and data"
+160,uk.pdf,17," Equally, the geopolitical landscape has changed"
+161,uk.pdf,17, Malicious cyber activity knows no international boundaries
+162,uk.pdf,17, State actors are experimenting with offensive
+163,uk.pdf,17, Cyber criminals are broadening their efforts and expanding their strategic modus operandi
+164,uk.pdf,17," To achieve higher value pay-outs from UK citizens, organisations and institutions"
+165,uk.pdf,17, Terrorists and their sympathisers are conducting low-level attacks and aspire to carry out more significant acts
+166,uk.pdf,17," This chapter sets out our assessment of the nature of these threats, our vulnerabilities and how these continue to evolve"
+167,uk.pdf,17,"This strategy deals with cyber crime in the context of two interrelated forms of criminal activity, cyber-dependent crimes, crimes, "
+168,uk.pdf,17,That can be committed only through the use of Information and Communications Technology
+169,uk.pdf,17," ( ICT ) devices, where the devices are both the tool for committing the crime and the target of the crime"
+170,uk.pdf,17," developing and propagating malware for financial gain, hacking to steal damage, distort or destroy data, and/or network or activity ) and cyber-enabled crimes"
+171,uk.pdf,17,"Crimes which can be increased in scale or reach by the use of computers, computer networks or other forms of ICT (, such as cyber-enabled fraud and data theft, ) "
+172,uk.pdf,17,"Much of the most serious cyber crime, mainly fraud theft and extortion against the UK, continues to be perpetrated predominantly by financially motivated Russian-language organised criminal groups, ( OCGs ) in Eastern Europe, with many of the criminal marketplace, services being hosted in these countries"
+173,uk.pdf,18," However, the threat also emanates from other countries and regions and from inside the UK itself, with emerging threats from South Asia and West Africa of increasing concern National Cyber Security Strategy, 2016Section 3STRATEGIC CONTEXT"
+174,uk.pdf,18,"18, Even when key individuals "
+175,uk.pdf,18,Responsible for the most damaging cyber criminal activities against the UK are identified
+176,uk.pdf,18, It is often difficult for the UK and international law enforcement agencies to prosecute them when they are located in jurisdictions with limited or no extradition arrangements
+177,uk.pdf,18, These OCGs are principally 
+178,uk.pdf,18,"Responsible for developing and deploying the increasingly advanced malware that infects the computers and networks of UK citizens, our industry and government"
+179,uk.pdf,18," The impact is dispersed throughout the UK, but the cumulative effect is significant"
+180,uk.pdf,18," These attacks are becoming increasingly aggressive and confrontational, as illustrated by the increasing use of ransomware and threats of distributed denial of service (, DDoS ) for extortion"
+181,uk.pdf,18,"Whilst OCGs may pose a significant threat to our collective prosperity and security, equally of concern is the continuing threat from acts of less sophisticated but widespread cyber crimes carried out against individuals or smaller organisations"
+182,uk.pdf,18," Internet banking fraud, which covers fraudulent payments taken from a customers bank account using the internet"
+183,uk.pdf,18, Banking channel rose by 64 % to 133
+184,uk.pdf,18,", The number of cases increased at a lower rate of 23 %, which Financial Fraud Action UK said is evidence of the growing trend for criminals to target business and high net-worth customers"
+185,uk.pdf,18,States and state-sponsored threats: 
+186,uk.pdf,18,"We regularly see attempts by states and state-sponsored groups to penetrate UK networks for political, diplomatic, technological, commercial and strategic advantage with a principal focus on the government, defence, finance, energy and telecommunications sectors"
+187,uk.pdf,18, The capacity and impact of 
+188,uk.pdf,18,"These state cyber programmes, varies"
+189,uk.pdf,18," The most advanced nations, continue to improve their capabilities at pace, integrating encryption and anonymisation services into their tools in order to remain covert"
+190,uk.pdf,18," While they have the technical capability to deploy sophisticated attacks, they can often achieve their aims using basic tools and techniques against vulnerable targets, because the defences of their victims are poor"
+191,uk.pdf,18,Only a handful of states have the technical capabilities to pose a serious threat to the UKs overall security and prosperity
+192,uk.pdf,18,", But many other states are developing sophisticated cyber programmes that could pose a threat to UK interests in the near future"
+193,uk.pdf,18, Many states seeking to develop cyber espionage capability can purchase computer network exploitation tools off the shelf and repurpose these to conduct espionage
+194,uk.pdf,18,"Beyond the espionage threat, a small number of hostile foreign threat actors have developed and deployed offensive cyber capabilities, including destructive ones"
+195,uk.pdf,18," These capabilities threaten the security of the UKs, critical national infrastructure and industrial control"
+196,uk.pdf,18," Some states may use these capabilities in contravention of international law in the belief that they can do so with relative impunity, encouraging others to follow suit"
+197,uk.pdf,18, Whilst destructive attacks around the world remain rare
+198,uk.pdf,19," They are rising in number and impact National Cyber Security Strategy, 2016Section 3 STRATEGIC CONTEXT"
+199,uk.pdf,19,"Terrorist groups continue to aspire to conduct, damaging cyber activity against the UK and its interests"
+200,uk.pdf,19, The current technical capability of terrorists is judged to be low
+201,uk.pdf,19," Nonetheless, the impact of even low-capability activity against the UK to date has been disproportionately high, simple defacements and doxing activity (, where hacked personal details are leaked online ) enable terrorist groups and their supporters to attract media attention and intimidate their victims"
+202,uk.pdf,19, Terrorists using the Internet for their purposes does not equal cyber terrorism
+203,uk.pdf,19,", However, by increasingly engaging in cyber-space and given the availability of cyber-crime as a service, one can assume that they would be in the position to launch cyber attacks"
+204,uk.pdf,19," Enisa Threat Landscape 2015, "
+205,uk.pdf,19,"The current assessment is that physical, rather than cyber terrorist attacks, will remain the priority for terrorist groups for the immediate future"
+206,uk.pdf,19," As an increasingly computer-literate generation engages in extremism, potentially exchanging enhanced technical skills, we envisage a greater volume of low-sophistication, (, defacement or DDoS ) disruptive activity against the UK"
+207,uk.pdf,19," The potential for a number of skilled extremist lone actors to emerge will also increase, as will the risk that a terrorist organisation will seek to enlist an established insider"
+208,uk.pdf,19, Terrorists will likely use any cyber capability to achieve the maximum effect possible
+209,uk.pdf,19," Thus, even a moderate increase in terrorist capability may constitute a significant threat to the UK and its interests"
+210,uk.pdf,19,Hacktivist groups are decentralised and issue-orientated
+211,uk.pdf,19,"; They form and select their targets in response to perceived grievances, introducing a vigilante quality to many of their acts"
+212,uk.pdf,19," While the majority of hacktivist cyber activity is disruptive in nature, ( website, defacement or DDoS ), more able hacktivists have been able to inflict greater and lasting damage on their victims"
+213,uk.pdf,19,Insider threats remain a cyber risk to organisations in the UK
+214,uk.pdf,19,", Malicious insiders who are trusted"
+215,uk.pdf,19, Employees of an organisation and have access to critical systems and data pose the greatest threat
+216,uk.pdf,19, They can cause financial and reputational damage through the theft of sensitive data and intellectual property
+217,uk.pdf,19," They can also pose a destructive cyber threat if they use their privileged knowledge or access to facilitate or launch an attack to disrupt or degrade critical services on the network of their organisations or wipe data from the network Of equal concern are those insiders or employees who Accidentally cause cyber harm through inadvertent clicking on a phishing email, plugging an infected USB into a computer or ignoring security procedures and downloading unsafe content from the Internet"
+218,uk.pdf,19," Whilst they have no intention of deliberately harming the organisation, their privileged access to systems and data mean their actions can cause just as much damage as a malicious insider"
+219,uk.pdf,19, These individuals are often the victims of social engineering
+220,uk.pdf,19, They can unwittingly provide access to the networks of their organisation or carry out instructions in good faith that benefit the fraudster National Cyber Security Strategy
+221,uk.pdf,20,"20, The overall cyber risk to an organisation from insider threats is not just about unauthorised access to information systems and their content"
+222,uk.pdf,20, The physical security controls protecting those systems from inappropriate access or removal of sensitive data or proprietary information on different forms of media are equally important
+223,uk.pdf,20," Similarly, a robust personnel security culture that is alive to the threat posed by disaffected employees, fraud in the workforce and industrial and other forms of espionage is an important element in a comprehensive approach to security Script"
+224,uk.pdf,20,"So-Called script, kiddies generally less skilled individuals who use scripts or programmes developed by others to conduct cyber attacks are not assessed as posing a substantive threat to the wider economy or society"
+225,uk.pdf,20,", But they do have access to hacking, guides resources and tools on the Internet"
+226,uk.pdf,20," Due to the vulnerabilities found in internet-facing systems used by many organisations, the actions of script kiddies can, in some cases, have a disproportionately damaging impact on an affected organisation CASE STUDY 1 TALKTALK COMPROMISE"
+227,uk.pdf,20,"On 21 October 2015, UK telecommunications provider TalkTalk reported a successful cyber attack and a possible breach of customer data"
+228,uk.pdf,20," Subsequent investigation determined that a database containing customer details had been accessed via public- facing internet servers, with the records of approximately 157,000 customers at risk, including names addresses and bank account details"
+229,uk.pdf,20," On the same day, several TalkTalk employees received an email with a ransom demand for payment"
+230,uk.pdf,20,", The attackers detailed the structure of the database as apparent proof that it had been accessed TalkTalks report of the breach, helped the police, supported by specialists at the National Crime Agency, to arrest the main suspects all based in the UK in October and November 2015"
+231,uk.pdf,20," The attack demonstrates that even within large cyber-aware organisations, vulnerabilities can persist"
+232,uk.pdf,20,", Their exploitation can have a disproportionate effect in terms of reputational damage and operational disruption, and this incident generated substantial media attention"
+233,uk.pdf,20," TalkTalks, rapid reporting of the breach, enabled law enforcement to respond in a timely manner And both the public and government to mitigate the potential loss of sensitive data"
+234,uk.pdf,20,", The incident cost TalkTalk an estimated 60m and the loss of 95,000 customers, as well as a sharp drop in their share price"
+235,uk.pdf,20, National Cyber Security Strategy
+236,uk.pdf,21, 2016Section 3 STRATEGIC CONTEXT
+237,uk.pdf,21,"21 CASE STUDY 2 ATTACK ON BANGLADESH BANKS, SWIFT SYSTEM, The Society for Worldwide Interbank Financial Telecommunication"
+238,uk.pdf,21, ( SWIFT ) provides a network that enables financial institutions worldwide to send and receive information about financial transactions in a secure way
+239,uk.pdf,21,", As SWIFT sends payment orders, which must be settled by correspondent accounts that the institutions have with each other"
+240,uk.pdf,21," There has long been concern over any potential for this process to be compromised by cyber criminals or other malicious actors seeking to inject illegitimate payment orders into the system or in a worst case scenario, seeking to disable or disrupt the functionality of the SWIFT network itself"
+241,uk.pdf,21," In early February 2016, an attacker accessed the SWIFT payment system of the Bangladesh Bank and instructed the New York Federal Reserve bank to transfer money from Bangladesh"
+242,uk.pdf,21, Banks account to accounts in the Philippines
+243,uk.pdf,21, The attempted fraud was US $ 951 million
+244,uk.pdf,21," 30 transactions worth US $ 850 million, were prevented by the banking system"
+245,uk.pdf,21," However, five transactions worth US $ 101 million went through"
+246,uk.pdf,21, US $ 20 million traced to Sri Lanka has since been recovered
+247,uk.pdf,21," The remaining US $ 81 million transferred to the Philippines was laundered through casinos, and some of the funds were then forwarded to Hong Kong"
+248,uk.pdf,21, The forensic investigation launched by Bangladesh Bank discovered that malware had been installed on the banks systems and had been used to gather intelligence on the procedures used by the bank for international payments and fund transfers
+249,uk.pdf,21, Further analysis by BAE Systems of the malware linked to the attack uncovered sophisticated functionality for interacting with the local SWIFT Alliance Access software running in the Bangladesh Bank
+250,uk.pdf,21," BAE concluded that criminals are conducting more and more sophisticated attacks against victim organisations, particularly in the area of network intrusions CASE STUDY 3"
+251,uk.pdf,21," Ukraine, POWER GRID ATTACK A cyber attack on western Ukrainian electricity distribution companies, Prykarpattya Oblenergo and Kyiv Oblenergo on 23 December 2015 caused a major power outage with disruption to over 50 substations on the distribution networks"
+252,uk.pdf,21," The region reportedly experienced a blackout for several hours and many other customers and areas sustained lesser disruptions to their power supplies affecting more than 220,000 consumers"
+253,uk.pdf,21, Use of the BlackEnergy3 malware has been blamed by some for the attack after samples were identified on the network
+254,uk.pdf,21, At least six months before the attack attackers had sent phishing emails to the offices of power utility companies in the Ukraine containing malicious Microsoft Office documents
+255,uk.pdf,21," However, the malware was not likely to have been responsible for opening the circuit breakers, which resulted in the outage"
+256,uk.pdf,21," It is probable that the malware enabled the attackers to gather credentials that allowed them to gain direct remote control of aspects of the network, which would subsequently enable them to trigger the outage"
+257,uk.pdf,21, This Ukraine incident is the first confirmed instance of a disruptive cyber attack on an electricity network
+258,uk.pdf,21," Instances such as this further demonstrate the need for good cyber security practices across all of our Critical National Infrastructure, ( CNI ), to prevent similar incidents occurring in the UK National Cyber Security Strategy"
+259,uk.pdf,22,An expanding range of devices 
+260,uk.pdf,22,"When the last National Cyber Security Strategy was published in 2011, most people conceived of cyber security through the prism of protecting devices such as their desktop computer or laptop"
+261,uk.pdf,22," Since then, the Internet has become increasingly integrated into our daily lives in ways"
+262,uk.pdf,22, We are largely oblivious to
+263,uk.pdf,22," The Internet of Things creates new opportunities for exploitation and increases the potential impact of attacks which have the potential to cause physical damage, injury to persons and, in a worst case scenario, death"
+264,uk.pdf,22,"The rapid implementation of connectivity in industrial control processes in critical systems across a wide range of industries, such as energy mining, agriculture and aviation, has created the Industrial Internet of Things"
+265,uk.pdf,22," This is simultaneously opening up the possibility of devices and processes which were never vulnerable to such interference in the past being hacked and tampered with, with potentially disastrous consequences"
+266,uk.pdf,22,"Therefore, we are no longer just vulnerable to cyber harms caused by the lack of cyber security on our own devices, but by threats to the interconnected systems that are fundamental to our society, health and welfare, Poor cyber hygiene and compliance"
+267,uk.pdf,22,Awareness of technical vulnerabilities in software and networks and the need for cyber hygiene in the UK has undoubtedly increased over the past five years
+268,uk.pdf,22," This is in part a consequence of initiatives like the Governments 10 Steps to Cyber Security, but also due to the increased public profile of major cyber incidents affecting governments and corporations"
+269,uk.pdf,22, Cyber attacks are not necessarily sophisticated or inevitable and are often the result of exploited but easily rectifiable and often preventable vulnerabilities
+270,uk.pdf,22," In most cases, it continues to be the vulnerability of the victim rather than the ingenuity of the attacker"
+271,uk.pdf,22, That is the deciding factor in the success of a cyber attack
+272,uk.pdf,22, Businesses and organisations decide on where and how to invest in cyber security based on a cost-benefit assessment
+273,uk.pdf,22, But they are ultimately liable for the security of their data and systems
+274,uk.pdf,22," Only by balancing the risk to their critical systems and sensitive data from cyber attacks with sufficient investment in people, technology and governance will businesses reduce their exposure to potential cyber harm? There is no conceivable information security system that can stop one person out of a hundred opening a phishing email, and that can be all it takes"
+275,uk.pdf,22," Ciaran Martin, Director General for Cyber Security GCHQ June 2015, Insufficient training and skills"
+276,uk.pdf,22,We lack the skills and 
+277,uk.pdf,22,Knowledge to meet our cyber security needs across both the public and private sector
+278,uk.pdf,22, Many staff members are not cyber security aware and do not understand their responsibilities in this regard partially due to a lack of formal training
+279,uk.pdf,22,", The public is also insufficiently cyber aware National"
+280,uk.pdf,23," Cyber Security Strategy, 2016Section 3 STRATEGIC CONTEXT"
+281,uk.pdf,23,"23, Just under a fifth of businesses, had their staff take part in cyber security training in the past year"
+282,uk.pdf,23, Cyber Security Breaches Survey 2016
+283,uk.pdf,23,We also need to develop the specialist skills and capabilities that will allow us to keep pace with rapidly evolving technology and manage the associated cyber risks
+284,uk.pdf,23, This skills gap represents a national vulnerability that must be resolved Legacy and unpatched systems
+285,uk.pdf,23,Many organisations in the UK will continue to use vulnerable legacy systems until their next IT upgrade
+286,uk.pdf,23, Software on these systems will often rely on older unpatched versions
+287,uk.pdf,23, These older versions often suffer from vulnerabilities that attackers look for and have the tools to exploit
+288,uk.pdf,23," An additional issue is the use by some organisations of unsupported software, for which patching regimes do not exist"
+289,uk.pdf,23," We recently analysed 115,000 Cisco devices on the Internet and across customer environments as a way to bring attention to the security risks that aging infrastructure and lack of attention to patching vulnerabilities present"
+290,uk.pdf,23," We found that 106,000 of the 115,000 devices had known vulnerabilities in the software"
+291,uk.pdf,23," They were running Cisco, 2016 Annual Security Report"
+292,uk.pdf,23,"Availability of hacking resources, "
+293,uk.pdf,23,"The ready availability of hacking, information and user-friendly hacking tools on the Internet is enabling those who want to develop a hacking capability to do so"
+294,uk.pdf,23, The information hackers need in order to compromise victims successfully is often openly accessible and can be harvested quickly
+295,uk.pdf,23, Everyone from the living room to the boardroom needs to be aware of the extent of exposure of their personal details and systems on the Internet and the degree to which that could leave them vulnerable to malicious cyber exploitation
+296,uk.pdf,23, 9 % of exploited vulnerabilities were compromised more than a year after the vulnerability was published
+297,uk.pdf,23," Verizon 2015 Data Breach Investigations, report CONCLUSIONS, "
+298,uk.pdf,23,The UK has pursued policies and established institutions that have enhanced our defences and mitigated some of the threat we face in cyberspace
+299,uk.pdf,23,"However, we are not yet ahead of the threat"
+300,uk.pdf,23,", The types of malicious cyber actors we must contend with and their motivations have largely endured, even as the volume of malware and the numbers of such malicious actors has grown rapidly"
+301,uk.pdf,23," The capability of our most technically proficient adversaries, Namely, a select number of states and elite cyber criminals has grown"
+302,uk.pdf,23, Our collective challenge is to ensure our defences are evolved and agile enough to counter them to reduce the ability of malicious actors to attack us and to address the root causes of the vulnerabilities outlined above National Cyber Security Strategy
+303,uk.pdf,25,"National Cyber Security Strategy, 2016Section 4, OUR NATIONAL RESPONSE"
+304,uk.pdf,25,25 - To mitigate the multiple threats we face and safeguard our interests in cyberspace
+305,uk.pdf,25, We need a strategic approach that underpins all our collective and individual actions in the digital domain over the next five years
+306,uk.pdf,25," This section sets out our vision and strategic approach, OUR VISION, "
+307,uk.pdf,25,"Our vision for 2021 is that the UK is secure and resilient to cyber threats, prosperous and confident in the digital world"
+308,uk.pdf,25," To realise this vision, we will work to achieve the following: objectives: "
+309,uk.pdf,25,Defend We have the 
+310,uk.pdf,25,"Means to defend the UK against evolving cyber threats, to respond effectively to incidents and to ensure UK networks, data and systems are protected and resilient"
+311,uk.pdf,25," Citizens, businesses and the public sector have the knowledge and ability to defend themselves"
+312,uk.pdf,25, Deter The UK will be a hard target for all forms of aggression in cyberspace
+313,uk.pdf,25," We detect, understand, investigate and disrupt hostile action taken against us pursuing and prosecuting offenders"
+314,uk.pdf,25, We have the means to take offensive action in cyberspace
+315,uk.pdf,25, Should we choose to do so DEVELOP
+316,uk.pdf,25,"An innovative growing cyber security industry, underpinned by world- leading scientific research and development"
+317,uk.pdf,25," - We have a self-sustaining pipeline of talent, providing the skills to meet our national needs across the public and private sectors"
+318,uk.pdf,25, Our cutting-edge analysis and expertise will enable the UK to meet and overcome future threats and challenges
+319,uk.pdf,25,"Underpinning these objectives, we will pursue INTERNATIONAL ACTION and exert our influence by investing in partnerships"
+320,uk.pdf,25," We will shape the global evolution of cyberspace in a manner that advances our wider economic and security interests, PRINCIPLES "
+321,uk.pdf,25,"In working towards these objectives, "
+322,uk.pdf,25,"5, the Government will apply the following principles"
+323,uk.pdf,25, Our actions and policies will be driven by the need to both protect our people and enhance our prosperity
+324,uk.pdf,25, We will treat a cyber attack on the UK as seriously as we would an equivalent conventional attack and we will defend ourselves as necessary
+325,uk.pdf,25, We will act in accordance with national and international law and expect others to do the same
+326,uk.pdf,25, We will rigorously protect and promote our core values
+327,uk.pdf,25," These include democracy, the rule of law, liberty, open and accountable governments and institutions, human rights and freedom of expression"
+328,uk.pdf,25, We will preserve and protect UK 
+329,uk.pdf,25,We will work in partnership
+330,uk.pdf,25," Only by working with the Devolved Administrations, all parts of the public sector, businesses, institutions and the individual citizen"
+331,uk.pdf,25," Can we successfully secure the UK in cyberspace? The Government will meet its responsibilities and lead the national response, but businesses, organisations and individual citizens"
+332,uk.pdf,26," National Cyber Security Strategy, 2016Section 4OUR NATIONAL RESPONSE"
+333,uk.pdf,26,"26, have a responsibility to take reasonable steps to protect themselves online and ensure they are resilient and able to continue operating in the event of an incident to safeguard not only our hardware, our smart phones and other devices, but also The data software and systems that afford us freedom, flexibility and convenience in our private and professional lives, responsibility for the security of organisations across the public sector, including cyber security and the protection of online data and services, lies with respective Ministers Permanent Secretaries and Management Boards"
+334,uk.pdf,26, We will not accept significant risk being posed to the public and the country as a whole as a result of businesses and organisations
+335,uk.pdf,26," Failing to take the steps needed to manage cyber threats, we will work closely with those countries that share our views and with whom our security overlaps"
+336,uk.pdf,26, Recognising that cyber threats know no borders
+337,uk.pdf,26," We will also work broadly across the range of international partners to influence the wider community, acknowledging the value of broad coalitions and to ensure Government interventions are having a substantive impact on overall national cyber security and resilience"
+338,uk.pdf,26," We will seek to define, analyse and present data which measures the state of our collective cyber security and our success in meeting our strategic goals, ROLES AND RESPONSIBILITIES"
+339,uk.pdf,26,Securing the national cyberspace will 
+340,uk.pdf,26, Each and every one of us has an important part to play: Individuals 
+341,uk.pdf,26,"Businesses, public and private sector organisations and other institutions hold personal data, provide services and operate systems in the digital domain"
+342,uk.pdf,26, The connectivity of this information has revolutionised their operations
+343,uk.pdf,26,", But, with this technological transformation comes the responsibility to safeguard the assets which they hold, maintain the services they provide and incorporate the appropriate level of security into the products they sell"
+344,uk.pdf,26,", The citizen and consumer and society"
+345,uk.pdf,26, Look to businesses and organisations to take all reasonable steps to protect their personal data and build resilience
+346,uk.pdf,26, The ability to withstand and recover into the systems and structures on which they depend
+347,uk.pdf,26," Businesses and organisations must also understand that if they are the victim of a cyber attack, they are liable for the consequences"
+348,uk.pdf,26,"The primary duty of the Government is to defend the country from attacks by other states, to protect citizens and the economy from harm and to set the domestic and international framework to protect our interests, safeguard fundamental rights and bring criminals to justice As citizens, employees and "
+349,uk.pdf,26,Consumers we take practical steps to secure the assets we value in the physical world
+350,uk.pdf,26, In the virtual world
+351,uk.pdf,26, We must do the same
+352,uk.pdf,26, That means fulfilling our personal responsibility to take all reasonable steps
+353,uk.pdf,26,"As the holder of significant data and a provider of services, the Government takes stringent measures to provide safeguards for its information assets"
+354,uk.pdf,27," The Government also has an important responsibility to advise and inform citizens National Cyber Security Strategy - 2016Section 4, OUR NATIONAL RESPONSE"
+355,uk.pdf,27,"27 and organisations - what they need to do to protect themselves online and, where necessary, set the standards"
+356,uk.pdf,27, We expect key companies and organisations to meet 
+357,uk.pdf,27,"Although key sectors of our economy are in private hands, the Government is ultimately responsible for assuring their national resilience and with its partners across the administration, the maintenance of essential services and functions across the whole of government Driving change"
+358,uk.pdf,27, The role of the market 
+359,uk.pdf,27,The 2011 Strategy and National Cyber Security Programme sought to drive outcomes and increase capacity in both the public and private sector
+360,uk.pdf,27, By looking to the market to drive the right behaviours
+361,uk.pdf,27,", We expected commercial pressures and government-instigated incentives to ensure adequate business investment in appropriate cyber security"
+362,uk.pdf,27," To stimulate a flow of investment into our industry and to encourage an adequate pipeline of skills into the sector, "
+363,uk.pdf,27, Across the economy and wider society
+364,uk.pdf,27, Awareness of the risk and of the actions required to mitigate cyber risk have increased over the last five years
+365,uk.pdf,27,", But the combination of market forces and government encouragement has not been sufficient in itself to secure our long-term interests in cyberspace"
+366,uk.pdf,27," Too many networks, including in critical sectors, are still insecure"
+367,uk.pdf,27, The market is not valuing and therefore not managing cyber risk
+368,uk.pdf,27, Too many organisations are still suffering breaches at even the most basic level
+369,uk.pdf,27,", Too few investors are willing to risk supporting entrepreneurs in the sector"
+370,uk.pdf,27, Few graduates and others with the right skills are emerging from the education and training system
+371,uk.pdf,27,"The market still has a role to play and, in the longer term, will deliver greater impact than the Government ever can"
+372,uk.pdf,27," However, the immediacy of the threat facing the UK and the expanding vulnerabilities of our digitalised environment call for greater action in the short term from the Government Driving change, expanded role for the Government"
+373,uk.pdf,27,The Government must therefore set the pace in meeting the countrys national cyber security
+374,uk.pdf,27, Only Government can draw on the intelligence and other assets required to defend the country from the most sophisticated threats
+375,uk.pdf,27, Only Government can drive cooperation across the public and private sectors and ensure information is shared between the two
+376,uk.pdf,27, Government has a leading role in consultation with industry in defining what good cyber security looks like and ensuring it is implemented
+377,uk.pdf,27,The Government will bring about a significant improvement in our national cyber security over the next five years
+378,uk.pdf,27, This ambitious and transformational programme will focus on the following four broad areas: Levers and incentives
+379,uk.pdf,27,Government will invest to maximise the potential of a truly innovative UK cyber sector
+380,uk.pdf,27, We will do this by supporting start-ups and investing in innovation
+381,uk.pdf,27, We will also seek to identify and bring on talent earlier in the education system and develop clearer routes into a profession that needs better definition
+382,uk.pdf,28," The Government will also make use of all available levers, including the forthcoming General Data Protection Regulation, ( GDPR ), to drive up standards of cyber security across the economy, including, if required through regulation, National Cyber Security Strategy, 2016Section 4OUR, NATIONAL RESPONSE"
+383,uk.pdf,28,"Given, the industrial-scale theft of intellectual property"
+384,uk.pdf,28," From our companies and universities, as well as the numerous phishing and malware scams that waste time and money, the National Cyber Security Centre shows that the UK is focusing its efforts to combat the threats that exist online"
+385,uk.pdf,28, Robert Hannigan Director GCHQ March 2016
+386,uk.pdf,28,Delivering these changes to our cyber security and resilience will require additional resources
+387,uk.pdf,28, In the Strategic Defence and Security Review 2015
+388,uk.pdf,28, The Government set aside 1
+389,uk.pdf,28,9 billion over the five years of the strategy to deliver these commitments and objectives
+390,uk.pdf,28,Expanded intelligence and law 
+391,uk.pdf,28,Enforcement focus on the threat
+392,uk.pdf,28,", The intelligence agencies, the Ministry of Defence, the police and the National Crime Agency, in coordination with international partner agencies, will expand their efforts to identify, anticipate and disrupt hostile cyber activities by foreign actors, cyber criminals and terrorists"
+393,uk.pdf,28," This will improve their intelligence, collection and exploitation, with the aim of obtaining pre-emptive intelligence on the intent and capabilities of our adversaries, Development and deployment of "
+394,uk.pdf,28,"Technology in partnership with industry, including Active Cyber Defence measures, to deepen our understanding of the threat to strengthen the security of the UK, public and private sector systems and networks in the face of that threat and to disrupt malicious activity"
+395,uk.pdf,28, National Cyber Security Centre
+396,uk.pdf,28,The Government has established a single central body for cyber security at a national level
+397,uk.pdf,28," This body will manage national cyber incidents, provide an authoritative voice and centre of expertise on cyber security and deliver tailored support and advice to departments, the Devolved Administrations, regulators and businesses"
+398,uk.pdf,28," The NCSC will analyse, detect and understand cyber threats and will also provide its cyber security expertise to support the Governments, efforts to foster innovation, support a thriving cyber security industry and stimulate the development of cyber security skills"
+399,uk.pdf,28," Uniquely for such a public- facing body, its parent body is GCHQ, and it can therefore draw on the world- class, expertise and sensitive capabilities of that organisation"
+400,uk.pdf,28, Improving the support it will be able to provide to the economy and society more widely
+401,uk.pdf,29," It will remain the responsibility of government departments to ensure they effectively implement this cyber security advice: National Cyber Security Strategy, 2016Section 4, OUR NATIONAL RESPONSE"
+402,uk.pdf,29,"29, THE NATIONAL CYBER SECURITY CENTRE"
+403,uk.pdf,29,"The National Cyber Security Centre, ( NCSC ), launched on 1 October 2016"
+404,uk.pdf,29, The NCSC provides a unique opportunity to build effective cyber security partnerships between government industry and the public to ensure that the UK is safer online
+405,uk.pdf,29, It will provide cyber incident response and be the UKs authoritative voice on cyber security
+406,uk.pdf,29," For the first time, key sectors will be able to engage directly with NCSC staff to get the best possible advice and support on securing networks and systems from cyber threats"
+407,uk.pdf,29, The NCSC provides: 
+408,uk.pdf,29,"A unified source of advice for the Governments, cyber security threat, intelligence and information assurance"
+409,uk.pdf,29," The strong public face of the Governments, action against cyber threats, working hand in hand with industry, academia and international partners to keep the UK protected against cyber attack and a public-facing organisation with "
+410,uk.pdf,29,Reach back into GCHQ to draw on necessarily secret intelligence and world-class technical expertise
+411,uk.pdf,29, There will be a phased approach to building the NCSCs capabilities over the lifetime of this strategy
+412,uk.pdf,29," It brings together the capabilities already developed by CESG the information security arm of GCHQ, the Centre for the Protection of National Infrastructure, ( CPNI ), CERT-UK, ( Computer Emergency Response, Team ) and the Centre for Cyber Assessment"
+413,uk.pdf,29," ( CCA ), enabling us to build on the best of what we already have whilst greatly simplifying the former arrangements"
+414,uk.pdf,29, Its initial focus will be a world class incident management capability to respond to and reduce the harm from cyber incidents from those affecting single organisations through to national large scale attacks providing communications on how 
+415,uk.pdf,29,"Organisations in the public and private sector can deal with cyber security issues, facilitating the sharing of cyber threat information and continuing to provide expert sectoral advice to Government "
+416,uk.pdf,29,"And critical sectors, like "
+417,uk.pdf,29,Finance and providing cyber security advice across the UK
+418,uk.pdf,29, The NCSC offers an effective means for the Government to deliver many elements of this strategy
+419,uk.pdf,30," We recognise that as the NCSC grows, its focus and capabilities will need to adapt to new challenges and lessons learned National Cyber Security Strategy, 2016Section 4OUR NATIONAL RESPONSE"
+420,uk.pdf,31,"National Cyber Security Strategy - 2016Section 4, OUR NATIONAL RESPONSE"
+421,uk.pdf,31,"31, Our goals for the countrys cyber security over the next five years are rightly ambitious"
+422,uk.pdf,31, To achieve them will require us to act with consequence and determination across the digital landscape
+423,uk.pdf,31, Activity to deliver the Governments
+424,uk.pdf,31," Vision will advance the three primary objectives of the strategy to DEFEND our cyberspace, to DETER our adversaries and to DEVELOP our capabilities all underpinned by effective INTERNATIONAL ACTION"
+425,uk.pdf,32," National Cyber Security Strategy, 2016Section 4OUR NATIONAL RESPONSE"
+426,uk.pdf,33,"National Cyber Security Strategy, 2016Section 5 DEFEND"
+427,uk.pdf,33,"The DEFEND elements of this strategy aim to ensure that UK networks, data and systems in the public, commercial and private spheres are resilient to and protected from cyber attack"
+428,uk.pdf,33," It will never be possible to stop every cyber attack, just as it is not possible to stop every crime"
+429,uk.pdf,33," However, together with citizens, education providers, academia, businesses and other governments, the UK can build layers of defence that will significantly reduce our exposure to cyber incidents, protect our most precious assets and allow us all to operate successfully and prosperously in cyberspace"
+430,uk.pdf,33, Acting to promote cooperation between states and good cyber security practice is also in the interest of our collective security
+431,uk.pdf,33,"The Government will implement measures to ensure that citizens, businesses, public and private sector organisations and institutions have access to the right information to defend themselves"
+432,uk.pdf,33," The National Cyber Security Centre provides a unified source of advice in government for threat, intelligence and information assurance, ensuring that we can offer tailored guidance for cyber defence and respond quickly and effectively to major incidents in cyberspace"
+433,uk.pdf,33," The Government will work with industry and international partners to define what good cyber security looks like for public and private sectors, for our most important systems and services and for the economy as a whole"
+434,uk.pdf,33, We will build security by default into all new government and critical systems
+435,uk.pdf,33," Law enforcement agencies will collaborate closely with industry and the National Cyber Security Centre to provide dynamic criminal threat, intelligence with which industry can better defend itself and to promote protective security advice and standards"
+436,uk.pdf,33, Active CYBER DEFENCE 
+437,uk.pdf,33,Active Cyber Defence ( ACD ) is the principle of implementing security measures to strengthen a network or system to make it more robust against attack
+438,uk.pdf,33," In a commercial context, Active Cyber Defence normally refers to cyber security analysts, developing an understanding of the threats to their networks and then devising and implementing measures to proactively combat or defend against those threats"
+439,uk.pdf,33," In the context of this strategy, the Government has chosen to apply the same principle on a larger scale"
+440,uk.pdf,33," The Government will use its unique expertise, capabilities and influence to bring about a step-change in national cyber security to respond to cyber threats"
+441,uk.pdf,33, We are attempting to defend is the entire UK cyberspace
+442,uk.pdf,33," The activities proposed represent a defensive action plan, drawing on the expertise of NCSC as the National Technical Authority to respond to cyber threats to the UK at a macro level Objectives"
+443,uk.pdf,33,"In undertaking ACD, the Government "
+444,uk.pdf,33,"Make the UK a much harder target for state sponsored actors and cyber criminals by increasing the resilience of UK networks defeat the vast majority of high- volume/low-sophistication malware activity on UK networks by blocking malware communications between hackers and their victims evolve and increase the scope and scale Of Governments, capabilities to disrupt serious state sponsored and cyber criminal threats, secure our internet and "
+445,uk.pdf,33,Hijacking by malicious actors: 
+446,uk.pdf,34,"National Cyber Security Strategy, 2016Section 5DEFEND"
+447,uk.pdf,34,"34, harden the UKs critical infrastructure, "
+448,uk.pdf,34,And citizen-facing services against cyber threats and disrupt the business model of attackers of every type to demotivate them and to reduce the harm that their attacks can cause
+449,uk.pdf,34,"Where possible, these initiatives will be delivered with or through"
+450,uk.pdf,34," For many industry will be designing and leading implementation with the Governments, critical contribution, being expert support, advice and thought-leadership Approach"
+451,uk.pdf,34,"In pursuit of these aims, the Government will: "
+452,uk.pdf,34,"The Government will also undertake specific actions to implement these measures, which will include work with industry, especially "
+453,uk.pdf,34,"Communications Service Providers, ( CSPs ), to make it significantly harder to attack UK internet services and users and greatly reduce the prospect of attacks having a sustained impact on the UK"
+454,uk.pdf,34, This will include tackling phishing blocking malicious domains and IP addresses and other steps to disrupt malware
+455,uk.pdf,34,", It will also include measures to secure the UKs, telecommunications and internet routing infrastructure, increase the scale and development "
+456,uk.pdf,34,"Of GCHQ Ministry of Defence and NCA capabilities to disrupt the most serious cyber threats to the UK, including campaigns by sophisticated cyber criminals and hostile foreign actors and better protect government systems"
+457,uk.pdf,34,"And networks help industry build greater security into the CNI supply chain, make the software ecosystem in the UK more secure and provide automated protections for government online services to the citizen working with CSPs to block malware attacks"
+458,uk.pdf,34, We will do this by restricting access to specific domains or web sites that are known sources of malware
+459,uk.pdf,34," This is known as Domain Name System, ( DNS ), blocking / filtering, preventing phishing activity that "
+460,uk.pdf,34,"Relies on domain spoofing (, where an email appears to be from a specific sender, such as a bank or government department, but is actually fraudulent ) by deploying an email verification system on government networks as standard and encouraging industry to do likewise promoting security best practice"
+461,uk.pdf,34,"Through multi-stakeholder internet governance, organisations such as the Internet Corporation for Assigned Names and Numbers (, ICANN ), which coordinates the domain name system, ), the Internet, Engineering Task Force, (, IETF ), and the European Regional Internet Registry, (, RIPE, ) and engagement with stakeholders in the UN Internet Governance Forum, ( IGF, ), working with law enforcement channels, "
+462,uk.pdf,35,"In order to protect UK citizens from being targeted in cyber attacks from unprotected infrastructure overseas, National Cyber Security Strategy, 2016Section 5 DEFEND"
+463,uk.pdf,35,"Building A MORE SECURE, "
+464,uk.pdf,35,Changing technology provides us with the opportunity to significantly reduce the ability of our adversaries to conduct cyber crime in the UK by ensuring that future online products and services coming into use are secure by default
+465,uk.pdf,35, That means ensuring that the security controls built into the software and hardware we use are activated as a default setting by the manufacturer so that the user experiences the maximum security offered to them unless they actively choose to turn it off
+466,uk.pdf,35, The challenge is to effect transformative change in a way that supports the end user and offers a commercially viable but secure product or service all within the context of maintaining the free and open nature of the Internet
+467,uk.pdf,35,Internet-Connected things are multiplying rapidly
+468,uk.pdf,35,", We saw many proof-of-concept and real world attacks in 2015"
+469,uk.pdf,35," Identifying serious vulnerabilities in cars, medical devices and more"
+470,uk.pdf,35," Manufacturers need to prioritise security to reduce the risk of serious personal, economic and social consequences"
+471,uk.pdf,35, Symantec 2016 Internet Security Threat Report working towards the implementation 
+472,uk.pdf,35,"Of controls to secure the routing of internet traffic for government departments to ensure that it cannot be illegitimately re-routed by malicious actors and investing in programmes in the Ministry of Defence, the NCA and GCHQ"
+473,uk.pdf,35, That will enhance the capabilities of these organisations to respond to and disrupt serious state-sponsored and criminal cyber activity
+474,uk.pdf,35," Targeting UK networks, We will develop these technical interventions as threats evolve to ensure that UK citizens and businesses are protected by default from the majority of large-scale commodity"
+475,uk.pdf,35, Cyber attacks Measuring success
+476,uk.pdf,35,The Government will measure its success in establishing effective ACD by assessing progress towards the following outcomes
+477,uk.pdf,35," The UK is harder to phish because we have large-scale defences against the use of malicious domains, more active anti-phishing protection at scale, and it is much harder to use other forms of communication such as vishing and SMS spoofing to conduct social engineering attacks"
+478,uk.pdf,35, A far larger proportion of malware communications and technical artefacts associated with cyber attacks and exploitation are being blocked
+479,uk.pdf,35, The UKs internet and 
+480,uk.pdf,35,Telecommunications traffic is significantly less vulnerable to rerouting by malicious actors
+481,uk.pdf,35," Gchq the Armed Forces and NCA capabilities to respond to serious, state- sponsored and criminal threats have significantly increased National Cyber Security Strategy"
+482,uk.pdf,36,"The Government is well-placed to take a lead role in exploring those new technologies that will better protect our own systems, help industry, build greater security into the supply chain, secure the software ecosystem and provide automated protections to citizens accessing government services online"
+483,uk.pdf,36, The Government must test and implement new technologies that provide automated protection for government online products and services
+484,uk.pdf,36, Similar technologies should be offered to the private sector and the citizen Objective
+485,uk.pdf,36,The majority of online products and services coming into use become secure by default by 2021
+486,uk.pdf,36, Consumers will be empowered to choose products and services that have built-in security as a default
+487,uk.pdf,36," Individuals can switch off these settings if they choose to do so, but those consumers who wish to engage in cyberspace in the most secure way will be automatically protected"
+488,uk.pdf,36,We will pursue the following: actions: 
+489,uk.pdf,36,"The Government will lead by example, by running secure services on the Internet that do not rely on the Internet itself being secure"
+490,uk.pdf,36," The Government will explore options for collaboration with industry to develop cutting-edge ways to make hardware and software more secure by default, and we will adopt challenging new cyber security technologies in government, encouraging Devolved Administrations to do likewise in order to reduce perceived risks of adoption"
+491,uk.pdf,36, This will provide proof of concept and demonstrate the security benefits of new technologies and approaches
+492,uk.pdf,36," It will also put security at the heart of new product development, eliminate opportunities for criminal exploitation and thereby protect the end user"
+493,uk.pdf,36," To do this, we will: "
+494,uk.pdf,36,Continue to encourage hardware and 
+495,uk.pdf,36,"Software providers to sell products with security settings activated as default, requiring the user to actively disable these settings to make them insecure"
+496,uk.pdf,36," Some vendors are already doing this, but some are not yet taking these necessary steps continue to develop an Internet "
+497,uk.pdf,36,Protocol ( IP ) reputation service to protect government digital services (
+498,uk.pdf,36, This would allow online services to get information about an IP address connecting to them
+499,uk.pdf,36, Helping the service make more informed risk management decisions in real time
+500,uk.pdf,36, ) seek to install products on government networks that will provide assurance that software is running correctly and not being maliciously interfered with look to expand beyond the GOV
+501,uk.pdf,36,UK domain into other digital services
+502,uk.pdf,36," Measures that notify users who are running out-of-date, browsers and invest in technologies"
+503,uk.pdf,36," Like Trusted Platform Modules, (, TPM, ) and emerging industry standards such as Fast Identity, Online (, FIDO ), which do not rely on passwords for user authentication but use the machine and other devices in the users possession to authenticate"
+504,uk.pdf,36," The Government will test innovative authentication mechanisms to demonstrate what they can offer, both in terms of security and overall user experience"
+505,uk.pdf,36,"The Government will also explore how to encourage the market by providing security ratings for new products, so that consumers have clear information on National Cyber Security Strategy"
+506,uk.pdf,37,"37, which products and services offer them the greatest security"
+507,uk.pdf,37, The Government will also explore how to link these product ratings to new and existing regulators and ways to warn consumers when they are about to take an action online that might compromise their security Measuring success
+508,uk.pdf,37,The Government will measure its success in building a secure Internet by assessing progress towards the following outcomes
+509,uk.pdf,37, The majority of commodity products and services available in the UK in 2021 are making the UK more secure because they have their default security settings enabled by default or have security integrated into their design and all government services provided 
+510,uk.pdf,37,"At national, local and Devolved Administration level are trusted by the UK public because they have been implemented as securely as possible, and fraud levels are within acceptable risk parameters"
+511,uk.pdf,37,The UK Government Devolved Administrations and the wider public sector hold large quantities of sensitive data
+512,uk.pdf,37, They deliver essential services to the public and operate networks that are critical to national security and resilience
+513,uk.pdf,37, The Governments systems underpin the functioning of our society
+514,uk.pdf,37, The modernisation of public sector services will continue to be the cornerstone of the UKs Digital Strategy
+515,uk.pdf,37," The Governments, digital ambition is for the UK to be the worlds leading digital nation"
+516,uk.pdf,37, To retain the trust of citizens in online public sector services and systems
+517,uk.pdf,37, Data held by government must be protected and all branches of government must implement appropriate levels of cyber security in the face of continuous attempts by hostile actors to gain access to government and public sector networks and data
+518,uk.pdf,37,"We want to achieve the following outcomes: citizens use government online services, "
+519,uk.pdf,37,"With confidence, they trust that their sensitive information is safe and, in turn, understand their responsibility to submit their sensitive information online in a secure manner"
+520,uk.pdf,37," The Government will set and adhere to the most appropriate cyber security standards to ensure that all branches of government understand and meet their obligations to secure their networks, data and services and the Governments critical assets,"
+521,uk.pdf,37,Including those at the highest 
+522,uk.pdf,37,"Classification are protected from cyber attacks, Our approach, "
+523,uk.pdf,37,The UK Government will continue to move more of its services online so that the UK can become truly digital by default
+524,uk.pdf,37," The Government Digital Service, ( GDS ), the Crown Commercial Service ( CCS ) and the NCSC - will ensure that all new digital services built or procured by government are also secure by default"
+525,uk.pdf,37,"The Governments networks are highly complex and, in many cases, still incorporate legacy systems, as well as some commercially available software, which is no longer supported by the vendor"
+526,uk.pdf,37, We will ensure that there are no unmanaged risks from legacy systems and unsupported software
+527,uk.pdf,37,We will improve government and wider public sector resilience to cyber National Cyber Security Strategy
+528,uk.pdf,38," This means ensuring an accurate and up to date, knowledge of all systems, data and those who have access to them"
+529,uk.pdf,38, The likelihood and impact of a cyber incident will be minimised by implementing best practice as set out by the NCSC
+530,uk.pdf,38, The Government will also ensure that it is able to respond effectively to cyber incidents through a programme of incident exercises and regular testing of government networks
+531,uk.pdf,38, We will invite Devolved Administrations and local authorities to participate in these exercises as appropriate
+532,uk.pdf,38," We will ensure that we have a better knowledge of governments, online security status, "
+533,uk.pdf,38,Cyber security is not just about technology
+534,uk.pdf,38, Almost all successful cyber attacks have a contributing human factor
+535,uk.pdf,38, We will therefore continue to invest in our people to ensure that everyone who works in government has a sound awareness of cyber risk
+536,uk.pdf,38, We will develop specific cyber expertise in areas where the risks are heightened and ensure that we have the right processes in place to manage these risks effectively
+537,uk.pdf,38,"The NCSC will develop world- leading cyber security guidance, which will keep pace with the threat and development of new technologies"
+538,uk.pdf,38, We will take steps to make sure government organisations have easy access to threat information to inform their understanding of their own cyber risks and take appropriate action
+539,uk.pdf,38,"We will continue to improve our highest classification networks to safeguard the Governments, most sensitive communications, "
+540,uk.pdf,38,Health and care systems pose unique challenges in the context of cyber security
+541,uk.pdf,38, The sector employs around 1
+542,uk.pdf,38,"6 million people in over 40,000 organisations, each with vastly differing information, security resources and capability"
+543,uk.pdf,38, The National Data Guardian for Health and Care has set new data security standards for the health and social care systems in England
+544,uk.pdf,38, Alongside a new data consent/opt-out model for patients
+545,uk.pdf,38,", The Government will work with health and social care organisations to implement these standards"
+546,uk.pdf,38," Britain is a world leader in cyber security, but with growing threats this new Cyber Security Operations Centre will ensure our Armed forces continue to operate securely"
+547,uk.pdf,38," Our increasing defence budget means that we can stay ahead of our adversaries in cyberspace, while also investing in conventional capabilities"
+548,uk.pdf,38," The Rt Hon Michael Fallon, MP, Defence Secretary April 2016, "
+549,uk.pdf,38,Cyber security is vital to our defence
+550,uk.pdf,38," Our Armed Forces depend on information and communications systems, both in the UK and on operations around the world"
+551,uk.pdf,38, The infrastructure and personnel of the Ministry of Defence ( MoD ) are prominent
+552,uk.pdf,38," Defence systems are regularly targeted by criminals, foreign intelligence services and other malicious actors seeking to exploit personnel, disrupt business and operations and corrupt and steal information"
+553,uk.pdf,38," We will enhance cyber threat, awareness, detection and reaction functions through the development of a Cyber Security Operations Centre, ( CSOC ) that uses state- of-the-art defensive cyber capabilities to protect the MoDs cyberspace and deal with threats"
+554,uk.pdf,38, The CSOC will work closely with the NCSC to confront the MoDs cyber security challenges and contribute to wider national cyber security
+555,uk.pdf,39," National Cyber Security Strategy, 2016Section 5 DEFEND"
+556,uk.pdf,39,The Government will measure its success in protecting government networks systems and data by assessing progress towards the following outcomes
+557,uk.pdf,39," We are aware of and actively mitigating all known, internet-facing vulnerabilities in government systems and services and all suppliers to the Government meet appropriate cyber security standards"
+558,uk.pdf,39, The Government has an in-depth 
+559,uk.pdf,39,Understanding of the level of cyber security risk across the whole of government and the wider public 
+560,uk.pdf,39,"And other bodies protect themselves in proportion to their level of risk and to an agreed government, minimum standard government departments and the wider "
+561,uk.pdf,39,"Public sector are resilient and can respond effectively to cyber incidents, maintaining functions and recovering quickly"
+562,uk.pdf,39, New technologies and digital services deployed by government will be cyber secure by default
+563,uk.pdf,39,National INFRASTRUCTURE AND OTHER PRIORITY SECTORS: 
+564,uk.pdf,39,"1, The cyber security of certain UK organisations is of particular importance, because a successful cyber attack on them would have the severest impact on the countrys national security"
+565,uk.pdf,39," This impact could have a bearing on the lives of UK citizens, the stability and strength of the UK economy or the UKs international standing and reputation"
+566,uk.pdf,39, This premium group of companies and organisations within the public and private sector includes the critical national infrastructure National Cyber Security Strategy
+567,uk.pdf,40,"40 ( CNI ), which provides essential services to the nation"
+568,uk.pdf,40,", Ensuring the CNI is secure and resilient against cyber attack, will be a priority for the Government"
+569,uk.pdf,40, This premium group also includes other companies and organisations beyond the CNI that require a greater level of support
+570,uk.pdf,40," They include the jewels in our economic crown, the UKs most successful companies and also those that hold our future economic strength in the value of their research and intellectual property data holders, not just organisations that hold large amounts of personal data, but also those that hold data"
+571,uk.pdf,40," On vulnerable citizens here and abroad, such as charities, high-threat targets such as media "
+572,uk.pdf,40,"Organisations where an attack could harm the UKs reputation, damage public confidence in the Government or endanger freedom of expression, the touchstones of our digital economy, digital service providers, that enable e-commerce and our digital economy and who depend on consumer trust in their services and those organisations that, Through "
+573,uk.pdf,40,"Market forces and authority can exert influence on the whole economy to improve their cyber security, such as insurers, investors, regulators and professional advisors"
+574,uk.pdf,40,More needs to be done to protect these vital parts of our economy and support the organisations that heavily influence others
+575,uk.pdf,40," Our CNI, in both the private and public sector, continues to be a target for attack"
+576,uk.pdf,40, Across these and many other priority sectors
+577,uk.pdf,40," Cyber risk is still not properly understood or managed, even as the threat continues to diversify and increase Objective"
+578,uk.pdf,40,"The UK Government, working with the Devolved Administrations and other responsible authorities, where appropriate, will ensure that the UKs most important organisations and companies, including the CNI, are sufficiently secure and resilient in the face of cyber attack"
+579,uk.pdf,40," Neither the Government nor other public bodies will take on the responsibility to manage this risk for the private sector, which rightly sits with boards owners and operators"
+580,uk.pdf,40, But the Government will provide support and assurance proportionate both to the threat these companies and organisations face and to the consequences of their being attacked
+581,uk.pdf,40," Cyber security is key to unlocking innovation and expansion and by adopting a tailored organisation and risk-centric approach to cyber security organisations, can refocus on opportunities and exploration"
+582,uk.pdf,40, Building trust in a business that operates successfully within the Internet of Things
+583,uk.pdf,40, ( IoT ) and that fully supports and protects individuals and their personal mobile devices ( from a simple phone to a health care device from smart appliances to smart cars
+584,uk.pdf,40, ) is a key competitive differentiator and must be a priority
+585,uk.pdf,40, Eys Global Information Security Survey - 2015
+586,uk.pdf,41," National Cyber Security Strategy, 2016Section 5 DEFEND"
+587,uk.pdf,41,Organisations and company boards are responsible for ensuring their networks are secure
+588,uk.pdf,41, They must identify critical systems and regularly assess their vulnerability against an evolving technological landscape and threat
+589,uk.pdf,41, They must invest in technology and their staff to reduce vulnerabilities in current and future systems and in their supply chain to maintain a level of cyber security proportionate to the risk
+590,uk.pdf,41, They must also have tested capabilities in place to respond
+591,uk.pdf,41, If an attack happens
+592,uk.pdf,41," For the CNI, they must do this with government bodies and regulators, so we can be confident that cyber risk is being properly managed and if it is not intervene in the interests of national security"
+593,uk.pdf,41,"The Government will therefore understand the level of cyber security across our CNI and have measures in place to intervene where necessary, to drive improvements that are in the national interest"
+594,uk.pdf,41, The Government will: 
+595,uk.pdf,41,"Share threat information with industry that only the Government can obtain, so they know what they must protect themselves against, produce advice and guidance on how to manage cyber risk and working collaboratively with industry and academia define what good cyber security looks like stimulate"
+596,uk.pdf,41," The introduction of the high- end security needed to protect the CNI, such as training facilities, testing, labs security standards and consultancy services and conduct exercises with CNI companies to assist them in managing their cyber risks and vulnerabilities"
+597,uk.pdf,41,"The NCSC will provide these services for the UKs most important companies and organisations, including the CNI"
+598,uk.pdf,41, It will do so in partnership with departments and regulators who will assure whether cyber risk is being managed in their sectors to the level demanded by the national interest
+599,uk.pdf,41,"The Government will also make sure that the right regulatory framework for cyber security is in place, one that ensures industry acts to protect itself from the threat"
+600,uk.pdf,41,Is outcome focused and sufficiently 
+601,uk.pdf,41,"Flexible, so that it will not fall behind the threat or lead to compliance rather than sound"
+602,uk.pdf,41, Risk management is agile enough to foster growth and innovation rather than lead it 
+603,uk.pdf,41,Is harmonised with regimes in other jurisdictions so that UK companies do not suffer from a fragmented and burdensome approach and delivers when combined with 
+604,uk.pdf,41,Effective support from the Government a competitive advantage for the UK 
+605,uk.pdf,41,Many of our industry sectors are already regulated for cyber security
+606,uk.pdf,41," Nonetheless, we must ensure the right steps are taken across the whole economy, including the CNI to manage cyber security risks Measuring success"
+607,uk.pdf,41,The Government will measure its success in protecting our CNI and other priority sectors by assessing progress towards the following outcomes
+608,uk.pdf,41," We understand the level of cyber security across the CNI and have measures in place to intervene where necessary, to drive improvements in the national interest and National Cyber Security Strategy"
+609,uk.pdf,42,42 our most important companies and 
+610,uk.pdf,42,Organisations understand the level of threat and implement proportionate cyber security practices
+611,uk.pdf,42,Changing PUBLIC AND BUSINESS 
+612,uk.pdf,42,"1, A successful UK digital economy relies upon the confidence of businesses and the public in online services"
+613,uk.pdf,42, The Government has worked with industry and other parts of the public sector to increase awareness and understanding of the threat
+614,uk.pdf,42, The Government has also provided the public and business with access to some of the tools that they need to protect themselves
+615,uk.pdf,42, While there are many organisations that are doing an excellent job in places world-leading of protecting themselves and in providing services to others online
+616,uk.pdf,42, The majority of businesses and individuals are still not properly managing cyber risk
+617,uk.pdf,42," Last year, the average cost of breaches to large businesses that had them was 36,500"
+618,uk.pdf,42," The average cost of breaches was 3,100"
+619,uk.pdf,42,", 65 % of large organisations reported"
+620,uk.pdf,42," They had suffered an information security breach in the past year and 25 % of these experienced a breach, at least once a month"
+621,uk.pdf,42,", Nearly seven out of ten attacks involved, viruses, spyware or malware that might have been prevented using the Governments, Cyber Essentials, scheme"
+622,uk.pdf,42," 2016 Government, Cyber Health Check and Cyber Security Breaches Survey Objective"
+623,uk.pdf,42,"Our objective is to ensure that individuals and organisations, regardless of size or sector, are taking appropriate steps to protect themselves and their customers from the harm caused by cyber attacks"
+624,uk.pdf,42,The Government will provide the advice that the economy needs to protect itself
+625,uk.pdf,42, We will improve how this advice is delivered to maximise its effect
+626,uk.pdf,42," The Government will harness trusted voices to increase the reach, credibility and relevance of our message"
+627,uk.pdf,42, We will provide advice
+628,uk.pdf,42, That is easy to act upon and relevant to individuals at the point they are accessing services and exposing themselves to risk
+629,uk.pdf,42, We will involve the Devolved Administrations and other authorities as appropriate
+630,uk.pdf,42,"For businesses, we will work through organisations such as insurers, regulators and investors, which can exert influence over companies to ensure they manage cyber risk"
+631,uk.pdf,42," In doing so, we will highlight the clear business benefits and the pricing of cyber risk by market influencers"
+632,uk.pdf,42, We will seek to understand better why many organisations still fail to protect themselves adequately and then work in partnership with organisations such as professional standards bodies to move beyond raising awareness to persuade companies to take action
+633,uk.pdf,42, We will also make sure we have the right regulatory framework in place to manage those cyber risks
+634,uk.pdf,42, The market fails to address
+635,uk.pdf,42," As part of this, we will seek to use levers such as the GDPR to drive up standards of cyber security and protect citizens, Individuals and organisations and "
+636,uk.pdf,42,"Organisations in the UK will have access to the information, education and tools they need to protect themselves"
+637,uk.pdf,43," To ensure we deliver a step-change in public behaviour, National Cyber Security Strategy, 2016Section 5 DEFEND"
+638,uk.pdf,43, We will maintain a coherent and consistent set of messages on cyber security guidance from both the Government and our partners
+639,uk.pdf,43, The NCSC will provide technical advice to underpin this guidance
+640,uk.pdf,43," It will reflect business and public priorities and practices and be clear, easily accessible and consistent, while keeping pace with the threat"
+641,uk.pdf,43," Law enforcement will work closely with industry and the NCSC to share the latest criminal threat intelligence, to support industry, to defend itself against threats and to Mitigate the impact of attacks on UK victims Measuring success, "
+642,uk.pdf,43,The Government will measure its success in protecting our CNI and other priority sectors by assessing progress towards the following outcomes
+643,uk.pdf,43, The UK economys level of cyber security is as high as or higher than comparative advanced economies
+644,uk.pdf,43, The number severity and impact of successful cyber attacks against businesses
+645,uk.pdf,43, In the UK has reduced because cyber hygiene standards have improved and there is an improving cyber 
+646,uk.pdf,43,"Security culture across the UK, because organisations and the public understand their cyber risk levels and understand the cyber hygiene steps they need to take to manage those risks"
+647,uk.pdf,43,"The Cyber Aware campaign, formerly Cyber Streetwise, gives the public the advice they need to protect themselves from cyber criminals"
+648,uk.pdf,43,", Targeted messaging, delivered through social media and advertising, and in partnership with businesses, promotes using three random words to create a strong password and "
+649,uk.pdf,43,Always downloading the latest 
+650,uk.pdf,43,Experts agree adopting these behaviours will provide small businesses and individuals with protection against cyber crime
+651,uk.pdf,43," Cyber Aware is currently supported by 128 cross- sector partners, including the police and businesses in the retail leisure travel and professional services sectors"
+652,uk.pdf,43," In 2015/16, an estimated 10 million adults and 1 million small businesses stated they were more likely to maintain or take up key cyber security Behaviours as a result of the Cyber Aware campaign To find out more visit, cyberaware CYBER ESSENTIALS, "
+653,uk.pdf,43,The Cyber Essentials scheme was developed to show organisations how to protect themselves against low-level commodity threat
+654,uk.pdf,43," It lists five technical controls, ( access control, boundary, firewalls and Internet gateways, malware protection, patch management and secure configuration )"
+655,uk.pdf,43, That organisations should have in place
+656,uk.pdf,43, The vast majority of cyber attacks use relatively simple methods which exploit basic vulnerabilities in software and computer systems
+657,uk.pdf,43," There are tools and techniques openly available on the Internet, which enable even low-skill actors to exploit these vulnerabilities"
+658,uk.pdf,44," Implementing the Cyber Essentials scheme will protect against the vast majority of common internet threats, National Cyber Security Strategy, 2016Section 5DEFEND"
+659,uk.pdf,44,The number and severity of cyber incidents affecting organisations across the public and private sector are likely to increase
+660,uk.pdf,44, We therefore need to define how both the private sector and the public engage with the Government
+661,uk.pdf,44, During a cyber incident
+662,uk.pdf,44," We will ensure that the UK Governments level of support for each sector, taking into account its cyber maturity, is clearly defined and understood"
+663,uk.pdf,44," The Governments, collection and dissemination of information about the threat must be delivered in a manner and at a speed suitable for all types of organisation"
+664,uk.pdf,44," The private sector government and the public can currently access multiple sources of information, guidance and assistance on cyber security"
+665,uk.pdf,44, This must be simplified
+666,uk.pdf,44,"We must ensure that the Government offering both in response to incidents and in the provision of guidance, does not exist in isolation, but in partnership with the private sector"
+667,uk.pdf,44, Our incident management processes should reflect a holistic approach to incidents whereby we learn from partners and share mitigation
+668,uk.pdf,44,", We will also continue to use our relationships with other Computer Emergency Response Teams, ( CERTs ) and our allies as an integrated part of our incident management function"
+669,uk.pdf,44,"Current incident management remains somewhat fragmented across government departments, and this strategy will create a unified approach"
+670,uk.pdf,44, The NCSC will deliver a streamlined and effective government-led incident response function
+671,uk.pdf,44," In the event of a serious cyber incident, we will ensure that the Armed Forces are able to provide assistance, whether in a conventional form addressing the physical impact of an incident or in the form of specialist support from regular or reserve cyber personnel"
+672,uk.pdf,44," While we will provide all the support, our resources will allow"
+673,uk.pdf,44, The Government continues to stress the importance of industry society and the public acting to safeguard their basic cyber security Objectives
+674,uk.pdf,44,Our objectives are as follows: 
+675,uk.pdf,44,The Government will provide a single joined-up approach to incident management based on an improved understanding and awareness of the threat and actions being taken against us
+676,uk.pdf,44," The NCSC will be a key enabler, as will partnership with the private sector, law enforcement and other government departments, authorities and agencies"
+677,uk.pdf,44, The NCSC defines clear processes
+678,uk.pdf,44,"For reporting incidents tailored to the profile of the victim, and we will prevent the most common cyber incidents and we will have effective information-sharing structures in place to inform pre-incident planning Our approach"
+679,uk.pdf,44,It is the responsibility of organisation and company management in both the public and private sector to ensure their networks are secure and to exercise incident response plans
+680,uk.pdf,44, In the event of a significant incident
+681,uk.pdf,44, The Government incident management process will reflect the three distinct elements of a cyber incident
+682,uk.pdf,44, The precursor causes the incident itself and the post-incident response
+683,uk.pdf,44,To deliver incident management that is effective for both government and the private sector
+684,uk.pdf,44, We will work closely to review and define the scope of the Government response to ensure it National Cyber Security Strategy
+685,uk.pdf,45," We will build on our national cyber exercise plan, using our improved understanding and awareness of the threat to improve our offer of support to public and private sector partners"
+686,uk.pdf,45,"We will create a trusted and credible government identity for incident, advice, assistance and assurance"
+687,uk.pdf,45," This will increase the cyber security awareness across the UK digital community and will enable us the better to identify trends, take pro-active measures and ultimately prevent incidents In moving towards automated "
+688,uk.pdf,45, cyber security systems automatically alerting each other to incidents or attacks )
+689,uk.pdf,45, We will deliver a more effective service
+690,uk.pdf,45, This will allow organisations to act swiftly on relevant threat
+691,uk.pdf,45," Information Measuring success, "
+692,uk.pdf,45,The Government will measure its success in managing incidents by assessing progress towards the following outcomes
+693,uk.pdf,45, A higher proportion of incidents are reported to the authorities leading to a better understanding of the size and scale of the threat
+694,uk.pdf,45, Cyber incidents are managed
+695,uk.pdf,45,"More effectively, efficiently and comprehensively, as a result of the creation of the NCSC as a centralised incident, reporting and response mechanism, and we will address the root causes of attacks at a national level, reducing the occurrence of repeated exploitation across multiple victims and sectors"
+696,uk.pdf,46," National Cyber Security Strategy, 2016Section 5DEFEND"
+697,uk.pdf,47,"National Cyber Security Strategy, 2016Section 6 DETER"
+698,uk.pdf,47,"We will pursue a comprehensive national approach to cyber security and deterrence that will make the UK a harder target, reducing the benefits and raising the costs to an adversary, be they political, diplomatic, economic or strategic"
+699,uk.pdf,47, We must ensure our capability and intent to respond are understood by potential adversaries in order to influence their decision-making
+700,uk.pdf,47, We shall have the tools and capabilities
+701,uk.pdf,47," We need to deny our adversaries easy opportunities to compromise our networks and systems to understand their intent and capabilities to defeat commodity malware threats at scale and to respond and protect the nation in cyberspace, REDUCING CYBER CRIME "
+702,uk.pdf,47,"We need to raise the cost, raise the risk and reduce the reward of cyber criminals activity"
+703,uk.pdf,47," While we must harden the UK against cyber attacks and reduce vulnerabilities, we must also focus relentlessly on pursuing criminals who continue to target the UK"
+704,uk.pdf,47,Law enforcement agencies will focus their efforts on pursuing the criminals who persist in attacking UK citizens and businesses
+705,uk.pdf,47, We will work with domestic and international partners to target criminals wherever they are located and to dismantle their infrastructure and facilitation
+706,uk.pdf,47, Law enforcement agencies will also continue to help raise awareness and standards of cyber security in collaboration with the NCSC 
+707,uk.pdf,47,The National Security Strategy states that defence and protection start with deterrence
+708,uk.pdf,47, This is as true in cyberspace as any other sphere
+709,uk.pdf,47, To realise our vision of a nation that is secure and resilient to cyber threats and prosperous and confident in the digital world
+710,uk.pdf,47, We have to dissuade and deter those who would harm us and our interests
+711,uk.pdf,47," To achieve this, we all need to continue to raise levels of cyber security, so that attacking us in cyberspace, whether to steal from us or harm us, is neither cheap nor easy"
+712,uk.pdf,47," Our adversaries must know that they cannot act with impunity, that we can and will identify them and that we can act against them using the most appropriate response from amongst all the tools at our disposal"
+713,uk.pdf,47, We will continue to build global alliances and promote the application of international law in cyberspace
+714,uk.pdf,47, We will also more actively disrupt the activity of all those who threaten us in cyberspace and the infrastructure on which they rely
+715,uk.pdf,47, This ambition requires world-class sovereign capabilities
+716,uk.pdf,47, Cybers ROLE IN DETERRENCE 
+717,uk.pdf,47,Cyberspace is only one sphere in which we must defend our interests and sovereignty
+718,uk.pdf,47,", Just as our actions in the physical sphere are relevant to our cyber security and deterrence"
+719,uk.pdf,47, So our actions and posture in cyberspace must contribute to our wider national security
+720,uk.pdf,47,The principles of deterrence are as applicable in cyberspace as they are in the physical sphere
+721,uk.pdf,47, The UK makes clear that the full spectrum of our capabilities will be used to deter adversaries and to deny them opportunities to attack us
+722,uk.pdf,47," However, we recognise that cyber security and resilience are in themselves a means of deterring attacks that rely on the exploitation of vulnerabilities, National Cyber Security Strategy"
+723,uk.pdf,48,This strategy complements the 2013 Serious and Organised Crime Strategy which set out the UK Governments strategic response to cyber crime alongside other types of serious and organised crime
+724,uk.pdf,48," The National Cyber Crime Unit, ( NCCU ) that sits within the National Crime Agency, ( NCA ), was established to lead and coordinate the national response to cyber crime"
+725,uk.pdf,48, Fraud provides a national reporting centre for fraud and cyber crime
+726,uk.pdf,48,", A network of cyber crime units within Regional Organised Crime Units ( ROCUs ) provide access to specialist cyber capabilities at a regional level, supporting the NCCU and local forces Objective"
+727,uk.pdf,48,We will reduce the impact of cyber crime on the UK and its interests by deterring cyber criminals from targeting the UK and relentlessly pursuing those who persist in attacking us
+728,uk.pdf,48,"To reduce the impact of cyber crime, we will enhance the UKs law enforcement "
+729,uk.pdf,48,"Capabilities and skills at national, regional and local level to identify, pursue, prosecute and deter cyber criminals within the UK and overseas build a better understanding of the cyber crime business model"
+730,uk.pdf,48, So we know where to target interventions in order to have the most disruptive effect on criminal activity
+731,uk.pdf,48, We will use this knowledge to make the UK a high-cost high-risk environment in which to operate by targeting the UK nexus of criminality and by working with industry to reduce the ability of criminals to exploit UK infrastructure and 
+732,uk.pdf,48,"Tackle cyber crime upstream, adding friction to the criminal business model by dismantling their infrastructure and financial networks and wherever possible, bringing offenders to justice, build international partnerships to "
+733,uk.pdf,48,"End the perceived impunity of cyber criminals acting against the UK by bringing criminals in overseas jurisdictions to justice, deter individuals from being attracted "
+734,uk.pdf,48,To or becoming involved in cyber crime by building on our early intervention measures enhance collaborations with industry to provide them with proactive intelligence on the threat and to provide us with the upstream intelligence that they possess in order to assist with our upstream disruption
+735,uk.pdf,48," Efforts develop a new 24/7 reporting and triage capability in Action; Fraud linked to the NCSC, the NCAs National Cyber Crime Unit and the wider law enforcement community to improve support to victims of cyber crime, to provide a faster response to reported crimes and enhanced protective security"
+736,uk.pdf,49," A new reporting system will be established to share information in real time across law enforcement on cyber crime and threats, work with the NCSC and the private sector to reduce vulnerabilities in UK infrastructure that could be exploited at scale by cyber criminals and work with the finance Sector to make the UK a more hostile environment for those seeking to monetise stolen credentials, including by disrupting their networks, National Cyber Security Strategy, 2016Section 6 DETER"
+737,uk.pdf,49,The Government will measure its success in reducing cyber crime by assessing progress towards the following outcomes
+738,uk.pdf,49," We have a greater disruptive effect on cyber criminals, attacking the UK with higher numbers of arrests and convictions, and larger numbers of criminal networks dismantled as a result of law enforcement"
+739,uk.pdf,49," Intervention there is improved law enforcement, "
+740,uk.pdf,49,"Capability, including greater capacity and skills of dedicated specialists and mainstream officers and enhanced law enforcement capability amongst overseas partners"
+741,uk.pdf,49," There is improved effectiveness and increased scale of early intervention measures dissuades and reforms offenders, and there are fewer low-level cyber "
+742,uk.pdf,49,"Offences as a result of cyber criminal services being harder to access and less effective, "
+743,uk.pdf,49,"We need to bring to bear the full range of government capabilities to counter the threat posed by hostile foreign actors that increasingly threaten our political, economic and military security"
+744,uk.pdf,49," Working with international partners will be key to our success, and greater emphasis will be placed on engaging them and working with them to counter the threat"
+745,uk.pdf,49, Much of this action will not be in the public domain
+746,uk.pdf,49," Our investment in sovereign capabilities and partnerships with industry and the private sector will continue to underpin our ability to detect, observe and identify this constantly evolving activity against us Objective"
+747,uk.pdf,49,"We will have strategies, policies and priorities in place for each adversary to ensure a proactive, well-calibrated and effective approach is taken to counter the threat and in order to drive down the number and severity of cyber incidents in the future"
+748,uk.pdf,49," What TO DO, IF YOU ARE A VICTIM OF CYBER CRIME, "
+749,uk.pdf,49,"If you are a member of the public - and you believe that you are the victim of cyber crime or cyber enabled fraud, you should contact Action Fraud"
+750,uk.pdf,49," You can report the incident using Action Frauds online fraud, reporting tool anytime of the day or night or call 0300 123 2040"
+751,uk.pdf,49," For further information, see www"
+752,uk.pdf,49,"actionfraud The Action Fraud service is run by the City of London, Police "
+753,uk.pdf,49,"To reduce the cyber threat from hostile foreign actors, we will reinforce the application of "
+754,uk.pdf,49,"International law in cyberspace, in addition to promoting the agreement of voluntary, non-binding norms of responsible state behaviour and the development and implementation of confidence, building measures work with international partners, "
+755,uk.pdf,49,"Particularly through collective defence, cooperative security and enhanced deterrence that our membership of NATO affords identify both the unique and "
+756,uk.pdf,49,Generic aspects of our adversaries - 
+757,uk.pdf,50,"National Cyber Security Strategy, 2016Section 6DETER"
+758,uk.pdf,50,"50, generate and explore all available"
+759,uk.pdf,50,"Options for deterring and countering this threat, drawing on the full range of government capabilities"
+760,uk.pdf,50," We will take full account of other related factors, including country-specific strategies, international cyber priorities and cyber crime and prosperity objectives, use existing networks and relationships"
+761,uk.pdf,50,"With our key international partners to share information about current and nascent threats, adding value to existing thought and expertise and attribute specific cyber identities, "
+762,uk.pdf,50,"Publicly, when we judge it in the national interest to do so, "
+763,uk.pdf,50,"The Government will measure its success in countering the actions of hostile foreign actors by assessing progress towards the following outcomes: the stronger information-sharing, "
+764,uk.pdf,50,"Networks that we have established with our international partners and wider multilateral agreements in support of lawful and responsible behaviour by states are substantially contributing to our ability to understand and respond to the threat resulting in a better defended UK and our defence and deterrence measures,"
+765,uk.pdf,50,Alongside our country-specific strategies are making the UK a harder target for hostile foreign actors to act against terrorists using and intending to use cyber for this purpose
+766,uk.pdf,50," In doing so, we will minimise their impact and prevent an uplift in terrorist cyber capability that would further threaten UK networks and national security Objective"
+767,uk.pdf,50,To mitigate the threat of terrorist use of cyber through the identification and disruption of terrorist cyber actors who currently hold and aspire to build capability that could threaten UK national security
+768,uk.pdf,50,"To ensure the threat posed by cyber terrorism remains low, we will detect cyber terrorism threats, "
+769,uk.pdf,50,Identifying actors who are seeking to conduct damaging network operations against the UK and our allies investigate and disrupt these cyber 
+770,uk.pdf,50,Terrorism actors to prevent them from using cyber capability against the UK and its allies and work closely with international partners to enable us to better tackle the threat from cyber terrorism Measuring success
+771,uk.pdf,50,The Government will measure its success in preventing terrorism by assessing progress towards the following outcomes: PREVENTING TERRORISM 
+772,uk.pdf,50,"The technical capability of terrorists currently remains limited, but they continue to aspire to conduct, damaging computer network operations against the UK with publicity and disruption as the primary objective of their cyber activity"
+773,uk.pdf,50," The Government will identify and disrupt a full understanding of risk posed by cyber terrorism through identification and investigation of cyber terrorism, threats to the UK and close monitoring and disruption of "
+774,uk.pdf,51,"Terrorist cyber capability at the earliest opportunity, with the aim of preventing an increase in such terrorist capability in the long term, National Cyber Security Strategy, 2016Section 6 DETER"
+775,uk.pdf,51,"Offensive cyber capabilities involve deliberate intrusions into opponents systems or networks with the intention of causing damage, disruption or destruction"
+776,uk.pdf,51," Cyber forms, part of the full spectrum of capabilities we will develop to deter adversaries and to deny them opportunities to attack us in both cyberspace and the physical sphere"
+777,uk.pdf,51," Through our National Offensive Cyber Programme, ( NOCP ), we have a dedicated capability to act in cyberspace and we will commit the resources to develop and improve this capability Objective"
+778,uk.pdf,51,"We will ensure that we have at our disposal appropriate offensive cyber capabilities that can be deployed at a time and place of our choosing for both deterrence and operational purposes, in accordance with national and international law"
+779,uk.pdf,51,"To do this, we will: "
+780,uk.pdf,51,"Invest in our NOCP, the partnership between the Ministry of Defence and GCHQ, that is harnessing the skills and talents of both organisations to deliver the tools, techniques and tradecraft required, develop our ability to use offensive cyber tools and "
+781,uk.pdf,51,The Government will measure our success in establishing offensive cyber capabilities by assessing progress towards the following outcomes
+782,uk.pdf,51, The UK is a world leader in offensive cyber capability and 
+783,uk.pdf,51,The UK has established a pipeline of skills and expertise to develop and deploy our sovereign offensive
+784,uk.pdf,51,Cryptographic capability is fundamental to protecting our most sensitive information and to choosing how we deploy our Armed Forces and national security capabilities
+785,uk.pdf,51," To maintain this capability, we will require private sector skills and technologies that are assured by GCHQ"
+786,uk.pdf,51," This is likely to require work to be done in the UK by British Nationals, with the requisite security clearance working for companies who are prepared to be completely open with GCHQ in discussing design and implementation"
+787,uk.pdf,51,", The MOD and GCHQ are working to establish a sound understanding of the long-term cost implications of maintaining such sovereign cryptographic, capabilities based on prevailing market conditions and in cooperation with those companies currently able to provide such solutions"
+788,uk.pdf,51,"Develop the ability of our Armed Forces to deploy offensive cyber capabilities as an integrated part of operations, thereby enhancing the overall impact we can achieve through military action"
+789,uk.pdf,51,We have the confidence that the UK will always have political control over those cryptographic capabilities vital to our national security and therefore the means to protect UK secrets
+790,uk.pdf,52," National Cyber Security Strategy, 2016Section 6DETER"
+791,uk.pdf,52,We will select the means that allow us to share information effectively with our allies and ensure that trusted information and information systems are available when and where required
+792,uk.pdf,52, Working closely with other government departments and agencies
+793,uk.pdf,52," Gchq and MOD will together, define sovereign requirements and how best to meet those requirements when suppliers must be domestic"
+794,uk.pdf,52, This will be delivered through a new joint framework for determining requirements for operational advantage and freedom of action Measuring success
+795,uk.pdf,52,The Government will measure its success in maintaining our cryptographic capabilities by assessing progress towards the following outcome: our sovereign cryptographic 
+796,uk.pdf,52,Capabilities are effective in keeping our secrets and sensitive information safe from unauthorised disclosure
+797,uk.pdf,52, Encryption is the process of encoding data or information to prevent unauthorised access to it
+798,uk.pdf,52, The Government is in favour of encryption
+799,uk.pdf,52, It is a foundation stone of a strong internet-based economy
+800,uk.pdf,52," It keeps peoples, personal data and intellectual property, secure and ensures safe online commerce, But as technology continues to evolve, we have to ensure that there are no guaranteed safe spaces for terrorists and criminals to operate beyond the reach of the law"
+801,uk.pdf,52," The Government wants to work with industry as technology develops, to ensure that, with a robust legal framework and clear oversight, the police and intelligence agencies can access the content of the communications of terrorists and criminals"
+802,uk.pdf,52, Existing legislation allows for the communications of criminals and terrorists to be intercepted when a warrant is in place
+803,uk.pdf,52," Companies have a duty to give effect to such a warrant, providing the requested communications to the relevant authority"
+804,uk.pdf,52, When served with a warrant
+805,uk.pdf,52," Companies are asked to remove any encryption that they themselves have applied, or that has been applied on their behalf, so that the material provided is in readable form"
+806,uk.pdf,52," The law stipulates that companies are required to take reasonable steps to give effect to a warrant, and any assessment of reasonableness will include an assessment of the steps"
+807,uk.pdf,53," A company is required to take to remove encryption National Cyber Security Strategy, 2016Section 6 DETER"
+808,uk.pdf,53,53 National Cyber Security Strategy
+809,uk.pdf,55,"National Cyber Security Strategy, 2016Section 7 DEVELOP"
+810,uk.pdf,55,", The DEVELOP strand of the strategy, sets out how we will acquire and strengthen the tools and capabilities that the UK needs to protect itself from the cyber threat"
+811,uk.pdf,55,The UK requires more talented and qualified cyber security professionals
+812,uk.pdf,55, The Government will act now to plug the growing gap between demand and supply for key cyber security roles and inject renewed vigour into this area of education and training
+813,uk.pdf,55," This is a long-term transformative objective and this strategy will kick-start this important work, which will necessarily continue beyond 2021"
+814,uk.pdf,55," A skilled workforce is the lifeblood of a vital and world leading cyber security, commercial ecosystem"
+815,uk.pdf,55, This ecosystem will ensure cyber start-ups prosper and receive the investment and support they need
+816,uk.pdf,55," This innovation and vigour can only be provided by the private sector, but the Government will act to support its development and actively promote the wider cyber security sector to the world"
+817,uk.pdf,55,", A dynamic and thriving scientific research sector is required to support both the development of highly skilled people and to ensure that new ideas translate into cutting-edge products"
+818,uk.pdf,55,"The UK needs to tackle the systemic issues at the heart of the cyber skills shortage, the lack of young people entering the profession, the shortage of current cyber security specialists, insufficient exposure to cyber and information security concepts in computing courses, a shortage of suitably qualified teachers and The absence of established career and training pathways into the profession "
+819,uk.pdf,55,This calls for swift intervention by the Government to help address the current shortage and develop a coherent 
+820,uk.pdf,55,Long-Term strategy that can build on these interventions to close the skills gap
+821,uk.pdf,55," However, it must be recognised that to have any profound impact, this effort must be collaborative with input from a range of participants and influencers across the Devolved Administrations, public sector, education providers, academia bodies and industry Objective"
+822,uk.pdf,55,The Governments ambition is to ensure the sustained supply of the best possible home-grown cyber security talent
+823,uk.pdf,55, Whilst funding specific interventions in the short term to help meet known skills gaps
+824,uk.pdf,55,", We will also define and develop the cyber security skills needed across the population and workforce to operate safely and securely online"
+825,uk.pdf,55,"This requires action over the next twenty years, not just the next five"
+826,uk.pdf,55," We will define the long-term coordinated set of actions needed by government industry, education providers and academia to establish a sustained supply of competent cyber security professionals who meet the requisite standards and certification to practise confidently and securely"
+827,uk.pdf,55,We will close the skills gap in Defence
+828,uk.pdf,55," We will attract cyber specialists to government who are not only effectively trained, but also ready to maintain our national security"
+829,uk.pdf,55, This includes an understanding of the impact of cyberspace on military operations
+830,uk.pdf,55,We will develop and implement a self-standing skills strategy that builds on existing work to integrate cyber security into the education system
+831,uk.pdf,55, This will continue to improve the state of computer science teaching overall and embed cyber National Cyber Security Strategy
+832,uk.pdf,56,56 security into the curriculum
+833,uk.pdf,56,", Everyone studying computer science, technology or digital skills will learn the fundamentals of cyber security and will be able to bring those skills into the workforce"
+834,uk.pdf,56," As part of this effort, we will address the gender imbalance in cyber-focused professions and reach people from more diverse backgrounds to make sure we are drawing from the widest available talent pool"
+835,uk.pdf,56, We will work closely with the Devolved Administrations to encourage a consistent approach across the UK
+836,uk.pdf,56,"We will set out more clearly the respective roles of government and industry, including how these might evolve over time"
+837,uk.pdf,56, The UK Government and Devolved Administrations have a key role in creating the right environment for cyber security skills to be developed and to update the education system to reflect the changing needs of industry and government
+838,uk.pdf,56, But employers also have a significant responsibility to clearly articulate their needs
+839,uk.pdf,56, As well as train and develop employees and young people entering the profession
+840,uk.pdf,56," Industry has an important role in building diverse and attractive career and training pathways, in partnership with academia, professional bodies and trade associations"
+841,uk.pdf,56," In recognition of the collective challenge we face in closing the skills gap, we will establish a skills, advisory group formed of government employers, professional bodies, skills bodies, education providers and academia, which will strengthen the coherence between these key sectors"
+842,uk.pdf,56," This group will support the development of a long-term strategy which will take account of developments in the broad field of digital skills, ensuring that cyber security considerations are aligned and incorporated throughout"
+843,uk.pdf,56, This group will work with similar bodies across the UK
+844,uk.pdf,56,"Alongside this work, the Government will invest in a range of initiatives to bring about immediate improvements and inform the development of the long-term skills strategy"
+845,uk.pdf,56, These include establishing a schools programme
+846,uk.pdf,56,"To create a step change in specialist cyber security, education and training for talented 14-18 year olds, ( involving classroom-based activities, after-school sessions with expert mentors challenging projects and summer schools, ) creating higher and degree-level "
+847,uk.pdf,56,"Apprenticeships within the energy, finance and transport sectors, to address skills gaps in essential areas, establishing a fund to retrain "
+848,uk.pdf,56,"Candidates already in the workforce, who show a high potential for the cyber security profession, identifying and supporting quality cyber graduate and post graduate education and identifying and filling any specialist skills gaps"
+849,uk.pdf,56," Acknowledging the key role that universities play in skills, development, supporting the accreditation of teacher "
+850,uk.pdf,56,Professional development in cyber security
+851,uk.pdf,56,", This work will help teachers and others supporting learning to understand cyber security education and provide a method of externally accrediting"
+852,uk.pdf,56," Such individuals, developing the cyber security profession, including through achieving Royal Chartered status by 2020, reinforcing the recognised body of cyber security excellence within the industry and providing a focal point which can advise, shape and inform national policy developing a Defence Cyber Academy as a centre of excellence"
+853,uk.pdf,57," For cyber training and exercise across the Ministry of Defence and wider Government addressing specialist skills and wider education, National Cyber Security Strategy, 2016Section 7 DEVELOP"
+854,uk.pdf,57,", developing opportunities for collaboration in training and education between government, the Armed Forces, industry and academia, together with facilities to maintain and exercise Skills and we will work with industry to expand the CyberFirst programme to identify and nurture the diverse young talent pool to defend our national security and embedding cyber security and digital skills as an integral an integral part of relevant courses within the education system"
+855,uk.pdf,57," From primary to postgraduate levels, setting standards improving quality and providing a firm foundation for onwards progression into the field As education is a devolved matter, some of these initiatives will apply mainly in England"
+856,uk.pdf,57,"We will, however, work with the Devolved Administrations to encourage a consistent approach across the Uk education systems Measuring success, "
+857,uk.pdf,57,The Government will measure our success in strengthening cyber security skills by assessing progress towards the following outcomes
+858,uk.pdf,57, There are effective and clear entry routes into the cyber-security profession which are attractive to a diverse range of people by 2021
+859,uk.pdf,57, Cyber security is taught effectively as an integral part of relevant courses from primary to post-graduate level
+860,uk.pdf,57," Cyber security is widely acknowledged as an established profession with clear career pathways and has achieved Royal Chartered Status, appropriate cyber security knowledge "
+861,uk.pdf,57,"Is an integral part of the continual professional development for relevant non-cyber security, professionals, "
+862,uk.pdf,57,Across the economy and 
+863,uk.pdf,57,"The Government and the Armed Forces and the Armed Forces have access to cyber specialists, able to maintain the security and resilience of the UK"
+864,uk.pdf,57,Stimulating GROWTH IN THE 
+865,uk.pdf,57,A burgeoning and innovative cyber security sector is a necessity for our modern digital economy
+866,uk.pdf,57," UK cyber security firms provide world-leading technologies, training and advice to industry and governments"
+867,uk.pdf,57," But whilst the UK is a leading player, it faces fierce competition to stay ahead"
+868,uk.pdf,57, There are also barriers that the Government needs to address
+869,uk.pdf,57," Uk companies and academics develop cutting-edge technology, but some require support to develop the commercial and entrepreneurial skills required to thrive"
+870,uk.pdf,57, There are funding gaps that prevent SMEs from growing and expanding into new markets and territories
+871,uk.pdf,57, The most ground breaking products and services that offer the potential to keep us ahead of the threat struggle to find customers who are willing to act as early adopters
+872,uk.pdf,57," Overcoming these challenges requires government, industry and academia to work effectively together, Objective "
+873,uk.pdf,57,"The Government will support the creation of a growing, innovative and thriving cyber security sector in the UK in order to create an ecosystem where security companies prosper and get "
+874,uk.pdf,57,"The investment they need to grow the best minds from government, academia and the private sector, collaborate closely to spur innovation and customers of the Government and industry are sufficiently confident and prepared to adopt cutting-edge services"
+875,uk.pdf,58," National Cyber Security Strategy, 2016Section 7DEVELOP"
+876,uk.pdf,58,"To create this ecosystem, we will: "
+877,uk.pdf,58,"Commercialise innovation in academia, "
+878,uk.pdf,58,Providing training and mentoring to academics establish two innovation centres to 
+879,uk.pdf,58,"Drive the development of cutting-edge cyber products and dynamic new cyber security companies, which will sit at the heart of a programme of initiatives to give start-ups the support they need to get their first customers and attract further investment, allocate a proportion of the 165m Defence and Cyber Innovation Fund to support innovative procurement in defence and security, provide testing facilities for companies to develop their products together with a fast-track form of assessment for the next generation of cyber security products and services, as they emerge, enabling customers to be confident in their use"
+880,uk.pdf,58, Draw on the collective expertise of the industry-government Cyber Growth Partnership to help shape and focus further growth and innovation interventions
+881,uk.pdf,58,"Help companies of all sizes, scale-up and access international markets and "
+882,uk.pdf,58,"Promote agreed international standards, "
+883,uk.pdf,58,That support access to the UK market 
+884,uk.pdf,58,We will also use the weight of government procurement to spur innovation
+885,uk.pdf,58, The Government faces some of the hardest challenges in cyber security and some of the biggest threats
+886,uk.pdf,58, We can and must pursue the most effective solutions to these problems
+887,uk.pdf,58, That means making it easier for smaller companies to do business with government
+888,uk.pdf,58," It also means the Government must be less risk, averse in testing and using new products"
+889,uk.pdf,58, This is a win-win solution
+890,uk.pdf,58," The Government will get the best services and innovative technology will get an early adopter, making it easier to attract investment and a larger customer base"
+891,uk.pdf,58," We will encourage all parts of government, including the Devolved Administrations, to take a similar approach"
+892,uk.pdf,58," We want to create a cyber ecosystem in which cyber start-ups proliferate get the investment and support they need to win business around the world to provide a pipeline of innovation that channels, ideas between the private sector, government and academia"
+893,uk.pdf,59," The Rt Hon Matt Hancock MP, Minister of State for Digital and Culture, National Cyber Security Strategy, 2016Section 7 DEVELOP"
+894,uk.pdf,59, The Government will measure its 
+895,uk.pdf,59,Success in stimulating growth in the cyber security sector by assessing progress towards the following outcomes: greater than average global growth 
+896,uk.pdf,59,"In the size of the UK cyber sector year on year, a significant increase in investment in early stage companies "
+897,uk.pdf,59,Adoption of more innovative and 
+898,uk.pdf,59,Effective cyber security technologies in government 
+899,uk.pdf,59,"The UKs, thriving science and technology sector and its cutting-edge research underpins our world-leading cyber security capabilities"
+900,uk.pdf,59, To maintain and enhance the UKs reputation as a global leader in cutting-edge research
+901,uk.pdf,59, We need our academic research establishments to continue to attract the best and the brightest minds in the field of cyber security
+902,uk.pdf,59, This will require us to foster centres of excellence that attract the most able and dynamic scientists and researchers and deepen the active partnership between academia
+903,uk.pdf,59, The Government and industry
+904,uk.pdf,59, This will involve a match-making role for the Government where we incentivise such collaborations
+905,uk.pdf,59," Success would see us establish a self-, sustaining ecosystem that allows ideas and people to circulate between the three sectors in a mutually beneficial way: Objective"
+906,uk.pdf,59,"By 2021, the UK will have strengthened its position as a world leader in cyber science and technology"
+907,uk.pdf,59, Flexible partnerships between universities and industry will translate research into 
+908,uk.pdf,59,Commercially successful products and services
+909,uk.pdf,59,", The UK will maintain its reputation for innovative excellence, including in those areas of exceptional national strength such as the financial sector"
+910,uk.pdf,59,"To achieve this, the Government will encourage collaboration, innovative and flexible funding models for research and the commercialisation of research"
+911,uk.pdf,59," Government will ensure that the human and behavioural aspects of cyber are given sufficient attention and that systems beyond the technical, such as business processes and organisational structures, are Included within cyber science and technology, "
+912,uk.pdf,59,"This will underpin the creation of products, systems and services that are secure by default, with appropriate security considered from the outset and where security becomes a conscious opt-out for users"
+913,uk.pdf,59,We will publish a detailed Cyber Science and Technology Strategy after a thorough consultation with partners and stakeholders
+914,uk.pdf,59," This will include identifying areas of science and technology that the Government, industry and academia consider to be important and identifying gaps in the UKs current capacity to address them"
+915,uk.pdf,59,"The Government will continue to provide funding and support for the Academic Centres of Excellence, Research Institutes and Centres for Doctoral Training"
+916,uk.pdf,59," In addition, we will create a new Research Institute in a strategically important subject"
+917,uk.pdf,59, We will also fund further research in those areas where the upcoming Cyber Science and Technology Strategy identifies capability
+918,uk.pdf,60," Important areas that will be given consideration include big data, analytics autonomous systems, trustworthy, National Cyber Security Strategy, 2016Section 7DEVELOP"
+919,uk.pdf,60,"60, industrial control systems, cyber-physical systems and the Internet of Things, smart cities, automated system, verification and the science of cyber security"
+920,uk.pdf,60," The UK is regarded as a global leader in cyber security, research and innovation, EFFECTIVE HORIZON SCANNING "
+921,uk.pdf,60,We will continue to sponsor UK national PhD students at the Academic Centres of Excellence to increase the number of UK nationals with cyber expertise
+922,uk.pdf,60,"The Government will work with bodies, including Innovate, UK and the Research Councils to encourage collaboration between industry, the Government and academia"
+923,uk.pdf,60, To support this collaboration
+924,uk.pdf,60," We will review best practice concerning security classifications and identify security-cleared experts, including academics"
+925,uk.pdf,60,"This, will ensure that work from the unclassified space to beyond secret can be as collaborative as possible"
+926,uk.pdf,60,The Government will fund a grand challenge to identify and provide innovative solutions to some of the most pressing problems in cyber security
+927,uk.pdf,60, A new industry and Government partnership to support cutting-edge cyber security research and protect the UK in cyberspace will be part of our approach to building the academic-government-industry partnership Measuring success
+928,uk.pdf,60,"The Government will measure its success in promoting cyber security, science and technology by assessing progress towards the following outcomes: significantly increased numbers "
+929,uk.pdf,60,Of UK companies successfully 
+930,uk.pdf,60,Research and fewer agreed and 
+931,uk.pdf,60,Identified gaps in the UKs cyber security research capability with 
+932,uk.pdf,60,Effective action to close them and 
+933,uk.pdf,60,The Government must ensure that policy-making takes account of the changing cyber geopolitical and technology landscape
+934,uk.pdf,60," To do this, we need to make effective use of broad horizon scanning and assessment work"
+935,uk.pdf,60, We need to invest in proofing ourselves against future threats and anticipate market changes that might affect our cyber resilience in five to ten years time
+936,uk.pdf,60, We need horizon scanning programmes that generate recommendations to inform current and future government policy and programme planning Objective
+937,uk.pdf,60,"The Government will ensure that our horizon scanning programmes include a rigorous assessment of cyber risk and that this is integrated into cyber security and other technology policy development areas, along with all-source assessment and other available evidence"
+938,uk.pdf,60, We will join up horizon scanning between national security and other policy areas to ensure a holistic assessment of emerging challenges and opportunities
+939,uk.pdf,60,"Identify gaps in current work and coordinate work across disciplinary boundaries to develop a holistic approach to horizon scanning, for cyber security, promote better integration of technical "
+940,uk.pdf,60,"Aspects of cyber security with behavioural science support, rigorous monitoring of the cyber criminal market, place to spot new tools and services that might enable technology transfer to hostile states, terrorists or criminals"
+941,uk.pdf,61," National Cyber Security Strategy, 2016Section 7 DEVELOP"
+942,uk.pdf,61,"61 analyse emergent, internet-connected "
+943,uk.pdf,61,Anticipate vulnerabilities around digital 
+944,uk.pdf,61,Monitor market trends in 
+945,uk.pdf,61,To develop early defences against 
+946,uk.pdf,61,"We recognise that horizon scanning goes beyond the technical to include political, economic, legislative, social and environmental dimensions"
+947,uk.pdf,61, Cyber security is just one aspect of the issues that effective horizon scanning can help to address
+948,uk.pdf,61," Therefore, we will ensure that, where we conduct horizon scanning of these other policy areas, we will take into account any cyber security implications"
+949,uk.pdf,61,"We will also ensure that cyber policy-making follows an evidence-based approach, taking into account assessments from all available sources"
+950,uk.pdf,61," This will include, for example, international, strategic and societal "
+951,uk.pdf,61,Trends and their impact on cyber 
+952,uk.pdf,61,"We will ensure that cyber security is considered within the remit of the cross- Government, Emerging Technology and Innovation, Analysis Cell (, ETIAC ), which will be established to identify technology threats and opportunities relevant to national security, and that cyber is considered by existing horizon-scanning structures, including the Government Futures Group ( GFG ) and the Cabinet Secretarys Advisory Group on horizon scanning ( CSAG ) Measuring success"
+953,uk.pdf,61,The Government will measure our success in establishing an effective horizon scanning capability by assessing progress towards the following outcomes: cross-government horizon scanning 
+954,uk.pdf,61,And all-source assessment are integrated into cyber policy making and specific technical evidence
+955,uk.pdf,61,The impact of cyber security is on the Internet of Things or the future role of advanced materials and factored into all cross-government 
+956,uk.pdf,62,"National Cyber Security Strategy, 2016Section 7DEVELOP"
+957,uk.pdf,63,"National Cyber Security Strategy, 2016Section 8 INTERNATIONAL ACTION"
+958,uk.pdf,63,", Our economic prosperity and social wellbeing, increasingly depend on the openness and security of networks that extend beyond our own borders"
+959,uk.pdf,63," It is essential that we work closely with international partners to ensure the continuation of a free, open, peaceful and secure cyberspace that delivers these benefits"
+960,uk.pdf,63, This will only become more important as the next billion users come online across the globe
+961,uk.pdf,63, International cooperation on 
+962,uk.pdf,63,Cyber issues has become an essential part of wider global economic and security debates
+963,uk.pdf,63, It is a rapidly evolving area of policy without a single agreed international vision
+964,uk.pdf,63,", The UK and its allies have been successful in ensuring some elements of the rules-based international system are in place"
+965,uk.pdf,63," There has been agreement that international law applies in cyberspace, that human rights apply online as they do offline and a broad consensus that the multi-stakeholder approach is the best way to manage the complexities of governing the Internet"
+966,uk.pdf,63," However, with a growing divide over how to address the common challenge of reconciling national security with individual rights and freedoms, any global consensus remains fragile"
+967,uk.pdf,63, We must work internationally to agree the rules of the road that will ensure the UKs future security and prosperity in cyberspace
+968,uk.pdf,63," Boris Johnson MP, Foreign Secretary "
+969,uk.pdf,63,"The UK aims to safeguard the long-term future of a free, open, peaceful and secure cyberspace, driving economic growth and underpinning the UKs national security"
+970,uk.pdf,63," On this basis, the UK will continue to champion the multi-stakeholder model of internet governance, oppose data localisation and work to build the capacity of our partners to improve their own cyber security"
+971,uk.pdf,63," In order to reduce the threat to the UK and our interests, much of which originates overseas, we will seek to influence the decision-making of those engaging in cyber crime, cyber espionage and disruptive or destructive cyber activity, and continue to build frameworks to support international cooperation"
+972,uk.pdf,63,"To do this, we will: "
+973,uk.pdf,63,Strengthen and embed a common 
+974,uk.pdf,63,Understanding of responsible state 
+975,uk.pdf,63,Build on agreement that international 
+976,uk.pdf,63,"Continue to promote the agreement of voluntary, non-binding norms of responsible state behaviour, support the development and "
+977,uk.pdf,63,"Implementation of confidence-building measures, "
+978,uk.pdf,63,"Increase our ability to disrupt and prosecute cyber criminals based abroad, especially in hard-to-reach jurisdictions, help foster an environment which "
+979,uk.pdf,63,"Allows our law enforcement agencies to work together to ensure fewer places exist where cyber criminals can act without fear of investigation and prosecution, promote the resilience of cyberspace"
+980,uk.pdf,64,"By shaping the technical standards governing emerging technologies, National Cyber Security Strategy, 2016Section 8 INTERNATIONAL ACTION"
+981,uk.pdf,64,", building, stronger relationships with non-government actors, industry, civil society, academia and the technical community"
+982,uk.pdf,64,", These actors are crucial in informing and challenging international policy formulation and strengthening political messages on a wide range Of cyber issues"
+983,uk.pdf,64,", Our world-class academic links provide a neutral collaborative platform with international partners Measuring Success"
+984,uk.pdf,64,"6, The Government will measure its success in advancing our international interests in cyber by assessing progress towards the following outcomes"
+985,uk.pdf,64," Enhanced international collaboration reduces cyber threat to the UK and our interest overseas, a common understanding of "
+986,uk.pdf,64,Responsible state behaviour in 
+987,uk.pdf,64,International partners have increased 
+988,uk.pdf,64,Their cyber security capability and 
+989,uk.pdf,64,"On the benefits of a free, open, peaceful and secure cyberspace, "
+990,uk.pdf,64,"Internationally (, including encryption ), making cyberspace more secure by design and promoting best practice work to build common approaches amongst like-minded countries for capabilities such as strong encryption, which have cross-border implications, build the capacity of others to tackle threats to the UK and our interests overseas continue To help our partners develop their own cyber security, since we share a single cyberspace, we collectively become stronger when each country improves its own defences, ensure that NATO is prepared for the conflicts of the 21st century, which will play out in cyberspace, as well as on the Battlefield work with our allies to enable NATO to operate as effectively in cyberspace as it does on land, air and sea, and ensure that the London Process of Global Conferences on Cyberspace continues to promote global consensus towards a free, open, peaceful and secure cyberspace"
+991,uk.pdf,64, There are a range of relationships and tools
+992,uk.pdf,64, We will continue to invest in to deliver and underpin all our international cyber objectives
+993,uk.pdf,64, We cannot achieve our objectives in isolation
+994,uk.pdf,64,These include working in concert with traditional 
+995,uk.pdf,64,"Allies and new partners to establish and maintain strong, active political and operational relationships, creating the political conditions to build strong global alliances using our influence with multilateral "
+996,uk.pdf,66,"Organisations such as the United Nations G20 European Union, NATO, OSCE Council of Europe, the Commonwealth and within the global development community and National Cyber Security Strategy, 2016Section 8 INTERNATIONAL ACTION"
+997,uk.pdf,66,"65 National Cyber Security Strategy, 2016Section 8 INTERNATIONAL ACTION"
+998,uk.pdf,67,National Cyber Security Strategy - 2016Section 9 METRICS
+999,uk.pdf,67, Cyber security - remains an area of relative immaturity when it comes to the measurement of outcomes and impacts normally referred to as metrics
+1000,uk.pdf,67, The science of cyber security has been obscured by hyperbole and obstructed by an absence of calibrated data
+1001,uk.pdf,67," This is a source of frustration for policy-makers and businesses alike, who have struggled to measure investment against outcomes"
+1002,uk.pdf,67,The Government assesses that the effective use of metrics is essential for delivering this strategy and focussing the resources that underpin it
+1003,uk.pdf,67,"We will ensure that this strategy is founded upon a rigorous and comprehensive set of metrics, against which we measure progress towards the outcomes we need to achieve"
+1004,uk.pdf,67,", As well as being a major deliverable under the Strategy in its own right"
+1005,uk.pdf,67," The NCSC will play a crucial role in enabling other parts of Government, industry and society to deliver all of these strategic outcomes within this strategy"
+1006,uk.pdf,67, Annex 3 sets out how the success measures set out in the strategy will contribute to the strategic outcomes which will be reviewed annually to ensure they accurately reflect our national goals and requirements
+1007,uk.pdf,67, The headline strategic outcomes are as follows: 
+1008,uk.pdf,67,"The UK has the capability effectively to detect, investigate and counter the threat from the cyber activities of our adversaries"
+1009,uk.pdf,67, The impact of cybercrime on the 
+1010,uk.pdf,67,Uk and its interests is significantly reduced and cyber criminals are deterred from targeting the UK
+1011,uk.pdf,67, The UK has the capability to manage 
+1012,uk.pdf,67,And respond effectively to cyber incidents to reduce the harm they cause to the UK and counter cyber adversaries
+1013,uk.pdf,67, Our partnerships with industry on 
+1014,uk.pdf,67,"Active cyber defence mean that large scale, phishing and malware attacks are no longer effective"
+1015,uk.pdf,67, The UK is more secure as a result of 
+1016,uk.pdf,67,Technology products and services having cyber security designed into them and activated by default Government networks and services
+1017,uk.pdf,67,Will be as secure as possible from the moment of their first implementation
+1018,uk.pdf,67,The public will be able to use government digital services with confidence and trust that their information is safe
+1019,uk.pdf,67," All organisations in the UK, large "
+1020,uk.pdf,67,"And small are effectively managing their cyber risk and are supported by high quality advice designed by the NCSC, underpinned by the right mix of regulation and incentives"
+1021,uk.pdf,67,There is the right ecosystem in the UK to develop and sustain a cyber security sector that can meet our national security demands
+1022,uk.pdf,68," National Cyber Security Strategy, 2016Section 9METRICS"
+1023,uk.pdf,68,"68, The UK has a sustainable supply"
+1024,uk.pdf,68,The UK government is already 
+1025,uk.pdf,68,Of home grown cyber skilled professionals to meet the growing demands of an increasingly digital economy in both the public and private sectors and defence
+1026,uk.pdf,68, The UK is universally acknowledged
+1027,uk.pdf,68,"As a global leader in cyber security, research and development, underpinned by high levels of expertise in UK, industry and academia planning and preparing for policy implementation in advance of future technologies and threats and is future proofed, "
+1028,uk.pdf,68,"The threat to the UK and our interests overseas is reduced due to increased international consensus and capability towards responsible state behaviour in a free, open, peaceful and secure cyberspace"
+1029,uk.pdf,69," National Cyber Security Strategy, 2016Section 9 METRICS"
+1030,uk.pdf,69,"69 longer term outcomes are allocated beyond 2021 to industry, regulators, auditors, insurers and other parts of the public and private sector, as the effective management of cyber security risks is integrated into standard management activity for all"
+1031,uk.pdf,69," Uk Government policies, "
+1032,uk.pdf,69,Organisations and structures are simplified to maximise the coherence and effectiveness of the UKs response to the cyber threat
+1033,uk.pdf,69,"We recognise that some of our ambitions for this strategy go beyond its five year, timescale"
+1034,uk.pdf,69,In order that any future investment in cyber beyond 2021 can continue to deliver the maximum transformative effect
+1035,uk.pdf,70," We intend that these National Cyber Security Strategy, 2016Section 9METRICS"
+1036,uk.pdf,70,70 CONCLUSION CYBER SECURITY BEYOND 2021 
+1037,uk.pdf,71,National Cyber Security Strategy 2016CONCLUSION CYBER SECURITY BEYOND 2021
+1038,uk.pdf,71,"The rapid evolution of the cyber landscape will constantly throw up new challenges, as technology evolves and our adversaries act to exploit it"
+1039,uk.pdf,71," This strategy aims to provide a range of policies, tools and capabilities that will ensure we can respond quickly and flexibly to each new challenge, as it arises"
+1040,uk.pdf,71,"Even in the most optimistic scenario, some of the challenges the UK faces in the cyber domain, whether in scale or complexity, may need more than five years to address"
+1041,uk.pdf,71, This strategy nonetheless provides us with the means to transform our future security and safeguard our prosperity in the digital era
+1042,uk.pdf,71,"Should we fail to act effectively, the threat will continue to outpace our ability to protect ourselves against it"
+1043,uk.pdf,71, We can expect an explosion of threat capability at all levels
+1044,uk.pdf,71,"Conversely, if we realise these ambitions, all parts of UK government, business and society will play their part in delivering the countrys overall cyber security"
+1045,uk.pdf,71, If we can ensure security is designed and built in by default into commodity technologies
+1046,uk.pdf,71, Consumers and businesses would have less cause to worry about cyber security
+1047,uk.pdf,71," Should the UK consolidate its reputation as a secure environment to do business online, more global companies and investors will choose to locate here"
+1048,uk.pdf,71, Security for CNI networks and priority sectors would be more effective
+1049,uk.pdf,71," Looking to develop tools and attack methods against systems holding key functions and data would, in turn have to work harder to overcome"
+1050,uk.pdf,71, The layered security that surrounds them
+1051,uk.pdf,71,This would change the risk versus reward equation for cyber criminals and malicious actors who would expect to face the same threat of prosecution internationally as they do for traditional crimes
+1052,uk.pdf,71," If we can succeed in mainstreaming cyber security across all parts of our society, it could mean that Government itself can step back from such a prominent role, allowing the market and the technology to drive the evolution of cyber security across the economy and society"
+1053,uk.pdf,72, National Cyber Security Strategy 2016CONCLUSION CYBER SECURITY BEYOND 2021
+1054,uk.pdf,73,"National Cyber Security Strategy, 2016Annex 1 GLOSSARY"
+1055,uk.pdf,73,"73 Annex 1, ACRONYMS "
+1056,uk.pdf,73,"Cpni has built up strong partnerships with private sector organisations across the national infrastructure, creating a trusted environment where information can be shared for mutual benefit"
+1057,uk.pdf,73, Direct relationships are augmented by an extended network which includes other government departments and professional service organisations
+1058,uk.pdf,73, Ddos Distributed Denial of Service attack
+1059,uk.pdf,73," The flooding of an information system with more requests than it can handle, resulting in authorised users being unable to access it"
+1060,uk.pdf,73," Gchq Government Communications Headquarters, the centre for the Governments, signals intelligence activities and Cyber National Technical Authority ( NTA, ) ICT Information and Communications Technology"
+1061,uk.pdf,73,Mod Ministry of Defence 
+1062,uk.pdf,73,"Nato, North Atlantic Treaty Organisation, "
+1063,uk.pdf,73,"Nca National Crime Agency, a non- Ministerial government department, NCSC, the National Cyber Security Centre, OSCE Organisation for Security and Cooperation in Europe"
+1064,uk.pdf,73, Sme Small and medium-sized enterprises
+1065,uk.pdf,73,Cca the Centre for Cyber Assessment
+1066,uk.pdf,73, Based in the NCSC
+1067,uk.pdf,73, It provides cyber threat assessments for UK government departments to inform policy CERT Computer Emergency Response Team 
+1068,uk.pdf,73,Cert-Uk National Computer Emergency Response Team in the UK CESG the National Technical Authority for Information Assurance within the UK
+1069,uk.pdf,73," It provides a trusted expert, independent research and intelligence-based service on information security"
+1070,uk.pdf,73," On behalf of UK, the government CNI Critical National Infrastructure"
+1071,uk.pdf,73," Those critical elements of infrastructure (, namely assets facilities, systems, networks or processes, and the essential workers that operate and facilitate them, ) the loss or compromise of which could result"
+1072,uk.pdf,73,Major detrimental impact on the 
+1073,uk.pdf,73,"Availability, integrity or delivery "
+1074,uk.pdf,73,"Of essential services, including "
+1075,uk.pdf,73,"Those services whose integrity, "
+1076,uk.pdf,73,If compromised could result in 
+1077,uk.pdf,73,"Significant loss of life or casualties, taking into account significant economic or social impacts, and/or "
+1078,uk.pdf,73,"Significant impact on national security, national defence or the functioning of the state CPNI the Centre for the Protection of National Infrastructure"
+1079,uk.pdf,73, It delivers advice that aims to reduce the vulnerability of organisations in the national infrastructure to terrorism and espionage
+1080,uk.pdf,74," It will also work in partnership with NCSC to provide holistic protective security advice on threats from cyberspace, National Cyber Security Strategy, 2016"
+1081,uk.pdf,74,"Action: Fraud, the UKs national fraud and internet crime reporting centre, providing a central point of contact for the public and businesses; Computer Network Exploitation, ( CNE, ), cyber espionage, the use of a computer network to infiltrate a target computer network and gather intelligence"
+1082,uk.pdf,74," Active Cyber Defence, ( ACD ) the principle of implementing security measures to strengthen the security of a network or system to make it more robust against attack, Anonymisation the use of cryptographic, anonymity tools to hide or mask ones, identity on the Internet, Authentication, the process of verifying The identity or other attributes of a user process or device Automated system verification measures to ensure that software and hardware are working as expected and without errors, Autonomous System, a collection of IP networks for which the routing is under the control of a specific entity or domain"
+1083,uk.pdf,74," Cyber Crime marketplace the totality of products and services that support the cyber crime ecosystem, Cryptography, the science or study of analysing and deciphering codes and ciphers cryptanalysis"
+1084,uk.pdf,74," Cyber attack, deliberate exploitation of computer systems, digitally-dependent enterprises and networks to cause harm Cyber crime, cyber-dependent crime, ( crimes that can only be committed through the use of ICT devices, where the devices are both the tool for committing the crime and the target of the crime ) Or cyberenabled crime ( crimes that may be committed without ICT devices like financial fraud, but are changed significantly by use of ICT in terms of scale and reach"
+1085,uk.pdf,74," ) Big data data sets which are too big to process and manage with commodity software tools in a timely way and require bespoke processing capabilities to manage their volumes, speed of delivery and multiplicity of sources, Cyber ecosystem, the totality of interconnected infrastructure, persons processes, data information and Communications technologies, along with the environment and conditions that influence those interactions, Bitcoin a digital currency and payment system, Commodity malware malware that is widely available for purchase or free download, which is not customised and is used by a wide range of different threat actors"
+1086,uk.pdf,74," Cyber incident an occurrence that actually or potentially poses a threat to a computer, internet-connected device or network or data processed stored or transmitted on those systems which may require a response action to mitigate the consequences"
+1087,uk.pdf,75," National Cyber Security Strategy, 2016"
+1088,uk.pdf,75,"5m industry and government scheme to support cutting-edge cyber security research and protect the UK in cyberspace Data, breach the unauthorised movement or disclosure of information on a network to a party who is not authorised to have access to or see the information Cyber-physical system systems"
+1089,uk.pdf,75," With integrated computational and physical components, smart systems, Cyber resilience, the overall ability of systems and organisations to withstand cyber events and where harm is caused recover from them"
+1090,uk.pdf,75," Cyber security, the protection of internet, connected systems ( to include hardware, software and associated infrastructure, ), the data on them and the services they provide from unauthorised access, harm or misuse"
+1091,uk.pdf,75, This includes harm caused intentionally by the operator of the system or accidentally as a result of failing to follow security procedures or being manipulated into doing so
+1092,uk.pdf,75," Cyber Security Challenge competitions, encouraging people to test their skills and to consider a career in cyber Cyberspace"
+1093,uk.pdf,75," The interdependent network of information technology infrastructures that includes the Internet, telecommunications networks, computer systems, internet connected devices and embedded processors and controllers"
+1094,uk.pdf,75," It may also refer to the virtual world or domain as an experienced phenomenon or abstract concept, Cyber threat, anything capable of compromising the security of or causing harm to, information systems and internet connected devices ( to include hardware, software and associated infrastructure, ), the data on them And the services they provide primarily by cyber means Domain, a domain name locates, an organisation or other entity on the Internet and corresponds to an Internet Protocol"
+1095,uk.pdf,75," ( IP ) address Domain Name System, (, DNS, ), a naming system for computers and network services based on a hierarchy of domains, Doxing the practice of researching or hacking an individuals personally identifiable information on the Internet, then publishing it"
+1096,uk.pdf,75," Trade conducted or facilitated by the Internet Encryption cryptographic, transformation of data, ( called plaintext ) into a form, ( called cipher text, ) that conceals the datas original meaning to prevent it from being known or used Horizon scanning"
+1097,uk.pdf,75," A systematic examination of information to identify potential threats, risks emerging issues and opportunities, allowing for better preparedness and the incorporation of mitigation and exploitation into the policy-making process"
+1098,uk.pdf,75," Incident management, the management and coordination of activities to investigate and remediate an actual or potential occurrence of an adverse cyber event that may compromise or cause harm to a system or network National Cyber Security Strategy"
+1099,uk.pdf,76,"Incident response the activities that address the short-term direct effects of an incident and may also support short-term recovery Network ( computer ), a collection of host computers, together with the sub-network or inter-network through which they can exchange data Industrial Control System, (, ICS, )"
+1100,uk.pdf,76," An information system used to control industrial processes such as manufacturing, product handling, production and distribution, or to control infrastructure assets, Industrial Internet of Things, (, IIoT, ), the use of Internet of Things, technologies in manufacturing and industry"
+1101,uk.pdf,76," Insider someone who has trusted access to the data and information systems of an organisation and poses an intentional accidental or unconscious cyber threat Integrity, the property that information has not been changed accidentally or deliberately and is accurate and complete Internet"
+1102,uk.pdf,76," A global computer network providing a variety of information and communication facilities consisting of interconnected networks using standardised communication protocols, Internet of Things, the totality of devices vehicles, buildings and other items embedded with electronics, software and sensors that communicate and exchange data over the Internet"
+1103,uk.pdf,76," London Process measures resulting from the 2011 London Conference on Cyberspace, Malware, malicious software or code"
+1104,uk.pdf,76," Malware includes viruses, worms, Trojans and spyware Offensive"
+1105,uk.pdf,76," Cyber the use of cyber capabilities to disrupt, deny degrade or destroy computers, networks and internet connected devices"
+1106,uk.pdf,76," Patching patching is the process of updating software to fix, bugs and vulnerabilities Penetration testing activities designed to test the resilience of a network or facility against hacking which are authorised or sponsored by the organisation being tested"
+1107,uk.pdf,76," The use of emails that appear to originate from a trusted source to deceive recipients, into clicking on malicious links or attachments that are weaponised with malware or share sensitive information with an unknown third party, Ransomware, malicious software that denies the user access to their files, computer or Device until a ransom is paid Reconnaissance, the phase of an attack where an attacker gathers information on and maps networks, as well as probing them for exploitable vulnerabilities in order to hack them Risk"
+1108,uk.pdf,76," The potential that a given cyber threat will exploit the vulnerabilities of an information system and cause harm Router devices that interconnect logical networks by forwarding information to other networks based upon IP addresses, National Cyber Security Strategy"
+1109,uk.pdf,77,"Vishing vishing or voice phishing is the use of voice technology, (, landline phones, mobile phones, voice, email, etc"
+1110,uk.pdf,77," ) to trick individuals into revealing sensitive financial or personal information to unauthorised entities, usually to facilitate fraud, Vulnerability bugs in software programs that have the potential to be exploited by attackers, Script kiddie, a less skilled individual who uses ready-made scripts or programs that can be found on The Internet to conduct cyber attacks such as web defacements, Secure by default, the unlocking of the secure use of commodity technologies whereby security comes by default for users Secure by design software hardware and systems that have been designed from the ground up to be secure"
+1111,uk.pdf,77, A technique which masks the origin of an SMS text message by replacing the originating mobile number ( Sender ID ) with alphanumeric text
+1112,uk.pdf,77, It may be used legitimately by a sender to replace their mobile number with their own name or company name for instance
+1113,uk.pdf,77,", Or it may be used illegitimately, for example, to fraudulently impersonate another person, Social engineering, the methods attackers use to deceive and manipulate victims into performing an Action or divulging confidential information"
+1114,uk.pdf,77,", Typically such actions include opening a malicious webpage or running an unwanted file, attachment Trusted Platform, Module (, TPM ), an international standard for a secure cryptoprocessor, which is a dedicated microprocessor, designed to secure hardware by integrating cryptographic keys into devices User"
+1115,uk.pdf,77," A person, organisation entity or automated process that accesses a system whether authorised to or not, Virus viruses are malicious computer programs that can spread to other files"
+1116,uk.pdf,78," National Cyber Security Strategy, 2016"
+1117,uk.pdf,78,"Annex 3 HEADLINE IMPLEMENTATION PROGRAMME, "
+1118,uk.pdf,78,"Annex 3 HEADLINE IMPLEMENTATION PROGRAMME, NATIONAL CYBER SECURITY STRATEGY, 2016-2021 Vision, the UK is secure and resilient to cyber threats, prosperous and confident in the digital world Strategic outcomes"
+1119,uk.pdf,78,Indicative success measures ( to 2021 ) 
+1120,uk.pdf,78,The UK has the 
+1121,uk.pdf,78,The stronger information sharing networks that we 
+1122,uk.pdf,78,"Capability to effectively detect, investigate and counter the threat from the cyber activities of our adversaries, The impact of "
+1123,uk.pdf,78,"Cybercrime on the UK and its interests is significantly reduced, and cyber criminals are deterred from targeting the UK have established with our international partners and wider multilateral agreements in support of lawful and responsible behaviour by states are substantially contributing to our ability to understand and respond to"
+1124,uk.pdf,78," The threat resulting in a better defended UK, Our defence and deterrence measures, alongside our country-specific strategies, are making the UK a harder target for hostile foreign actors and cyber terrorists to succeed against Improved understanding of the cyber threat from hostile foreign and terrorist actors through identification and Investigation of cyber terrorism, threats to the UK Ensuring that terrorist cyber capability remains low in the long term, through close monitoring of capability and disruption of terrorist cyber potential and activity at the earliest opportunity"
+1125,uk.pdf,78, The UK is a world leader in offensive cyber capability
+1126,uk.pdf,78, The UK has established a pipeline of skills and expertise to develop and deploy our sovereign offensive
+1127,uk.pdf,78," Cyber capabilities, Our sovereign cryptographic capabilities are effective in keeping our secrets and sensitive information safe from unauthorised disclosure"
+1128,uk.pdf,78," We are having a greater disruptive effect on cyber criminals, attacking the UK with increased numbers of arrests and convictions and larger numbers of criminal networks dismantled as a result of law enforcement"
+1129,uk.pdf,78," Improved law enforcement capability, including capacity and skills for both dedicated specialists and mainstream officers, and enhanced overseas law enforcement capability, Improved effectiveness and increased scale of early intervention, ( PREVENT ) measures is dissuading and reforming offenders"
+1130,uk.pdf,78, A reduction in low-level cyber offences as a result of cyber criminal services being harder to access and less effective
+1131,uk.pdf,78, The UK has 
+1132,uk.pdf,78,The capability to manage and respond effectively to cyber incidents to reduce the harm they cause to the UK and counter cyber adversaries
+1133,uk.pdf,78, A higher proportion of incidents are reported to the authorities leading to a better understanding of the size and scale of the threat
+1134,uk.pdf,78," Cyber incidents are managed more effectively, efficiently and comprehensively as a result of the creation of the National Cyber Security Centre"
+1135,uk.pdf,78," As a centralised incident reporting and response mechanism, We will address the root causes of attacks at a national level"
+1136,uk.pdf,78, Reducing the occurrence of repeated exploitation across multiple victims and sectors DETER 
+1137,uk.pdf,79,"National Cyber Security Strategy, 2016"
+1138,uk.pdf,79,"Annex 3 HEADLINE IMPLEMENTATION PROGRAMME, "
+1139,uk.pdf,79,Indicative success measures ( to 2021 ) 
+1140,uk.pdf,79,The UK is harder to phish because we have large-scale DEFEND 
+1141,uk.pdf,79,"With industry, on active cyber defence mean that large scale, phishing and malware attacks are no longer effective defences against the use of malicious domains"
+1142,uk.pdf,79," More active anti-phishing protection at scale, and it is much harder to use other forms of communication such as vishing and SMS spoofing to conduct social engineering attacks"
+1143,uk.pdf,79, A far larger proportion of malware communications and technical artefacts associated with cyber attacks and exploitation are being blocked
+1144,uk.pdf,79, The UKs internet and telecommunications traffic is significantly less vulnerable to rerouting by malicious actors
+1145,uk.pdf,79, Gchq Defence and NCA capabilities to respond to serious state-sponsored and criminal threats have significantly increased
+1146,uk.pdf,79, The UK is more 
+1147,uk.pdf,79,The majority of commodity products and services available DEFEND secure as a result of technology products and services having cyber security designed into them and activated by default
+1148,uk.pdf,79,Government networks and services will be as secure as possible from the moment of their first implementation
+1149,uk.pdf,79, The public will be able to use government digital services with confidence and trust that their information is safe in the UK in 2021 are making the UK more secure because they have their default security settings enabled by default or have security integrated into their design
+1150,uk.pdf,79," Government services are trusted by the UK public because they have been implemented as securely as possible, and fraud levels against them are within acceptable risk parameters"
+1151,uk.pdf,79, Government has an in-depth understanding of the level of DEFEND 
+1152,uk.pdf,79,"Cyber security risk across the whole of government and the wider public sector, Individual government departments and other bodies protect themselves in proportion to their level of risk and to an agreed government"
+1153,uk.pdf,79," Minimum standard Government departments and the wider public sector are resilient and can respond effectively to cyber incidents, maintaining functions and recovering quickly"
+1154,uk.pdf,79, New technologies and digital services deployed by government will be cyber secure by default
+1155,uk.pdf,79," We are aware of and actively mitigating all known, internet-facing vulnerabilities in government systems and services"
+1156,uk.pdf,79, All government suppliers meet appropriate cyber security standards
+1157,uk.pdf,80,"National Cyber Security Strategy, 2016"
+1158,uk.pdf,80,"Annex 3 HEADLINE IMPLEMENTATION PROGRAMME, "
+1159,uk.pdf,80,Indicative success measures ( to 2021 ) 
+1160,uk.pdf,80,We understand the level of cyber security across the CNI DEFEND 
+1161,uk.pdf,80,"In the UK, large and small are effectively managing their cyber risk are supported by high quality advice designed by the NCSC, underpinned by the right mix of regulation and incentives, and have measures in place to intervene where necessary, to drive improvements in the national interest"
+1162,uk.pdf,80, Our most important companies and organisations understand the level of threat and implement proportionate cyber security practices
+1163,uk.pdf,80, The UK economys level of cyber security is as high as or higher than comparative advanced economies
+1164,uk.pdf,80,The number severity and impact of successful cyber attacks against businesses in the UK has reduced because cyber hygiene standards have been applied
+1165,uk.pdf,80," The UK has an improving cyber security culture, because organisations and the public understand their cyber risk levels and understand the cyber hygiene steps they need to take to manage those risks"
+1166,uk.pdf,80, Greater than average global growth in the size of the UK DEVELOP 
+1167,uk.pdf,80,"Cyber sector year on year, "
+1168,uk.pdf,80,A significant increase in investment in early stage companies 
+1169,uk.pdf,80,There is the right ecosystem in the UK to develop and sustain a cyber security sector that can meet our national security demands
+1170,uk.pdf,80, The UK has a 
+1171,uk.pdf,80,"There are effective and clear entry routes into the cyber-, DEVELOP "
+1172,uk.pdf,80,"Sustainable supply of home grown cyber skilled professionals to meet the growing demands of an increasingly digital economy, in both the public and private sectors and defence security profession, which are attractive to a diverse range of people By 2021"
+1173,uk.pdf,80," Cyber security is taught effectively as an integral part of relevant courses within the education system, from primary to post-graduate level"
+1174,uk.pdf,80, Cyber security is widely acknowledged as an established profession with clear career pathways and has achieved Royal Chartered Status
+1175,uk.pdf,80, Appropriate cyber security knowledge is an integral part of the continual professional development for relevant non-cyber security professionals across the economy
+1176,uk.pdf,80," Government and the armed forces have access to cyber specialists, able to maintain the security and resilience of the UK National Cyber Security Strategy"
+1177,uk.pdf,81,Annex 3 HEADLINE IMPLEMENTATION PROGRAMME: 
+1178,uk.pdf,81,Indicative success measures ( to 2021 ) 
+1179,uk.pdf,81,The number of UK companies successfully commercialising academic cyber research has increased significantly
+1180,uk.pdf,81, There are fewer agreed and identified gaps in the UKs
+1181,uk.pdf,81, Cyber security research capability and effective action has been taken to close them
+1182,uk.pdf,81," The UK is regarded as a global leader in cyber security, research and innovation"
+1183,uk.pdf,81,"The UK is universally acknowledged as a global leader in cyber security, research and development, underpinned by high levels of expertise in UK, industry and academia, Contributes to "
+1184,uk.pdf,81,"Enhanced international collaboration reduces cyber threat, DEVELOP "
+1185,uk.pdf,81,Government is already planning and preparing for policy implementation in advance of future technologies and threats and is'future proofed' to the UK and our interest overseas
+1186,uk.pdf,81," A common understanding of responsible state behaviour in cyberspace, "
+1187,uk.pdf,81,International partners increased their cyber security capability and 
+1188,uk.pdf,81,"Strengthened international consensus on the benefits of a free, open, peaceful and secure cyberspace, The threat to "
+1189,uk.pdf,81,Enhanced international collaboration reduces cyber threat
+1190,uk.pdf,81," The UK and our interests overseas is reduced due to increased international consensus and capability towards responsible state behaviour in a free, open, peaceful and secure cyberspace to the UK and our interest overseas"
+1191,uk.pdf,81, A common understanding of responsible state behaviour in AND cyberspace 
+1192,uk.pdf,81,International partners increased their cyber security capability and 
+1193,uk.pdf,81,"Strengthened international consensus on the benefits of a free, open, peaceful and secure cyberspace INFLUENCE"
+1194,uk.pdf,81,"The Government, cyber security responsibilities are understood and its services are accessible"
+1195,uk.pdf,81, Our partners understand how best to interact with Government on cyber security issues
+1196,uk.pdf,81,"Policies, organisations and structures are simplified to maximise the coherence and effectiveness of the UK's response to the cyber threat CROSS"

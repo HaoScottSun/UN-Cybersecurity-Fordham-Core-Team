@@ -3,10 +3,10 @@
 ### Data collection
 BeautifulSoup was used to automatically download policy files.
 
-76* unlabeled Cybersecurity policy files were crawled from:
+76 unlabeled Cybersecurity policy files were crawled from:
 >https://www.itu.int/en/ITU-D/Cybersecurity/Pages/National-Strategies-repository.aspx
 
-193 human labeled Cybersecurity policy files were crawled from:
+195 human labeled Cybersecurity policy files were crawled from:
 >https://www.itu.int/en/ITU-D/Cybersecurity/Pages/Country_Profiles.aspx
 
 ### Extract text from pdf files
@@ -26,7 +26,7 @@ The Unicoder was set to ‘UTF-8’
 When extracting text data from pdf files, special page splitters were added to the end to each page, which will be a signal to recognize different pages.
 
 ### Translate
-Google translator * package was used to translate non-English language files into English.
+Googletrans package was used to translate non-English language files into English.
 
 ## Sentence Extraction
 ### Filter sentences
@@ -83,6 +83,16 @@ Once finish classifying by categories, sentences were tagged by sub-categories w
 ![example][sentence_example]
 
 ## Results and Visualization
+Apply PCA to visualize paragragh vectors of words of each sentence selected by TF-IDF model.
+
+![PCA][DOC_PCA]
+
+Apply Bernoulli Restricted Boltzmann Machine to visualize paragrah vectors of words of each sentence selected by TF-IDF model.
+
+![RBM][DOC_RBM]
+
+## Webcast
+The url will be updated soon.
 
 ## License
 MarkdownEditing is released under the [MIT License][opensource].
@@ -90,3 +100,6 @@ MarkdownEditing is released under the [MIT License][opensource].
 [sentence_example]: https://github.com/AFinalExam/UN-Cybersecurity-Fordham-Core-Team/blob/master/4%20Pictures/Result%20Sample.jpg
 [opensource]: http://www.opensource.org/licenses/MIT
 [LDA]: https://github.com/AFinalExam/UN-Cybersecurity-Fordham-Core-Team/blob/master/4%20Pictures/Topics.png
+[DOC_PCA]: https://github.com/Clark934/UN-Cybersecurity-Fordham-Core-Team/blob/master/4%20Pictures/DOC2VEC_PCA.png
+[DOC_RBM]: https://github.com/Clark934/UN-Cybersecurity-Fordham-Core-Team/blob/master/4%20Pictures/DOC2VEC_RBM.png
+

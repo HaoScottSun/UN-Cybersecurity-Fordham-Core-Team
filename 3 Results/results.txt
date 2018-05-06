@@ -1,0 +1,2 @@
+LDA_TF.csv inclues topics of sentences labeled by LDA model and 3 words of highset tfidf to represent each sentence.
+SimilaritySetenceIndex.csv includes the most similar sentence indexes of each sentence, which computed by LDA model.  

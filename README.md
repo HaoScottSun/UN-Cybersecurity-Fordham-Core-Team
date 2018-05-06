@@ -90,6 +90,10 @@ Apply PCA to visualize paragragh vectors of words of each sentence selected by T
 Apply Bernoulli Restricted Boltzmann Machine to visualize paragrah vectors of words of each sentence selected by TF-IDF model.
 
 ![RBM][DOC_RBM]
+
+## Webcast
+The url will be updated soon.
+
 ## License
 MarkdownEditing is released under the [MIT License][opensource].
 

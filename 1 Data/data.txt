@@ -1,0 +1,13 @@
+dir: doc
+	dir: CSV -- sentences for each country
+	dir: earlier version -- earlier version of national cyber-security documents
+	dir: guide -- ict guide
+	dir: img2txt -- ocr readed pdf
+	dir: pdf -- national cyber-security documents used to generate CSV dir  
+	file: Cyber Security data.csv -- sentence for all national cyber-security documents with page and documents' name
+
+dir: train
+	file: Cyber Security data2.csv -- sentence for all national cyber-security documents with page, countries' name and documents' name
+	file: GCI_Conceptual_Framework.pdf -- used for label data.csv
+	file: label data.csv -- meaures' and sub-categories' defination or description 
+	file: data.csv -- training data

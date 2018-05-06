@@ -1,0 +1,612 @@
+,Document,Page,Sentence
+0,TUR_NCSS.pdf,1,"Ministry of Transport, Maritime Affairs and Communications "
+1,TUR_NCSS.pdf,1,"National Cyber Security Strategy, "
+2,TUR_NCSS.pdf,2, [ The page intentionally left blank 
+3,TUR_NCSS.pdf,2,National Cyber Security Strategy and 2013-2014 Action Plan 
+4,TUR_NCSS.pdf,3,4 Update 2; Cyber Security Risks; 
+5,TUR_NCSS.pdf,3,Strategic Cyber Security Actions 
+6,TUR_NCSS.pdf,3,"5, National Cyber Security Action Plan for the Term 2013 -2014 Carrying out Legislative Activities, "
+7,TUR_NCSS.pdf,3,"Creating the National Cyber Incidents Response Organization, Strengthening the National Cyber Security Infrastructure, Carrying Out the Activities That Will Help with Judicial Processes, 5 Human Resources, Education and Awareness-Raising Activities on Cyber Security, 5"
+8,TUR_NCSS.pdf,3,6 Developing National Technologies in Cyber Security 5
+9,TUR_NCSS.pdf,3, Extending the Scope of the National Security Mechanisms
+10,TUR_NCSS.pdf,3,National Cyber Security Strategy and 2013-2014 Action Plan 
+11,TUR_NCSS.pdf,4, [ The page intentionally left blank 
+12,TUR_NCSS.pdf,4,National Cyber Security Strategy and 2013-2014 Action Plan 
+13,TUR_NCSS.pdf,5,"In Turkey, the use of information and communication technologies, ( ICTs ) has been spreading rapidly and ICTs are playing important roles in all aspects of our"
+14,TUR_NCSS.pdf,5," In addition to public sector organizations, organizations which provide services in critical infrastructure sectors like energy, water resources, health, transportation, communication and financial services have also been heavily using information and communication systems"
+15,TUR_NCSS.pdf,5, These systems improve the quality and the speed of the services being provided
+16,TUR_NCSS.pdf,5," Thus, helping organizations work more productively, contributing to the improvement of living standards, As our public sector organizations use ICTs to provide services at an increased rate, it has become an important aspect of our national security and competitiveness to ensure the security of information and communication technologies"
+17,TUR_NCSS.pdf,5,", The Vulnerabilities inherent in ICTs may cause denial of service or abuse of service attacks, resulting in potential loss of lives, high scale, economic losses, disturbance of public order, and/or threats to national security"
+18,TUR_NCSS.pdf,5, It is a fact that cyber space offers opportunities of anonymity and deniability for attacks on information systems and data
+19,TUR_NCSS.pdf,5," The tools and knowledge required for attacks are often cheap and easy to get, and it has been observed that anyone or any systems across the world can participate in cyber-attacks either knowingly or unknowingly"
+20,TUR_NCSS.pdf,5,", And it is deemed almost impossible to determine who finances and organizes these enduring And advanced cyber-attacks that target the National Cyber Security Strategy and 2013-2014 Action Plan"
+21,TUR_NCSS.pdf,6,Information systems and data of critical infrastructures
+22,TUR_NCSS.pdf,6,", These facts and conditions reveal the asymmetrical nature of the risks and threats in cyber space, making them even more difficult to tackle"
+23,TUR_NCSS.pdf,6," In light of this context, the Decision made by the Council of Ministers on the Execution, Management and Coordination of National Cyber Security Activities was published in the Official Gazette dated 20th October 2012 numbered 28447 and came into force"
+24,TUR_NCSS.pdf,6, Pursuant to this cabinet decision
+25,TUR_NCSS.pdf,6," In order to determine the precautions to be taken for cyber security to approve and to ensure implementation and coordination of the plans, schedules, reports, procedures, principles and standards that have been prepared, a Cyber Security Council has been established, which is to be presided by the Minister of Transport Maritime Affairs and Communications, and which is to consist of the undersecretaries of the Ministries of Foreign Affairs, Interior, National Defense, Transport, Maritime Affairs and Communications, including the undersecretaries of Public Order and Security, National Intelligence Organization, Head of Communication, Electronic and Information Systems of Turkish General Staff Head of Information And Communication Technologies Authority Head of The Scientific And Technological Research Council Head of Financial Crimes, Investigation "
+26,TUR_NCSS.pdf,6,Presidency and the top managers of the ministries and the public National Cyber Security Strategy and 2013-2014 Action Plan
+27,TUR_NCSS.pdf,7,"Organizations, that are to be determined by the Minister of Transport, Maritime Affairs and Communications"
+28,TUR_NCSS.pdf,7,"The cabinet decision has also assigned to the Ministry of Transport Maritime Affairs and Communications the duty to prepare policies, strategies and action plans on ensuring cyber security at the national level"
+29,TUR_NCSS.pdf,7," All public organizations and agencies, natural and legal persons are obliged to perform the duties assigned in the framework of the policies, strategies and action plans determined by the Cyber Security Council and to comply with the procedures, principles and standards that were also determined by the Council"
+30,TUR_NCSS.pdf,7," The action plan which was prepared pursuant to this decision, defines the activities intended to be carried out within the term 2013-2014, and it also includes the periodical activities beyond these terms, as well as the activities that should always be carried out, such as training and awareness-raising activities"
+31,TUR_NCSS.pdf,7, National Cyber Security Strategy and 2013-2014 Action Plan 
+32,TUR_NCSS.pdf,8,"The concepts used in this document refer to the following meanings: Information systems, The systems involved in providing services, processes and data by means of information and communication technologies"
+33,TUR_NCSS.pdf,8," Cyber space, The environment, which consists of information systems that span across the world, including the networks that interconnect these systems, Information systems of public organizations, The information systems which belong to and/or, are operated by the public organizations and agencies of the Turkish Republic,"
+34,TUR_NCSS.pdf,8,"Information systems of natural and legal persons, The information systems which belong to and/or are operated by the natural and legal persons subjected to the laws of the Turkish Republic"
+35,TUR_NCSS.pdf,8," National cyber space, The environment, which consists of the information systems that belong to public organizations, natural and legal persons, Confidentiality Information systems and data can be accessed by authorized persons or systems only and the confidential information pertaining to information systems or confidential information in the system will Not be disclosed by unauthorized persons or systems, Integrity, Information systems and information can be changed by authorized persons or systems only, "
+36,TUR_NCSS.pdf,8,National Cyber Security Strategy and 2013-2014 Action Plan 
+37,TUR_NCSS.pdf,9,Accessibility Authorized persons and transactions can access information systems and the information therein within the required time and quality Critical infrastructures
+38,TUR_NCSS.pdf,9," The infrastructures which host the information systems that can cause, "
+39,TUR_NCSS.pdf,9,"Large scale economic damages,, "
+40,TUR_NCSS.pdf,9,"Security vulnerabilities and disturbance of public order at national level when the confidentiality, integrity or accessibility of the information they process is compromised,"
+41,TUR_NCSS.pdf,9,"Cyber security incident, Violation of confidentiality, integrity or accessibility of information systems, or of the information being processed by these systems"
+42,TUR_NCSS.pdf,9," Cyber security, Protection of information systems that make up the cyber space from attacks, ensuring the confidentiality, integrity and accessibility of the information being processed in this space, detection of attacks and cyber security incidents"
+43,TUR_NCSS.pdf,9," Putting into force the countermeasures against these incidents and then putting these systems back to their states previous to the cyber security incident, "
+44,TUR_NCSS.pdf,9,"National Cyber Security, The cyber security of all services processes and data and the systems involved in provisioning of these-, provided by the information and communication technologies in the national cyber space"
+45,TUR_NCSS.pdf,9, National Cyber Security Strategy and 2013-2014 Action Plan
+46,TUR_NCSS.pdf,10,The objective of National Cyber Security Strategy and 2013-2014 Action Plan is to create an infrastructure towards achieving 
+47,TUR_NCSS.pdf,10,"The cyber security all of services, processes and data and the systems involved in provisioning of these- provided by the public organizations and agencies using information, technologies, "
+48,TUR_NCSS.pdf,10,"The cyber security of information systems of critical infrastructures, which are operated by both the public and private sectors, minimization of the effects of cyber security incidents, determination of strategic cyber security actions to put systems back to their regular operational states as soon as possible"
+49,TUR_NCSS.pdf,10," Following the incidents and help with better investigation and prosecution of the incident by law enforcement and judicial authorities, "
+50,TUR_NCSS.pdf,10,The National Cyber Security Strategy and 2013-2014 Action Plan includes the information systems of public organizations and the information systems that belong to critical infrastructures operated by both the public and private sectors
+51,TUR_NCSS.pdf,10,"National Cyber Security Strategy and 2013-2014 Action Plan will be updated at least once a year, in a coordinated way at national level, taking into account the National Cyber Security Strategy and 2013-2014 Action Plan"
+52,TUR_NCSS.pdf,11,Requests from the public and private sectors and considering also the changing conditions and needs 
+53,TUR_NCSS.pdf,11,National Cyber Security Strategy and 2013-2014 Action Plan 
+54,TUR_NCSS.pdf,12,2 Cyber Security Risks 
+55,TUR_NCSS.pdf,12,The risks related to cyber security should realistically be determined in order for the strategic cyber-security actions to be determined in the best way
+56,TUR_NCSS.pdf,12, With the current know-how
+57,TUR_NCSS.pdf,12, The primary risk elements related to ICT systems in Turkey are listed below 
+58,TUR_NCSS.pdf,12,"The threat is asymmetrical, as cyber space provides opportunities of anonymity and deniability for attacks on information systems and data, and the tools and knowledge required for attacks are often cheap and easy to get, and anyone or any systems across the world can participate in cyber-attacks, either knowingly Or unknowingly "
+59,TUR_NCSS.pdf,12,Any information system can harm another due to the structure of the cyber space that is open to integrated and uninterrupted communication and due to the malware and other similar threat agents existing in the cyber space
+60,TUR_NCSS.pdf,12,Most of the critical services to the populations today are provided and managed by information systems
+61,TUR_NCSS.pdf,12,"Most of the information systems of critical infrastructures are accessible through the Internet, "
+62,TUR_NCSS.pdf,12,"There is a lack of national awareness on the subject, in spite of the fact that cyber security at the national level can only be maintained by the contribution of all the citizens, "
+63,TUR_NCSS.pdf,12,National Cyber Security Strategy and 2013-2014 Action Plan 
+64,TUR_NCSS.pdf,13," Lack of coordination amongst the partner organizations at the national level in the field of cyber security Attacks in cyber space to individuals or public agencies go unreported due to the fear of damage to reputation or due, to other reasons, The lack of national and international regulations About investigation and prosecution of cyber security incidents makes it even more difficult to cooperate, "
+65,TUR_NCSS.pdf,13,"The services of critical infrastructures are negatively affected not only by cyber-attacks, but also by potential errors inherent in information systems, user errors or natural disasters, and there is a lack of capabilities necessary to take measures against these kinds of incidents"
+66,TUR_NCSS.pdf,13," Public organizations do not have good enough information security management, infrastructures, "
+67,TUR_NCSS.pdf,13,Public organizations and individuals do not have sufficient level of information and awareness in terms of cyber security
+68,TUR_NCSS.pdf,13," Top managers of public organizations do not have sufficient information about cyber security, or they do not seem to be sufficiently interested in the issue of cyber security, "
+69,TUR_NCSS.pdf,13,"Public organizations are not sufficiently structured towards achieving cyber security, and the issue of cyber security is regarded as a responsibility of the IT departments"
+70,TUR_NCSS.pdf,13, Only National Cyber Security Strategy and 2013-2014 Action Plan 
+71,TUR_NCSS.pdf,14,", The staff in IT departments do not have sufficient level of information and experience"
+72,TUR_NCSS.pdf,14," In the field of cyber security, There is limited number of staff who would be competent in investigation and prosecution of crimes that have emerged as a result of cyber security, violations, "
+73,TUR_NCSS.pdf,14,The auditing steps about cyber security are not included sufficiently in the internal audit procedures of organizations
+74,TUR_NCSS.pdf,14, Cyber security is not considered as an indispensable component of the information systems which are procured or developed
+75,TUR_NCSS.pdf,14," Thus, cyber security is not taken into account at sufficient level during procurement of products and services in the area of information and communication technologies in public organizations, "
+76,TUR_NCSS.pdf,14,There is not enough national manufacturing in terms of hardware and software 
+77,TUR_NCSS.pdf,14,National Cyber Security Strategy and 2013-2014 Action Plan 
+78,TUR_NCSS.pdf,15,The principles to be considered in ensuring national cyber security are as follows: 
+79,TUR_NCSS.pdf,15,Cyber security should be ensured by methods which are based on risk management and continual improvement
+80,TUR_NCSS.pdf,15,"For cyber security, in addition to the technical dimension, an integrated approach should be adopted that would involve determining strong and weak sides in legal, administrative, economic, political and social dimensions, including threats and opportunities"
+81,TUR_NCSS.pdf,15,"Risk management should be based on the elements of removing technical vulnerabilities, preventing attacks and threats and minimizing the potential damages"
+82,TUR_NCSS.pdf,15,"It should be regarded essential that individuals, organizations, societies and governments should perform all their legal and social responsibilities towards achieving cyber security"
+83,TUR_NCSS.pdf,15,"Full cooperation with the private sector, including the participation into decision-making mechanisms, should be maintained for ensuring the security of critical infrastructures, "
+84,TUR_NCSS.pdf,15,"It is regarded as essential that cooperation should be made with the public and private sectors, universities and non-governmental organizations, National Cyber Security Strategy and 2013-2014 Action Plan"
+85,TUR_NCSS.pdf,16,Furthermore international cooperation and information sharing should be ensured in achieving and maintaining cyber space security
+86,TUR_NCSS.pdf,16," It is regarded as essential that diplomatic, technical and law enforcement communication channels should be used continually and effectively for international cooperation and information sharing"
+87,TUR_NCSS.pdf,16,International agreements and regulations should be taken into account while the needed legislative actions are carried out
+88,TUR_NCSS.pdf,16," The principles of rule of law, fundamental human rights and freedoms and protection of privacy should be accepted as essential principles, Transparency, accountability, ethical values and freedom of speech should be supported"
+89,TUR_NCSS.pdf,16," In cyber space, A balance should be kept between security and usability"
+90,TUR_NCSS.pdf,16, Auditing and regulatory organizations should take care of ensuring cyber security in areas which they are responsible for
+91,TUR_NCSS.pdf,16," National products and services should be encouraged in meeting the requirements of cyber security and research and development projects should be endorsed for developing these, and the concept of innovation should be regarded as essential"
+92,TUR_NCSS.pdf,16,National Cyber Security Strategy and 2013-2014 Action Plan 
+93,TUR_NCSS.pdf,17,"4 Strategic Cyber Security Actions, "
+94,TUR_NCSS.pdf,17,"Overcoming the threats in cyber space, which have been increasing every day and minimizing the vulnerabilities within the national cyber space as much as possible, are of utmost importance for progressing towards an information society which we have aimed to reach as a nation"
+95,TUR_NCSS.pdf,17," Effective high quality and affordable usage of information technologies by all the members of the public is important while evolving into an information society, but it is also very important to achieve cyber security during the usage of these information technologies"
+96,TUR_NCSS.pdf,17," Therefore, cyber security, which is expressed as the protection of information systems, as well as the confidentiality integrity and accessibility of the information being processed by these systems, is a strategic and multi-stake- holder issue that would affect many aspects, such as peace and welfare of the society"
+97,TUR_NCSS.pdf,17," The economic development and stability of the nation and the national security of our country, which has the aim to become an information society"
+98,TUR_NCSS.pdf,17," In this framework, it has been determined to perform strategic actions towards achieving national cyber security in the 2013-2014 term"
+99,TUR_NCSS.pdf,17, In light of the principles determined above
+100,TUR_NCSS.pdf,17,", These actions include sub-actions, as required, which are listed in the next chapter, with the scheduled deadlines and the responsible/relevant organizations"
+101,TUR_NCSS.pdf,17, The strategic actions scheduled to be performed in the term 2013-2014 has been grouped under the following titles: 
+102,TUR_NCSS.pdf,17,National Cyber Security Strategy and 2013-2014 Action Plan 
+103,TUR_NCSS.pdf,18,A ) Regulatory measures 
+104,TUR_NCSS.pdf,18,"In the 2013-2014 term, the government will start to implement regulatory measures aiming to define the duties, powers and responsibilities of the public organizations and agencies and to remove the existing problems in achieving national cyber security"
+105,TUR_NCSS.pdf,18, These actions will be of a nature to support criminal law
+106,TUR_NCSS.pdf,18," Civil law, administrative law and the regulation of all procedural provisions, thereto"
+107,TUR_NCSS.pdf,18," Also a dictionary on terms of cyber security, is to be prepared to prevent potential conceptual confusions b, ) Activities to help with judicial processes"
+108,TUR_NCSS.pdf,18," Regarding cyber-attacks in the framework of the international legal requirements, the following should be determined to protect the rights of victims, the source of attack, attacking systems and the severity of effect on the end users who receive service from these systems"
+109,TUR_NCSS.pdf,18," In order to produce this information, the national cyberspace should be equipped with reliable recording mechanisms that are compatible with the current technology c ), Establishing the National Cyber Incidents Response Organization"
+110,TUR_NCSS.pdf,18," In the short term, a Cyber Incidents Response Organization that will efficiently operate both nationally and internationally is to be created to quickly determine the threats emerging in cyber space, to develop and to share- precautions for reducing or removing the effects of potential incidents-"
+111,TUR_NCSS.pdf,18," Thus, public organizations and agencies will gain the capability to respond to National Cyber Security Strategy and 2013-2014 Action Plan"
+112,TUR_NCSS.pdf,19," The National Center for Cyber Incident Response ( USOM ), which will be available 7/24 to respond to the threats that may affect the country will be established and sectoral `` Teams for Responding to Cyber Incidents'' ("
+113,TUR_NCSS.pdf,19, Some ) will be established which are to work under the coordination of the USOM
+114,TUR_NCSS.pdf,19," The sectoral SOMEs will respond to cyber incidents and they will also provide information and hold awareness, raising activities specific to the SOMEs affiliated to themselves and to the sector which they are responsible"
+115,TUR_NCSS.pdf,19, Also other SOMEs will be established within public organizations and agencies which are to operate under 
+116,TUR_NCSS.pdf,19,", The USOMs and the SOMEs, while responding to incidents, will also act in coordination with judicial authorities and law enforcement agencies to provide the data that will support the investigation"
+117,TUR_NCSS.pdf,19," As the national contact point, the USOM will be in close cooperation with "
+118,TUR_NCSS.pdf,19,The equivalent authorities of other countries and international organizations 
+119,TUR_NCSS.pdf,19,"D ) Strengthening the National Cyber Security Infrastructure In the short and the medium term, all public organizations will have wide ranging infrastructure projects that will support the cyber security of public information"
+120,TUR_NCSS.pdf,19, Activities will be held for ensuring cyber security of public organizations with priority given to information systems of critical infrastructures
+121,TUR_NCSS.pdf,19," The information systems of key infrastructures, their level of criticality, their relations with one another, and the responsible staff will be National"
+122,TUR_NCSS.pdf,19, Cyber Security Strategy and 2013-2014 Action Plan 
+123,TUR_NCSS.pdf,20,", The cyber security of the information systems of critical infrastructures will be ensured by both technological precautions and administrative measures and processes"
+124,TUR_NCSS.pdf,20," To this effect, the proficiency levels of all staff -on cyber security-, primarily those of the top managers in public organizations, will be increased through trainings"
+125,TUR_NCSS.pdf,20, With administrative and technological contents
+126,TUR_NCSS.pdf,20,", The public organizations which do not have sufficient proficiency in achieving cyber security will be supported with services to be provided in technological and administrative aspects, e ), Human Resources, Education and Awareness Raising Activities in the Field of Cyber Security"
+127,TUR_NCSS.pdf,20,"In the short and medium term, activities will be carried out to create proficient human resources in needed numbers in the field of cyber security"
+128,TUR_NCSS.pdf,20," Regulations will be created to include the concept of cyber security into the curricula of primary schools, secondary schools, high schools, non-formal education institutions and higher education"
+129,TUR_NCSS.pdf,20," Events will be organized with an aim to raise awareness on cyber security- of information system, auditors, technology developers, system, administrators and all other relevant parties and "
+130,TUR_NCSS.pdf,20, Auditing steps on cyber security in the internal audit processes of organizations will also be discussed
+131,TUR_NCSS.pdf,20," Also, an education platform will be created for all citizens in order to create and develop National Cyber Security Strategy and 2013-2014 Action Plan"
+132,TUR_NCSS.pdf,21,Awareness on cyber security and initiatives serving this purpose will be supported
+133,TUR_NCSS.pdf,21,"F, ) Developing National Technologies in the field of Cyber Security In the medium and long term, technical know-how and the potential and capabilities of the country on cyber security will be increased"
+134,TUR_NCSS.pdf,21," Efforts will be made to have public and private sector work cooperatively in activities towards meeting the needs of research and development g ), Extending the Scope of National Cyber Security Mechanisms"
+135,TUR_NCSS.pdf,21, It is necessary to start working on extending the area of responsibility of our national security organizations to include defense against malicious activities carried out in national and international cyber space
+136,TUR_NCSS.pdf,21, National Cyber Security Strategy and 2013-2014 Action Plan
+137,TUR_NCSS.pdf,22,5 National Cyber Security Action Plan for the Term 2013 -2014: This chapter includes the actions towards achieving national cyber security in light of the determined principles for the term 2013-2014 in the framework of the national cyber security strategy
+138,TUR_NCSS.pdf,22,", The actions are grouped by the titles determined in The fourth part of this document"
+139,TUR_NCSS.pdf,22,", One responsible public organization and agency, is appointed for each action"
+140,TUR_NCSS.pdf,22," However, that action can have more than one relevant organization and agency"
+141,TUR_NCSS.pdf,22," In such cases, it is envisioned that all the relevant organizations and agencies should act under the coordination of the responsible organization and agency as required, and should also act in parallel with each other, as required to carry out the activities required by the action"
+142,TUR_NCSS.pdf,22, The deadlines for some of the actions are determined and those actions which are envisioned to be repeated periodically and carried out constantly are particularly specified
+143,TUR_NCSS.pdf,22," There are a total of 29 action items scheduled to take place in 2013-2014, National Cyber Security Strategy and 2013-2014 Action Plan"
+144,TUR_NCSS.pdf,23,"1 Carrying out Legislative Activities, "
+145,TUR_NCSS.pdf,23,Cyber Security Council starts off and its operational procedures Councils start off
+146,TUR_NCSS.pdf,23,And principles are determined 
+147,TUR_NCSS.pdf,23,Responsible ( Res ) and 
+148,TUR_NCSS.pdf,23,"Relevant ( Rel ) Organizations, "
+149,TUR_NCSS.pdf,23,"Ministry of Transport, Maritime "
+150,TUR_NCSS.pdf,23,"Affairs and Communications ( Res ), "
+151,TUR_NCSS.pdf,23,Examining national and international regulations on cyber security 
+152,TUR_NCSS.pdf,23,And determining the regulations needed 
+153,TUR_NCSS.pdf,23,"Ministry of Justice, ( Res ), "
+154,TUR_NCSS.pdf,23,"Ministry of Transport, Maritime "
+155,TUR_NCSS.pdf,23,Affairs and Communications ( Rel ) 
+156,TUR_NCSS.pdf,23,"Ministry of Foreign Affairs, ( Rel, ) "
+157,TUR_NCSS.pdf,23,"Ministry of Interior (, Rel ) "
+158,TUR_NCSS.pdf,23,"Ministry of National Defense, ( Rel ), The undersecretariat of Public Order and Security, ( Rel ) "
+159,TUR_NCSS.pdf,23,The Information and Communication 
+160,TUR_NCSS.pdf,23,"Technologies Authority, (, Rel, ), "
+161,TUR_NCSS.pdf,23,"Creating a dictionary of cyber security terms: December 2014, Turkish Language Association, ( Res ), National Cyber Security Strategy and 2013-2014 Action Plan"
+162,TUR_NCSS.pdf,24,Responsible ( Res ) and 
+163,TUR_NCSS.pdf,24,"Relevant ( Rel ) Organizations, "
+164,TUR_NCSS.pdf,24,"Ministry of Justice, ( Res ), "
+165,TUR_NCSS.pdf,24,"Ministry of Transport, Maritime "
+166,TUR_NCSS.pdf,24,Affairs and Communications ( Rel ) 
+167,TUR_NCSS.pdf,24,"Updating the current main regulations, ( laws ) in a way to cover the Ministry of Foreign Affairs, (, Rel, ), "
+168,TUR_NCSS.pdf,24,"Subjects that need to be handled in the area of cyber security and Ministry of Interior (, Rel ) "
+169,TUR_NCSS.pdf,24,Completing the primary legislative activities that would meet the September 2013 
+170,TUR_NCSS.pdf,24,"Ministry of National Defense, ( Rel ), Establishing the "
+171,TUR_NCSS.pdf,24,"Needs for new regulations and submitting them to the Cyber Chief of Staff, ( Rel ) "
+172,TUR_NCSS.pdf,24,"The undersecretariat of Public Order and Security, ( Rel ) "
+173,TUR_NCSS.pdf,24,The Information and Communication 
+174,TUR_NCSS.pdf,24,"Technologies Authority, (, Rel, ), "
+175,TUR_NCSS.pdf,24,"Ministry of Transport, Maritime "
+176,TUR_NCSS.pdf,24,"Carrying out the secondary legislative activities, ( regulations, Affairs and Communications ( Res ), "
+177,TUR_NCSS.pdf,24,Edicts activities related to Cyber Security Services Continually 
+178,TUR_NCSS.pdf,24,The public organizations responsible 
+179,TUR_NCSS.pdf,24,For regulating and auditing the 
+180,TUR_NCSS.pdf,24,Critical sectors - ( Rel ) 
+181,TUR_NCSS.pdf,24,National Cyber Security Strategy and 2013-2014 Action Plan 
+182,TUR_NCSS.pdf,25,"2 Carrying Out the Activities That Will Help with Judicial Processes, No Action, "
+183,TUR_NCSS.pdf,25,"Determining the minimum requirements for logs to be kept to get reliable evidence for post-incident examination, "
+184,TUR_NCSS.pdf,25,Relevant public organizations put into operation their convenient logging mechanisms in conformity with the current technology and the international standards to get reliable evidence for post- incident
+185,TUR_NCSS.pdf,25,Responsible ( Res ) and 
+186,TUR_NCSS.pdf,25,"Relevant ( Rel ) Organizations, "
+187,TUR_NCSS.pdf,25,"Ministry of Interior ( Res ), "
+188,TUR_NCSS.pdf,25,"The Turkish Gendarmerie, ( Rel ) "
+189,TUR_NCSS.pdf,25,"The undersecretariat of National Intelligence Organization, ( Rel ) "
+190,TUR_NCSS.pdf,25,"The Turkish National Police, ( Rel ) June 2013 "
+191,TUR_NCSS.pdf,25,The Information and Communication 
+192,TUR_NCSS.pdf,25,"Presidency, ( Rel ) "
+193,TUR_NCSS.pdf,25,"The Scientific And Technological Research Council of Turkey, ( Rel ) "
+194,TUR_NCSS.pdf,25,"Ministry of Transport, Maritime Affairs and Communications ( Res ), "
+195,TUR_NCSS.pdf,25,"Ministry of Interior (, Rel ) "
+196,TUR_NCSS.pdf,25,"Ministry of Justice, ( Rel ) "
+197,TUR_NCSS.pdf,25,All public organizations ( Rel ) 
+198,TUR_NCSS.pdf,25,"Public agencies that operate in critical sectors will put into operation their convenient logging mechanisms in conformity with current technology and international standards, to get reliable evidence for post-incident examination"
+199,TUR_NCSS.pdf,25,The public organizations responsible for May 2014 
+200,TUR_NCSS.pdf,25,Regulating and auditing the key 
+201,TUR_NCSS.pdf,25,"Sectors ( Res ), "
+202,TUR_NCSS.pdf,25,National Cyber Security Strategy and 2013-2014 Action Plan 
+203,TUR_NCSS.pdf,26,"3, Creating the National Cyber Incidents Response Organization; No Action; "
+204,TUR_NCSS.pdf,26,Responsible ( Res ) and 
+205,TUR_NCSS.pdf,26,"Relevant ( Rel ) organizations, "
+206,TUR_NCSS.pdf,26,Establishing the National Center for Cyber Incident Response Completed 
+207,TUR_NCSS.pdf,26,"( USOM ), which will provide service 24/7 "
+208,TUR_NCSS.pdf,26,"Ministry of Transport, Maritime "
+209,TUR_NCSS.pdf,26,"Affairs and Communications ( Res ), "
+210,TUR_NCSS.pdf,26,"Ministry of Interior (, Rel ) "
+211,TUR_NCSS.pdf,26,"Preparing the procedures and processes related to the working, The Information and Communication "
+212,TUR_NCSS.pdf,26,Procedures and principles of the Center to be put into operation National Cyber 
+213,TUR_NCSS.pdf,26,"For cases that would require national and international Technologies, Authority/ "
+214,TUR_NCSS.pdf,26,"Presidency, ( Rel ) "
+215,TUR_NCSS.pdf,26,( USOM ) team and 
+216,TUR_NCSS.pdf,26,Preparing a central help page for the public servants working in establishing the 
+217,TUR_NCSS.pdf,26,The area of cyber security and helping them with the online 
+218,TUR_NCSS.pdf,26,Communication of issues to be urgently taken; action for Responding to 
+219,TUR_NCSS.pdf,26,"Preparing the working principles, guidance, documents and training schedules to establish and operate the Teams for Responding to Cyber Incidents against Sectoral and Public Entities"
+220,TUR_NCSS.pdf,26, ( SOME ) 
+221,TUR_NCSS.pdf,26,"The Turkish National Police, ( Rel ), The Turkish Gendarmerie, ( Rel ) "
+222,TUR_NCSS.pdf,26,The Scientific And Technological 
+223,TUR_NCSS.pdf,26,"Research Council of Turkey, ( Rel ) "
+224,TUR_NCSS.pdf,26,"Ministry of Transport, Maritime Affairs and Communications ( Res ), "
+225,TUR_NCSS.pdf,26,The Information and Communication 
+226,TUR_NCSS.pdf,26,Communication Presidency ( Rel ) 
+227,TUR_NCSS.pdf,26,"The public organizations responsible for regulating and auditing the critical sectors - ( Rel ), The Scientific And Technological Research Council of Turkey, ( Rel, ) "
+228,TUR_NCSS.pdf,26,National Cyber Security Strategy and 2013-2014 Action Plan 
+229,TUR_NCSS.pdf,27,Responsible ( Res ) and 
+230,TUR_NCSS.pdf,27,"Relevant ( Rel ) organizations, "
+231,TUR_NCSS.pdf,27,Usom ( The National Center for Cyber Establishing the 
+232,TUR_NCSS.pdf,27,( USOM ) team and 
+233,TUR_NCSS.pdf,27,"Establishing the sectoral SOMEs, which are specific to critical Incident Response, ) ( Res ), "
+234,TUR_NCSS.pdf,27,Infrastructure sectors and creating their teams as well as December 2013 
+235,TUR_NCSS.pdf,27,The public organizations responsible 
+236,TUR_NCSS.pdf,27,Providing trainings for them 
+237,TUR_NCSS.pdf,27,Sectoral SOMEs will operate directly under the coordination of 
+238,TUR_NCSS.pdf,27,Sectoral SOMEs will benefit from the support to be provided by the USOM 
+239,TUR_NCSS.pdf,27,For regulating and auditing the critical sectors - ( Rel ) 
+240,TUR_NCSS.pdf,27,"Usom ( The National Center for Cyber Incident Response, ) ( Res ), "
+241,TUR_NCSS.pdf,27,The public organizations responsible for regulating and auditing the critical 
+242,TUR_NCSS.pdf,27,"Sectors: ( Rel, ), "
+243,TUR_NCSS.pdf,27,Usom ( The National Center for Cyber Establishing the SOMEs of public organizations
+244,TUR_NCSS.pdf,27,"Incident Response, ), ( Res ), "
+245,TUR_NCSS.pdf,27,All public organizations ( Rel ) 
+246,TUR_NCSS.pdf,27,"Usom (, The National Center for Public SOMEs will operate directly under the coordination of Cyber Incident Response"
+247,TUR_NCSS.pdf,27," ) ( Res ), "
+248,TUR_NCSS.pdf,27,Public SOMEs will benefit from the support to be provided by the December 2014
+249,TUR_NCSS.pdf,27,Responsible for regulating and 
+250,TUR_NCSS.pdf,27,Sectoral SOMEs and USOM they are affiliated to if there is any auditing the critical sectors - ( Rel ) 
+251,TUR_NCSS.pdf,27,All public organizations ( Rel ) 
+252,TUR_NCSS.pdf,27,National Cyber Security Strategy and 2013-2014 Action Plan 
+253,TUR_NCSS.pdf,28,"4, Strengthening the National Cyber Security Infrastructure, No Action, "
+254,TUR_NCSS.pdf,28,Responsible ( Res ) and 
+255,TUR_NCSS.pdf,28,"Relevant ( Rel ) Organizations, "
+256,TUR_NCSS.pdf,28,Determining the critical infrastructures that could be the direct 
+257,TUR_NCSS.pdf,28,The Scientific And Technological 
+258,TUR_NCSS.pdf,28,Target of cyber threats and that can disturb the public order if July 2013 
+259,TUR_NCSS.pdf,28,"Research Council of Turkey, ( Res ), "
+260,TUR_NCSS.pdf,28,"Conducting the sectoral risk analysis of one of the critical infrastructures, which is to be determined later on, Determining the methods of sectoral risk analysis"
+261,TUR_NCSS.pdf,28,The public organizations responsible 
+262,TUR_NCSS.pdf,28,For regulating and auditing the 
+263,TUR_NCSS.pdf,28,Critical sectors - ( Rel ) 
+264,TUR_NCSS.pdf,28,The public organizations responsible 
+265,TUR_NCSS.pdf,28,Determining the requirements of sectoral emergency action plans February 2014 
+266,TUR_NCSS.pdf,28,"Completing the first one of the yearly risk analysis, reporting activities, "
+267,TUR_NCSS.pdf,28,Determining and implementing the requirements of sectoral business continuity plans
+268,TUR_NCSS.pdf,28,For regulating and auditing the 
+269,TUR_NCSS.pdf,28,"Critical sectors - ( Res ), "
+270,TUR_NCSS.pdf,28,The Scientific And Technological 
+271,TUR_NCSS.pdf,28,"Research Council of Turkey, ( Rel ) "
+272,TUR_NCSS.pdf,28,"Usom ( The National Center for Cyber Incident Response, ) (, Rel, ), "
+273,TUR_NCSS.pdf,28,Determining and implementing the sectoral security precautions Continually 
+274,TUR_NCSS.pdf,28,National Cyber Security Strategy and 2013-2014 Action Plan 
+275,TUR_NCSS.pdf,29,Responsible ( Res ) and 
+276,TUR_NCSS.pdf,29,"Relevant ( Rel ) Organizations, "
+277,TUR_NCSS.pdf,29,Preparing the document on the Minimum Security Requirements to be complied with by public organizations
+278,TUR_NCSS.pdf,29,Providing the first one of the cyber security trainings to the system administrators and to other relevant technical staff based The first one was 
+279,TUR_NCSS.pdf,29,On the priority needs and determining the proficiency of the completed 
+280,TUR_NCSS.pdf,29,"Conducting the first one of the yearly tests and audits, which is to be compulsory for public organizations"
+281,TUR_NCSS.pdf,29," And for the public organizations which are to be prioritized, these tests and audits December 2013"
+282,TUR_NCSS.pdf,29,Will be conducted in agreement with the relevant public organizations? 
+283,TUR_NCSS.pdf,29,The Scientific And Technological 
+284,TUR_NCSS.pdf,29,"Research Council of Turkey, ( Res ), "
+285,TUR_NCSS.pdf,29,"Ministry of Transport, Maritime "
+286,TUR_NCSS.pdf,29,Affairs and Communications ( Rel ) 
+287,TUR_NCSS.pdf,29,"Usom ( The National Center for Cyber Incident Response, ) (, Rel, ), "
+288,TUR_NCSS.pdf,29,"Publishing and updating the hardening documents and the standards on information systems, security, "
+289,TUR_NCSS.pdf,29,The Scientific And Technological 
+290,TUR_NCSS.pdf,29,"Research Council of Turkey, ( Res ), "
+291,TUR_NCSS.pdf,29,National Cyber Security Strategy and 2013-2014 Action Plan 
+292,TUR_NCSS.pdf,30,Responsible ( Res ) and 
+293,TUR_NCSS.pdf,30,"Relevant ( Rel ) Organizations, "
+294,TUR_NCSS.pdf,30,Briefing top managers who are responsible for information systems and cyber security of public organizations Completed 
+295,TUR_NCSS.pdf,30,"Training and certifying the technical staff Providing trainings to the internal audit staff working in public organizations and agencies, which will help them obtain the competency to carry out audits on information systems"
+296,TUR_NCSS.pdf,30,"Ministry of Transport, Maritime "
+297,TUR_NCSS.pdf,30,"Affairs and Communications ( Res ), "
+298,TUR_NCSS.pdf,30,The Scientific And Technological 
+299,TUR_NCSS.pdf,30,"Research Council of Turkey, ( Rel ) "
+300,TUR_NCSS.pdf,30,"Administration, ( Rel ) "
+301,TUR_NCSS.pdf,30,National Cyber Security Strategy and 2013-2014 Action Plan 
+302,TUR_NCSS.pdf,31,Responsible ( Res ) and 
+303,TUR_NCSS.pdf,31,"Relevant ( Rel ) Organizations, "
+304,TUR_NCSS.pdf,31,Organizing cyber security exercises 
+305,TUR_NCSS.pdf,31,To be held once 
+306,TUR_NCSS.pdf,31,"Ministry of Transport, Maritime Affairs and Communications ( Res ), "
+307,TUR_NCSS.pdf,31,"Ministry of Interior (, Rel ) "
+308,TUR_NCSS.pdf,31,"The Information and Communication Technologies Authority, (, Rel ) "
+309,TUR_NCSS.pdf,31,"The Turkish National Police, ( Rel ), The Turkish Gendarmerie, ( Rel ) "
+310,TUR_NCSS.pdf,31,"Chief of Staff, ( Rel ) "
+311,TUR_NCSS.pdf,31,"The Scientific And Technological Research Council of Turkey, "
+312,TUR_NCSS.pdf,31,Usom ( The National Center for Cyber Incident Response ) 
+313,TUR_NCSS.pdf,31,"Sectoral SOMEs ( The Teams for Responding to Cyber Incidents, ) ( Rel ) "
+314,TUR_NCSS.pdf,31,"Ministry of Transport, Maritime Affairs and Communications ( Res ), "
+315,TUR_NCSS.pdf,31,"Ministry of Foreign Affairs, ( Rel, ) "
+316,TUR_NCSS.pdf,31,The Information and Communication Technologies Organizing the first one of the International Cyber Security Exercises with the leadership of Turkey May 2014 
+317,TUR_NCSS.pdf,31,Authority ( Rel ) 
+318,TUR_NCSS.pdf,31,"The Turkish National Police, ( Rel ) Chief of Staff, ( Rel ) "
+319,TUR_NCSS.pdf,31,"The Scientific And Technological Research Council of Turkey, "
+320,TUR_NCSS.pdf,31,National Cyber Security Strategy and 2013-2014 Action Plan 
+321,TUR_NCSS.pdf,32,Responsible ( Res ) and 
+322,TUR_NCSS.pdf,32,"Relevant ( Rel ) Organizations, "
+323,TUR_NCSS.pdf,32,Determining the rules and procedures that will help 
+324,TUR_NCSS.pdf,32,"With secure data sharing amongst public December 2013, "
+325,TUR_NCSS.pdf,32,Rules for the public 
+326,TUR_NCSS.pdf,32,"Ministry of Transport, Maritime Affairs and Communications ( Res ), "
+327,TUR_NCSS.pdf,32,"The National Center for Cyber Incident Response, ) (, Rel ), The Information and Communication Technologies Authority, (, Rel, ), "
+328,TUR_NCSS.pdf,32,"The undersecretariat of Public Order and Security, ( Rel ), The Scientific And Technological Research Council of Turkey, ( Rel, ) "
+329,TUR_NCSS.pdf,32,Preparing the training programs about software security and delivering those programs to software developers December 2013
+330,TUR_NCSS.pdf,32,"Publishing the document on fundamental rules on secure software development, independent from programming "
+331,TUR_NCSS.pdf,32,Languages for the software to be used in critical infrastructures
+332,TUR_NCSS.pdf,32,"The Scientific And Technological Research Council of Turkey, "
+333,TUR_NCSS.pdf,32,"Ministry of Transport, Maritime Affairs and Communications (, Rel ) "
+334,TUR_NCSS.pdf,32,"Turkish Standards organization, ( Rel, ) "
+335,TUR_NCSS.pdf,32,"In the scope of the security assessments of the software that have been developed for critical infrastructures preparing and submitting to the Cyber Security Council-, the feasibility studies towards implementing and checking the technical requirements within critical March 2014, "
+336,TUR_NCSS.pdf,32,National Cyber Security Strategy and 2013-2014 Action Plan 
+337,TUR_NCSS.pdf,33,Responsible ( Res ) and 
+338,TUR_NCSS.pdf,33,"Relevant ( Rel ) Organizations, "
+339,TUR_NCSS.pdf,33,Establishing a Honeypot system to detect cyber threats July 2013
+340,TUR_NCSS.pdf,33,Establishing and developing a reporting system for national Implementation of 
+341,TUR_NCSS.pdf,33,"Communication Presidency ( Res ), "
+342,TUR_NCSS.pdf,33,Generating yearly statistics about cyber threats: December 2013 - 
+343,TUR_NCSS.pdf,33,"Ministry of Transport, Maritime "
+344,TUR_NCSS.pdf,33,"Developing the mechanisms for detection, monitoring and prevention of cyber threats, "
+345,TUR_NCSS.pdf,33,Affairs and Communications ( Rel ) 
+346,TUR_NCSS.pdf,33,The Scientific And Technological 
+347,TUR_NCSS.pdf,33,"Research Council of Turkey, ( Rel ) "
+348,TUR_NCSS.pdf,33,The field of cyber 
+349,TUR_NCSS.pdf,33,Determining the minimum requirements that natural and legal persons should have who carry out the security tests on information systems providing training and consultancy in the September 2013 
+350,TUR_NCSS.pdf,33,"Field of cyber security, offering the services in other areas to be determined related to cyber security and designing a certification process for these natural and legal persons, Ministry of Transport, Maritime "
+351,TUR_NCSS.pdf,33,"Affairs and Communications ( Res ), "
+352,TUR_NCSS.pdf,33,The Scientific And Technological 
+353,TUR_NCSS.pdf,33,"Research Council of Turkey, ( Rel ) "
+354,TUR_NCSS.pdf,33,"Organization, ( Rel, ) "
+355,TUR_NCSS.pdf,33,National Cyber Security Strategy and 2013-2014 Action Plan 
+356,TUR_NCSS.pdf,34,Responsible ( Res ) and 
+357,TUR_NCSS.pdf,34,"Relevant ( Rel ) Organizations, "
+358,TUR_NCSS.pdf,34,Determining the products of information technology and products and 
+359,TUR_NCSS.pdf,34,Information systemsincluding their minimum security 
+360,TUR_NCSS.pdf,34,"Requirements-, which are used by public organizations and thus August 2014 "
+361,TUR_NCSS.pdf,34,The field of cyber 
+362,TUR_NCSS.pdf,34,Are of critical importance and providing the certification security 
+363,TUR_NCSS.pdf,34,"Organization, ( Res ), "
+364,TUR_NCSS.pdf,34,"Ministry of Transport, Maritime "
+365,TUR_NCSS.pdf,34,Affairs and Communications ( Rel ) 
+366,TUR_NCSS.pdf,34,"Turkak ( Turkish Accreditation, "
+367,TUR_NCSS.pdf,34,Agency ) ( Rel ) 
+368,TUR_NCSS.pdf,34,The Scientific And Technological 
+369,TUR_NCSS.pdf,34,"Research Council of Turkey, ( Rel ) "
+370,TUR_NCSS.pdf,34,"Ministry of Justice, ( Res ), "
+371,TUR_NCSS.pdf,34,"Ministry of Interior (, Rel ) "
+372,TUR_NCSS.pdf,34,"The Turkish National Police, ( Rel ), The Turkish Gendarmerie, ( Rel ) "
+373,TUR_NCSS.pdf,34,Determining the minimum requirements for natural and legal persons who provide computer forensics services and designing May 2014 
+374,TUR_NCSS.pdf,34,"A certification process for them, "
+375,TUR_NCSS.pdf,34,National Cyber Security Strategy and 2013-2014 Action Plan 
+376,TUR_NCSS.pdf,35,Responsible ( Res ) and 
+377,TUR_NCSS.pdf,35,"Relevant ( Rel ) Organizations, "
+378,TUR_NCSS.pdf,35,Determining the security risk levels of the systems and of the data which process transactions in electronic environment regarding all public organizations and agencies and the private September 2013 
+379,TUR_NCSS.pdf,35,"Sector corporations that run critical information infrastructures Determining the procedures and principles of backing up Ministry of Transport, Maritime "
+380,TUR_NCSS.pdf,35,Sensitive data of all public organizations and agencies and the private sector corporations that run critical information October 2013
+381,TUR_NCSS.pdf,35,"Affairs and Communications ( Res ), "
+382,TUR_NCSS.pdf,35,The Scientific And Technological 
+383,TUR_NCSS.pdf,35,"Preparation of business continuity plans by all public systems, "
+384,TUR_NCSS.pdf,35,Organizations and agencies and the private sector corporations January 2014
+385,TUR_NCSS.pdf,35,That run critical information infrastructures 
+386,TUR_NCSS.pdf,35,"Research Council of Turkey, ( Rel ) "
+387,TUR_NCSS.pdf,35,All public organizations and 
+388,TUR_NCSS.pdf,35,"Agencies, ( Rel, ) "
+389,TUR_NCSS.pdf,35,Responsible for regulating and 
+390,TUR_NCSS.pdf,35,"Establishing information systems pursuant to the business continuity plans, "
+391,TUR_NCSS.pdf,35,"Auditing, the critical sectors - ( Rel ) "
+392,TUR_NCSS.pdf,35,Organizing the exercises suitable for business continuity plans and submitting the results to the Cyber Security Council December 2014
+393,TUR_NCSS.pdf,35,National Cyber Security Strategy and 2013-2014 Action Plan 
+394,TUR_NCSS.pdf,36,Responsible ( Res ) and 
+395,TUR_NCSS.pdf,36,"Relevant ( Rel ) Organizations, "
+396,TUR_NCSS.pdf,36,Determining a public agency or agencies that will offer data center services for storing the internet web sites of public October 2013
+397,TUR_NCSS.pdf,36,Organizations in a domestic and reliable data center Moving the 
+398,TUR_NCSS.pdf,36,"Ministry of Transport, Maritime "
+399,TUR_NCSS.pdf,36,"Affairs and Communications ( Res ), "
+400,TUR_NCSS.pdf,36,The Information and Communication 
+401,TUR_NCSS.pdf,36,"Technologies Authority, (, Rel, ), "
+402,TUR_NCSS.pdf,36,The Scientific And Technological 
+403,TUR_NCSS.pdf,36,"Research Council of Turkey, ( Rel ) "
+404,TUR_NCSS.pdf,36,"The public organizations like municipalities, hospitals, local and reliable "
+405,TUR_NCSS.pdf,36,Provincial/District public organizations which do not host their web sites internally will move their web sites to the pre- December 2013
+406,TUR_NCSS.pdf,36,All public organizations and agencies 
+407,TUR_NCSS.pdf,36,"Carrying out regular and periodic inspections of these pre- determined data, centers "
+408,TUR_NCSS.pdf,36,"Ministry of Transport, Maritime "
+409,TUR_NCSS.pdf,36,"Affairs and Communications ( Res ), "
+410,TUR_NCSS.pdf,36,Developing an analysis infrastructure that will detect potential Developing and 
+411,TUR_NCSS.pdf,36,Data loss from key public organizations Determining the public organization on which this test infrastructure will be applied by the Cyber Security Council December 2013
+412,TUR_NCSS.pdf,36,"Ministry of Transport, Maritime "
+413,TUR_NCSS.pdf,36,"Affairs and Communications ( Res ), "
+414,TUR_NCSS.pdf,36,The Scientific And Technological 
+415,TUR_NCSS.pdf,36,"Research Council of Turkey, ( Rel ) "
+416,TUR_NCSS.pdf,36,"Carrying out the tests to detect data loss and reporting, the results May 2014 "
+417,TUR_NCSS.pdf,36,National Cyber Security Strategy and 2013-2014 Action Plan 
+418,TUR_NCSS.pdf,37,Responsible ( Res ) and 
+419,TUR_NCSS.pdf,37,"Relevant ( Rel ) Organizations, "
+420,TUR_NCSS.pdf,37,Levels of access to 
+421,TUR_NCSS.pdf,37,Creating access control principles in conformity with the international standards ( e
+422,TUR_NCSS.pdf,37," TS, ISO/IEC 27001 ) October 2013, "
+423,TUR_NCSS.pdf,37,"Cyber Security Council, ( Res ), "
+424,TUR_NCSS.pdf,37,"Ministry of Transport, Maritime "
+425,TUR_NCSS.pdf,37,"Re-Configuration of e-government applications of public Affairs and Communications, ( Rel ) "
+426,TUR_NCSS.pdf,37,The Scientific And Technological 
+427,TUR_NCSS.pdf,37,Organizations in a way to prevent access to unauthorized data February 2014 
+428,TUR_NCSS.pdf,37,"Research Council Of Turkey, ( Rel ) "
+429,TUR_NCSS.pdf,37,All public organizations and 
+430,TUR_NCSS.pdf,37,"Agencies, ( Rel, ) "
+431,TUR_NCSS.pdf,37,"Providing information about existing open source security products that meet the minimum security criteria already determined, which may be used by public and private sector October 2013"
+432,TUR_NCSS.pdf,37,"Creating platforms for developing new cyber security products, source products, "
+433,TUR_NCSS.pdf,37,"With open source code, "
+434,TUR_NCSS.pdf,37,The Scientific And Technological 
+435,TUR_NCSS.pdf,37,"Research Council Of Turkey, ( Res ), "
+436,TUR_NCSS.pdf,37,"Ministry of Transport, Maritime "
+437,TUR_NCSS.pdf,37,Affairs and Communications ( Rel ) 
+438,TUR_NCSS.pdf,37,"Universities, ( Rel ) "
+439,TUR_NCSS.pdf,37,"Preparing a schedule to move the suitable ones, -of all the critical information systems- to the operating systems with open source May 2014 "
+440,TUR_NCSS.pdf,37,National Cyber Security Strategy and 2013-2014 Action Plan 
+441,TUR_NCSS.pdf,38,"5 Human Resources, Education and Awareness-Raising Activities on Cyber Security, No Action, "
+442,TUR_NCSS.pdf,38,Responsible ( Res ) and 
+443,TUR_NCSS.pdf,38,"Relevant ( Rel ) Organizations, "
+444,TUR_NCSS.pdf,38,In the study of cyber 
+445,TUR_NCSS.pdf,38,"Providing scholarships to students for masters and doctoral studies on cyber security, "
+446,TUR_NCSS.pdf,38,Establishing a commission in the Council of Higher Education regarding the development of cyber security infrastructure Completed 
+447,TUR_NCSS.pdf,38,Undergraduate graduate and doctoral programs of relevant March 2014 
+448,TUR_NCSS.pdf,38,Adding courses related to cyber security into the curricula of cyber security 
+449,TUR_NCSS.pdf,38,"Preparing more books, magazines, articles and other sources on the subject of cyber security in the Turkish language Council of Higher Education, ( Res ), "
+450,TUR_NCSS.pdf,38,"Education, ( Rel, ) "
+451,TUR_NCSS.pdf,38,The Scientific And Technological 
+452,TUR_NCSS.pdf,38,"Research Council of Turkey, ( Rel ) "
+453,TUR_NCSS.pdf,38,"Universities, ( Rel ) "
+454,TUR_NCSS.pdf,38,"Council of Higher Education, ( Res ), "
+455,TUR_NCSS.pdf,38,The Scientific And Technological 
+456,TUR_NCSS.pdf,38,"Research Council of Turkey, ( Rel ) "
+457,TUR_NCSS.pdf,38,"Universities, ( Rel ) "
+458,TUR_NCSS.pdf,38,Opening at least two graduate programs on cyber security October 2013 
+459,TUR_NCSS.pdf,38,"Opening at least one doctoral program on cyber security October 2014, "
+460,TUR_NCSS.pdf,38,National Cyber Security Strategy and 2013-2014 Action Plan 
+461,TUR_NCSS.pdf,39,Responsible ( Res ) and 
+462,TUR_NCSS.pdf,39,"Relevant ( Rel ) Organizations, "
+463,TUR_NCSS.pdf,39,Creating scholarship programs for the students who would like to specialize in cyber security September 2014 
+464,TUR_NCSS.pdf,39,"Education ( Res ), "
+465,TUR_NCSS.pdf,39,"Education, ( Rel, ) "
+466,TUR_NCSS.pdf,39,"Of Turkey, ( Rel ) "
+467,TUR_NCSS.pdf,39,"Universities, ( Rel ) "
+468,TUR_NCSS.pdf,39,"Organizing summer camps on cyber security To be held, as of "
+469,TUR_NCSS.pdf,39,The Scientific and Technological 
+470,TUR_NCSS.pdf,39,"Research Council of Turkey, "
+471,TUR_NCSS.pdf,39,Creating internship programs in cyber security September 2014 
+472,TUR_NCSS.pdf,39,Organizing promotion activities in universities related to cyber security 
+473,TUR_NCSS.pdf,39,"Education ( Res ), "
+474,TUR_NCSS.pdf,39,National Cyber Security Strategy and 2013-2014 Action Plan 
+475,TUR_NCSS.pdf,40,Organizing cyber defense competitions amongst universities Deadline 
+476,TUR_NCSS.pdf,40,Responsible ( Res ) and 
+477,TUR_NCSS.pdf,40,"Relevant ( Rel ) Organizations, "
+478,TUR_NCSS.pdf,40,"To be held, every "
+479,TUR_NCSS.pdf,40,The Scientific And Technological 
+480,TUR_NCSS.pdf,40,"Research Council of Turkey, ( Rel ) "
+481,TUR_NCSS.pdf,40,"Council of Higher Education, ( Rel ) "
+482,TUR_NCSS.pdf,40,"Organizing video/poster competitions on information security for awareness-raising in the primary secondary high school and university categories, "
+483,TUR_NCSS.pdf,40,"To be held, every "
+484,TUR_NCSS.pdf,40,"Education ( Res ), "
+485,TUR_NCSS.pdf,40,Experts working in USOMs and SOMEs will be trained and they will gain experience in implementation Continually
+486,TUR_NCSS.pdf,40,"Ministry of Transport, Maritime Affairs and Communications ( Res ), "
+487,TUR_NCSS.pdf,40,The Information and Communication 
+488,TUR_NCSS.pdf,40,"Technologies Authority, (, Rel, ), "
+489,TUR_NCSS.pdf,40,"Usom ( The National Center for Cyber Incident Response, ) (, Rel, ), "
+490,TUR_NCSS.pdf,40,"Somes ( The Teams for Responding to Cyber Incidents, ) ( Rel ) "
+491,TUR_NCSS.pdf,40,"Increasing the capacities of the security units, which will Ministry of Interior ( Res ), "
+492,TUR_NCSS.pdf,40,Respond to cyber security incidents and for training experts Continually 
+493,TUR_NCSS.pdf,40,The Scientific And Technological 
+494,TUR_NCSS.pdf,40,"And helping the experts gain experience in implementation, Research Council of Turkey, ( Rel ) "
+495,TUR_NCSS.pdf,40,National Cyber Security Strategy and 2013-2014 Action Plan 
+496,TUR_NCSS.pdf,41,Responsible ( Res ) and 
+497,TUR_NCSS.pdf,41,"Relevant ( Rel ) Organizations, "
+498,TUR_NCSS.pdf,41,Adding cyber security to the curricula of the departments of Ministry of National 
+499,TUR_NCSS.pdf,41,"Computer programming in vocational high schools, Education, ( Res ), "
+500,TUR_NCSS.pdf,41,"Placing the subject of cyber security into the course programs, The Scientific And Technological "
+501,TUR_NCSS.pdf,41,"Which are under the field of information technology, Including the cyber security trainings into the scope of the March 2014? "
+502,TUR_NCSS.pdf,41,"Research Council Of Turkey, "
+503,TUR_NCSS.pdf,41,Open source code products should also be included in Communication Technologies
+504,TUR_NCSS.pdf,41,Authority ( Rel ) 
+505,TUR_NCSS.pdf,41,Carrying out activities to increase the awareness level of The Information and 
+506,TUR_NCSS.pdf,41,"Computer users on cyber security, ( seminars, brochures non-, formal education activities, remote education by means of the Continually "
+507,TUR_NCSS.pdf,41,"Media and awareness-raising, ) "
+508,TUR_NCSS.pdf,41,"Authority ( Res ), "
+509,TUR_NCSS.pdf,41,"Education, ( Rel, ) "
+510,TUR_NCSS.pdf,41,"Raising the awareness level of people on safe internet usage, Ministry of Transport, Maritime "
+511,TUR_NCSS.pdf,41,"And on safe internet service, further developing and Continually "
+512,TUR_NCSS.pdf,41,Affairs and Communications ( Rel ) 
+513,TUR_NCSS.pdf,41,Radio and Television Supreme 
+514,TUR_NCSS.pdf,41,Council ( Rel ) 
+515,TUR_NCSS.pdf,41,National Cyber Security Strategy and 2013-2014 Action Plan 
+516,TUR_NCSS.pdf,42,Responsible ( Res ) and 
+517,TUR_NCSS.pdf,42,"Relevant ( Rel ) Organizations, "
+518,TUR_NCSS.pdf,42,"Ministry of Transport, Maritime "
+519,TUR_NCSS.pdf,42,"Communications ( Res ), "
+520,TUR_NCSS.pdf,42,"Ministry of Foreign Affairs, ( Rel, ) "
+521,TUR_NCSS.pdf,42,Organizing symposiums and conferences that would also The Information and 
+522,TUR_NCSS.pdf,42,"Discuss the economic, social and legal aspects of cyber Communication Technologies, "
+523,TUR_NCSS.pdf,42,Authority ( Rel ) 
+524,TUR_NCSS.pdf,42,"Participation in international conferences, meetings, seminars, The Scientific And Technological "
+525,TUR_NCSS.pdf,42,"And the exercises related to cyber security Research Council of Turkey, ( Rel ) "
+526,TUR_NCSS.pdf,42,All public organizations and 
+527,TUR_NCSS.pdf,42,"Agencies, ( Rel, ) "
+528,TUR_NCSS.pdf,42,"Universities, ( Rel ) "
+529,TUR_NCSS.pdf,42,"Ngos, ( Rel ) "
+530,TUR_NCSS.pdf,42,National Cyber Security Strategy and 2013-2014 Action Plan 
+531,TUR_NCSS.pdf,43,"6 Developing National Technologies in Cyber Security, No Action "
+532,TUR_NCSS.pdf,43,Creating and updating a list of the technologies that would meet the cyber security requirements of the country
+533,TUR_NCSS.pdf,43, Inclusion of cyber security as a priority subject into the current promotion systems for projects 
+534,TUR_NCSS.pdf,43,Establishing R & D 
+535,TUR_NCSS.pdf,43,Creating the promotion mechanisms for the national Research and Development activities in the field of software hardware and similar information technology products related to cyber security
+536,TUR_NCSS.pdf,43,Establishing a laboratory infrastructure that would build capacity to detect malware and their effects on information systems
+537,TUR_NCSS.pdf,43,Responsible ( Res ) and 
+538,TUR_NCSS.pdf,43,"Relevant ( Rel ) Organizations, "
+539,TUR_NCSS.pdf,43,"The Supreme Council for Science and Technology ( Res ), "
+540,TUR_NCSS.pdf,43,"Ministry of Transport, Maritime "
+541,TUR_NCSS.pdf,43,Affairs and Communications ( Rel ) 
+542,TUR_NCSS.pdf,43,"Ministry of Science, Industry and Technology ( Rel ) "
+543,TUR_NCSS.pdf,43,The Scientific And Technological 
+544,TUR_NCSS.pdf,43,"Research Council of Turkey, ( Rel ) "
+545,TUR_NCSS.pdf,43,The Scientific And Technological 
+546,TUR_NCSS.pdf,43,"Research Council of Turkey, ( Res ), "
+547,TUR_NCSS.pdf,43,National Cyber Security Strategy and 2013-2014 Action Plan 
+548,TUR_NCSS.pdf,44,Responsible ( Res ) and 
+549,TUR_NCSS.pdf,44,"Relevant ( Rel ) Organizations, "
+550,TUR_NCSS.pdf,44,"Creating programs that will encourage and support the Council of Higher Education, ( Res ) "
+551,TUR_NCSS.pdf,44,Establishment of Research and Development laboratories on March 2014 
+552,TUR_NCSS.pdf,44,"Ministry of Development, ( Rel, ) "
+553,TUR_NCSS.pdf,44,Establishing R & D 
+554,TUR_NCSS.pdf,44,"Cyber security in universities, "
+555,TUR_NCSS.pdf,44,"Establishing the first cyber security, Research and Development laboratory in universities in the scope of the program, "
+556,TUR_NCSS.pdf,44,"Ministry of Transport, Maritime "
+557,TUR_NCSS.pdf,44,Affairs and Communications ( Rel ) 
+558,TUR_NCSS.pdf,44,"Ministry of Science, Industry and Technology ( Rel ) "
+559,TUR_NCSS.pdf,44,The Scientific And Technological 
+560,TUR_NCSS.pdf,44,"Research Council of Turkey, ( Rel ) "
+561,TUR_NCSS.pdf,44,Solutions in the field 
+562,TUR_NCSS.pdf,44,Holding regular activities in which the public and private Ministry of Transport Maritime 
+563,TUR_NCSS.pdf,44,"Sectors, universities, NGOs and other information, security Affairs and Communications, (, Rel ), "
+564,TUR_NCSS.pdf,44,Stake holders will participate in 
+565,TUR_NCSS.pdf,44,"Participants should cooperate on the following subjects: Communication Technologies, "
+566,TUR_NCSS.pdf,44,"Correct usage of information technology products in the scope October 2013, "
+567,TUR_NCSS.pdf,44,Authority ( Rel ) 
+568,TUR_NCSS.pdf,44,"Of cyber security, technological precautions and requirements, The Scientific And Technological "
+569,TUR_NCSS.pdf,44,"Research and Development requirements, information "
+570,TUR_NCSS.pdf,44,"Research Council of Turkey, ( Rel ) "
+571,TUR_NCSS.pdf,44,"Technology products being developed, administrative "
+572,TUR_NCSS.pdf,44,Precautions and regulations - 
+573,TUR_NCSS.pdf,44,"Universities, ( Rel ) "
+574,TUR_NCSS.pdf,44,"Ngos, ( Rel ) "
+575,TUR_NCSS.pdf,44,National Cyber Security Strategy and 2013-2014 Action Plan 
+576,TUR_NCSS.pdf,45,Responsible ( Res ) and 
+577,TUR_NCSS.pdf,45,"Relevant ( Rel ) Organizations, "
+578,TUR_NCSS.pdf,45,"Creating promotion mechanisms for public organizations to Ministry of Science Industry and prefer in their information and communication systems, Technology ( Res ), "
+579,TUR_NCSS.pdf,45,"The products which are developed nationally are Affairs and Communications (, Rel, ), "
+580,TUR_NCSS.pdf,45,"Assessed in terms of security and are certified Ministry of Development, ( Rel ) "
+581,TUR_NCSS.pdf,45,"Ministry of Transport, Maritime "
+582,TUR_NCSS.pdf,45,"The products which were assessed in terms of security and were certified in cases where there is not any national product, "
+583,TUR_NCSS.pdf,45,Ministry of Customs and 
+584,TUR_NCSS.pdf,45,Trade ( Rel ) 
+585,TUR_NCSS.pdf,45,"Ministry of Economy, (, Rel, ), "
+586,TUR_NCSS.pdf,45,"Ministry of Finance, ( Rel, ) "
+587,TUR_NCSS.pdf,45,Authority ( Rel ) 
+588,TUR_NCSS.pdf,45,National Cyber Security Strategy and 2013-2014 Action Plan 
+589,TUR_NCSS.pdf,46,"7 Extending the Scope of the National Security Mechanisms, No Action, "
+590,TUR_NCSS.pdf,46,Responsible ( Res ) and 
+591,TUR_NCSS.pdf,46,"Relevant ( Rel ) Organizations, "
+592,TUR_NCSS.pdf,46,Determining the responsibilities of public organizations in case of cyber security incidents in the cyber space and how to March 2014 
+593,TUR_NCSS.pdf,46,Ensure coordination at national level 
+594,TUR_NCSS.pdf,46,Determining high priority potential attack scenarios targeting cyber security 
+595,TUR_NCSS.pdf,46,"The country, including the effects of these attacks, Determining priority actions required to be carried out to analyze and improve the status of the mechanisms that would be used in case of potential cyber security incidents"
+596,TUR_NCSS.pdf,46," Cyber Security Council ( Res ), "
+597,TUR_NCSS.pdf,46,"Ministry of Interior (, Rel ) "
+598,TUR_NCSS.pdf,46,Defense ( Rel ) 
+599,TUR_NCSS.pdf,46,"Ministry of Justice, ( Rel ) "
+600,TUR_NCSS.pdf,46,General Secretariat of the 
+601,TUR_NCSS.pdf,46,"National Security Council, ( Rel ) "
+602,TUR_NCSS.pdf,46,"Chief of Staff, ( Rel ) "
+603,TUR_NCSS.pdf,46,The undersecretariat of National 
+604,TUR_NCSS.pdf,46,"Intelligence Organization, ( Rel, ) "
+605,TUR_NCSS.pdf,46,The undersecretariat of Public 
+606,TUR_NCSS.pdf,46,"Order and Security, ( Rel ) "
+607,TUR_NCSS.pdf,46,"The Turkish National Police, ( Rel ), The Turkish Gendarmerie, ( Rel ) "
+608,TUR_NCSS.pdf,46,National Cyber Security Strategy and 2013-2014 Action Plan 
+609,TUR_NCSS.pdf,47,"[, The page intentionally left blank "
+610,TUR_NCSS.pdf,47,National Cyber Security Strategy and 2013-2014 Action Plan 

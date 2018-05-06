@@ -85,6 +85,7 @@ Once finish classifying by categories, sentences were tagged by sub-categories w
 ## Results and Visualization
 PCA
 ![PCA][DOC_PCA]
+
 RBM
 ![RBM][DOC_RBM]
 ## License

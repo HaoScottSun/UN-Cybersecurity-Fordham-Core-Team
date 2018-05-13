@@ -74,10 +74,10 @@ The machine learning model could only deal with numeric data, so we used Word2ve
 Doc2vec was deployed to transform our sentences into numeric vectors.
 
 ### Classify by categories
-Firstly, sentences were classified by calculating the similarity to each category. Category labels will be tagged when its statistical significance is more than 95%.
+Firstly, sentences were classified by calculating the similarity to each category. Category labels will be tagged when its statistical significance is more than 99.9988%.
 
 ### Classify by sub-categories
-Once finish classifying by categories, sentences were tagged by sub-categories whose similarity  are of more than 95% significance.
+Once finish classifying by categories, sentences were tagged by sub-categories whose similarity  are of more than 99.9988% significance.
 
 ### Examples
 ![example][sentence_example]

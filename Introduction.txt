@@ -1,0 +1,26 @@
+Hi!
+
+Here is the solution of UN Cybersecurity Project from Fordham core team.
+
+Team Members:
+Scott Sun
+Hanson Dong
+Erica Xu
+Clark Chen
+Leo Lu
+
+Our model is briefly introduced in the README.md.
+
+Data we used are in the '1 Data' folder.
+
+Codes for data processing and modeling are in the '2 Code' folder.
+
+Topic modeling and Labeled results are output as CSV file in the '3 Results' folder.
+
+And some visualization charts of our models are in thr '4 Pictures' folder.
+
+We will keep updating this project and further analysis will be done soon.
+
+Hope you have a good trip here~
+
+05-06-2018
